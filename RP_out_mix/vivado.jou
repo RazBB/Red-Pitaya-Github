@@ -1,0 +1,86 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Aug 22 11:18:09 2016
+# Process ID: 12184
+# Current directory: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12900 C:\Users\RazBB\Desktop\RP_FPGA\RP_out_mix\RP_out_mix.xpr
+# Log file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/vivado.log
+# Journal file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.xpr
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+reset_run impl_1 -prev_step 
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+set_property -dict [list CONFIG.Amplitude_Mode {Unit_Circle} CONFIG.PINC1 {1100010010011}] [get_ips Sine_wave]
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.Output_Width {20}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.Output_Width {14}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.Output_Width {24} CONFIG.Latency {11}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1 -noclean_dir 
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.Output_Width {14} CONFIG.Latency {9}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1100010010011}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1

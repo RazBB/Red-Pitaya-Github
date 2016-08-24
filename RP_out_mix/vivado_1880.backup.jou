@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Thu Aug 18 14:22:06 2016
+# Process ID: 1880
+# Current directory: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9192 C:\Users\RazBB\Desktop\RP_FPGA\RP_out_mix\RP_out_mix.xpr
+# Log file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/vivado.log
+# Journal file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.xpr
+update_compile_order -fileset sources_1
+remove_files -fileset dds_PG_pw24 C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/dds_PG_pw24/dds_PG_pw24.xci
+remove_files -fileset dds_LUT_pw24_ow24 C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/dds_LUT_pw24_ow24/dds_LUT_pw24_ow24.xci
+remove_files -fileset dds_LUT_pw24_ow16 C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/dds_LUT_pw24_ow16/dds_LUT_pw24_ow16.xci
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1101000}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.PINC1 {1101000}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+set_property -dict [list CONFIG.Amplitude_Mode {Full_Range} CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1

@@ -1,0 +1,382 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/plugin_ism.pdf
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/plugin_ism.pdf
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/plugin_ism.pdf
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+
+\\ Example: 
+\\ [topic hsim_wavewin_sim]
+\\ file=plugin_ism.pdf
+
+
+\\File menu
+
+[topic file-new]
+file=isehelp/plugin_ism.pdf
+
+[* New dialog box]
+file=isehelp/plugin_ism.pdf
+
+[topic file-print-preview]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-print-preview-dlg]
+file=isehelp/plugin_ism.pdf
+
+[topic file-print]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-print-setup-dlg]
+file=isehelp/plugin_ism.pdf
+
+[topic file-exit]
+file=isehelp/plugin_ism.pdf 
+
+\\Edit menu
+
+[topic isim-rename]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-wave-objects-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-expand]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-collapse]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-show-drivers]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-ungroup]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-markers-measures-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-toggle-marker]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-previous-marker]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-next-marker]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-new-group]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-new-divider]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-new-virtual-bus]
+file=isehelp/plugin_ism.pdf
+
+[topic edit-preferences]
+file=isehelp/plugin_ism.pdf 
+
+[topic isim-main-pref-page]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-color-pref-page]
+file=isehelp/plugin_ism.pdf
+
+\\View menu
+
+[* Console]
+file=isehelp/plugin_ism.pdf
+
+[* Search Results]
+file=isehelp/plugin_ism.pdf
+
+[* Source Files]
+file=isehelp/plugin_ism.pdf
+
+[* Breakpoints]
+file=isehelp/plugin_ism.pdf
+
+[* Objects]
+file=isehelp/plugin_ism.pdf
+
+[*Instances and Processes]
+file=isehelp/plugin_ism.pdf
+
+[topic StandardToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic EditToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic ViewToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic ISimToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic WindowToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic HelpToolBar]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-zoom-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic view-zoom-in]
+file=isehelp/plugin_ism.pdf
+
+[topic view-zoom-out]
+file=isehelp/plugin_ism.pdf
+
+[topic view-zoom-full]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-zoomToCursors]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-cursor-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-previous-transition]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-next-transition]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-snapToEdges]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto-start]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto-end]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-swapCursors]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-floating-ruler]
+file=isehelp/plugin_ism.pdf
+
+\\Simulation menu
+
+[topic isim-restart]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-run-all]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-run-for]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-step]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-break]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-quit]
+file=isehelp/plugin_ism.pdf
+
+\\Help menu
+
+[topic isim-manage-license]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-obtain-license]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-help-manuals]
+file=isehelp/plugin_ism.pdfplugin_ism.pdf
+
+[topic isim_user_guide]
+file=isehelp/plugin_ism.pdfplugin_ism.pdf
+
+\\Panels and Right-click
+
+[topic isim-object-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto-source]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-serach]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-search-dialog]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-add-to-wave-config]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-select-in-wave-config]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-input-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-output-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-inout-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-buffer-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-linkage-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-declared-signal-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-parameter-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-variable-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-event-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-sync-time-mode]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-instance-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-close-database]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-set-active-simulation]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-source-file-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-console-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-breakpoint-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-delete-all-breakpoints]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-search-result-panel]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-clear-all]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-mdi-window]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-name-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-short-name]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-long-name]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-custom-name]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-radix-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-binary]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-hexadecimal]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-unsigned-decimal]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-signed-decimal]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-octal]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-ascii]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-signal-color-menu]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-reverse-bit-order]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-show-all-elements]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-delete-marker]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto-start]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-goto-end]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-time-pref-page]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-force-dialog]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-clock-dialog]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-memory-window]
+file=isehelp/plugin_ism.pdf
+
+//toolbar icons
+
+[topic isim-vhdl-entity]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vhdl-package]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vhdl-block]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vhdl-process]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vlog-module]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vlog-task]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vlog-block]
+file=isehelp/plugin_ism.pdf
+
+[topic isim-vlog-process]
+file=isehelp/plugin_ism.pdf

@@ -1,0 +1,54 @@
+/*body {margin: 0; font-size: 12px; font-family: Arial, Geneva, Verdana, Helvetica;}*/
+body {margin: 0; font-size: .75em; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; background: #CCC url(./images/body_bg.jpg) repeat-y;}
+#main-body {vertical-align: top; width: 600px; margin: 0; padding: 0 0 20px 8px; background: #FFFFFF;}
+#main-body p, p {margin: 3px 0px 1em 0px; padding: 0;}
+#main-body p.top, p.top {margin: 1em 0px 1em 0px; padding: 0;}
+#main-body p.top-strong, p.top-strong {margin: 1em 0px 1em 0px; padding: 0; font-weight: bold;}
+.learn-silhome {margin: 0 0 0 0; padding: 0 0 0 0; border-bottom: 7px solid #FFF;}
+.learn-dthome {margin: 0 0 0 0; padding: 10px 0 0 0;}
+
+/*breadcrumb styles*/
+/*.breadcrumbs {font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-size: 11px; margin: 1px 0 1em 0px;} */
+.breadcrumbs {font-size: 92%; margin: 1px 0 1em 0px;}
+p.img-desc {font-size: 92%; margin: 0; padding: 0; font-style: italic; border-bottom: 20px solid #FFF;}  
+
+/*Headings*/
+h1 {font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-weight: bold; font-size: 1.25em; color: #810017; margin: 0 0 1px 0px; padding: 0px; border-bottom: 1px solid #990033;}
+h1.no-underline {border-bottom: none;}
+h3 {font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-weight: bold; font-size: 1em; color: #000000; background: url(/images/dotted_div_1.gif) 0 14px repeat-x; padding: 0 0 2px 0; margin: 10px 0 3px 0;}
+h3.no-underline {background: none;}
+h4 {font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-weight: bold; font-size: 1em; color: #810017; margin: 10px 0 3px 0; padding: 0;} /*092905*/
+h4.dotted-img-bkgd {background: url(/images/dotted_div_1.gif) 0 14px repeat-x; border: none; padding: 0 0 2px 0; margin: 10px 0 3px 0;} /*mod 092905*/
+h4.img-desc {font-weight: bold; font-size: 92%; color: #810017; margin: 5px 0 3px 0; padding: 0;}
+
+/*List style*/
+ul {list-style-image: url(/bvdocs/images/home_arrowV2005.gif); list-style-type: square; list-style-position: outside; margin: 0 0 0 0; padding: 0 0 8px 20px;} /* list styles must be in long format due to IE bug */
+ol {margin: 0 0 0 20px; padding: 0 0 8px 15px;} /* list styles must be in long format due to IE bug */
+li.second-level {list-style-image: url(/images/bullet_level2.gif); list-style-type: square; list-style-position: inside; margin: 0 0 0 0; padding: 1px 0 1px 0px;}
+.list-right {float: right; width: 44%;} /* http://devlinx/support/gsd */
+.list-left {float: left; width: 44%;} /* http://devlinx/support/gsd */
+.bold:first-line {font-weight: bold;}
+ul.plain {margin: 0 0 0 -20px; list-style: none; list-style-image: none;} /*standardized with new DT pages - flushes left*/
+li.plain {margin: 0 0 0 -20px; list-style: none; list-style-image: none;}
+ul.anchor {margin: 0; padding: 10px 0 15px 20px;} /*DT Leadership page*/
+
+/*Misc.*/
+div.column-clear, div.column1-clear {clear: both; margin: 0; padding: 0;}
+.body-img {margin: 1em 0 0 0; padding: 10px 0; text-align: center;}
+
+/*Table Style*/
+#new-table, .new-table {border: 1px solid #C4C4C4; border-width: 0 0 1px 1px; margin: 10px 0 20px 0; padding: 0;}
+#table-heading, .table-heading {background-color: #94002E; color: #FFFFFF; text-align: left; margin: 0; padding: 3px 0 3px 5px;}
+tr.table-heading2 td {font-weight: bold; margin: 0; padding: 2px 0 2px 5px; background-color: #D1D1D1; border-right: 1px solid #C4C4C4;}
+tr.table-content td {margin: 0; padding: 3px 0 3px 5px; vertical-align: top; border-right: 1px solid #C4C4C4;}
+tr.odd {background-color:#F2F2F2;}/* unqiue style to this page */
+
+/*Japanese event styles*/
+.column-clear2 {clear: both; margin: 0; padding: 0; line-height:1px;}
+.japan-wrapper {float: left; background: none; width: 591px; margin: 0; padding: 0;}
+.japan-wrapper img {float:right; margin-top:-100px;}
+.jpdsp-productimg {float: left; margin: 3px 8px 0 0; padding: 0;}
+tr.odd-bold {background-color:#F2F2F2; font-weight:bold; vertical-align:top;}
+tr.even-bold {background-color:#FFFFFF; font-weight:bold;}
+.odd-row {background-color:#F2F2F2; padding: 1px 5px 0 5px;}
+.even-row {padding: 1px 5px 1px 5px;}

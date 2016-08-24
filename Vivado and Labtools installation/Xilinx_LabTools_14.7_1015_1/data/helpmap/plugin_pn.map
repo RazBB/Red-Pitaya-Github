@@ -1,0 +1,2000 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/pn_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/pn_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/pn_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//FILE MENU
+
+
+
+[topic pn-file-new-project]
+file=isehelp/ise_p_creating_a_project.htm
+
+[topic pn-file-open-project]
+file=isehelp/pn_p_opening_a_project.htm
+title=Opening a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-open-example]
+file=isehelp/ise_p_open_ise_example.htm
+
+[topic pn-file-close-project]
+file=isehelp/pn_p_closing_a_project.htm
+title=Closing a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-save-project-as]
+file=isehelp/pn_p_saving_a_project.htm
+title=Saving a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-project-browser]
+file=isehelp/ise_c_project_browser.htm
+title=Using the Project Browser [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-browser-dialog]
+file=isehelp/ise_c_project_browser.htm
+title=Using the Project Browser [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-copy-project]
+file=isehelp/ise_c_project_copy.htm
+title=Creating a Copy of a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-new]
+file=isehelp/pn_p_creating_a_new_file.htm
+title=Creating a New File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-open]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-close]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-save]
+file=isehelp/pn_c_saving_a_file.htm
+title=Saving a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-save-as]
+file=isehelp/pn_c_saving_a_file.htm
+title=Saving a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-save-all]
+file=isehelp/pn_c_saving_a_file.htm
+title=Saving a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-print-preview]
+file=isehelp/pn_p_printing_a_file.htm
+title=Printing a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-print]
+file=isehelp/pn_p_printing_a_file.htm
+title=Printing a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file1]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file2]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file3]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file4]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file5]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file6]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file7]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file8]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file9]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file10]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file11]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file12]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file13]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file14]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file15]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file16]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file17]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file18]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file19]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-mru-file20]
+file=isehelp/pn_c_opening_closing_files.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file1]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file2]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file3]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file4]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file5]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file6]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file7]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file8]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file9]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file10]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file11]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file12]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file13]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file14]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file15]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file16]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file17]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file18]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file19]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-project-mru-file20]
+file=isehelp/pn_p_opening_a_recent_project.htm
+title=Opening and Closing Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-exit]
+file=isehelp/pn_p_exit_ise.htm
+title=Closing ISE [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+//EDIT MENU
+
+
+[topic edit-undo]
+file=isehelp/pn_p_undoing_redoing_actions.htm
+title=Undoing and Redoing Actions [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-redo]
+file=isehelp/pn_p_undoing_redoing_actions.htm
+title=Undoing and Redoing Actions [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-cut]
+file=isehelp/pn_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-copy]
+file=isehelp/pn_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-paste]
+file=isehelp/pn_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-delete]
+file=isehelp/pn_p_deleting.htm
+title=Delete Command [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-find]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-find-next]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-find-previous]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-find-replace]
+file=isehelp/ite_p_replace.htm
+title=Replacing Text [ISE Text Editor]
+type=xilhelp
+type=xilhelp
+
+
+[topic find-in-files]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic show-next-fifhit]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic show-previous-fifhit]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic stop-fifjob]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic pn-edit-language-templates]
+file=isehelp/ise_p_lt_using_language_templates.htm
+title=Using Language Templates [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-select-all]
+file=isehelp/pn_p_using_select_all.htm
+title=Using Select All [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+//pn-edit-message-filters handled in designsummary
+
+//edit-object-properties handled in plugin_sse
+
+[topic edit-preferences]
+file=isehelp/pn_p_setting_ise_preferences.htm
+title=Setting ISE Preferences [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+//FIND IN FILES TOOLBAR
+
+[topic clear-fifresults]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic show-current-fifhit]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic save-fifhits]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+//LANGUAGE TEMPLATE TOOLBAR
+
+
+[topic template-new-folder]
+file=isehelp/ise_p_lt_creating_custom_language_templates.htm
+
+[topic template-new]
+file=isehelp/ise_p_lt_creating_custom_language_templates.htm
+
+[topic template-delete-folder]
+file=isehelp/ise_p_lt_creating_custom_language_templates.htm
+
+[topic template-use-in]
+file=isehelp/ise_c_lt_adding_code_using_language_templates.htm
+
+[topic template-save]
+file=isehelp/ise_p_lt_creating_custom_language_templates.htm
+
+
+//EMBEDDED BROWSER TOOLBAR
+
+[topic gc-view-embedbrowser-goback]
+file=isehelp/pn_r_html_browser_toolbar.htm
+
+[topic gc-view-embedbrowser-goforward]
+file=isehelp/pn_r_html_browser_toolbar.htm
+
+[topic gc-view-embedbrowser-stop]
+file=isehelp/pn_r_html_browser_toolbar.htm
+
+
+
+
+//VIEW MENU
+
+
+[topic FifResults1DockWidget]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-timing-constraints]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-timing-inspector]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-errors]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-warnings]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-tcl-console]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-console]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic pn-view-panels-symbols]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-options]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-view-by-category]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic pn-view-panels-getting-started]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-design]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-files]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-panels-libraries]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic view-toolbar-large-icons]
+file=isehelp/pn_p_showing_large_icons_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-standard]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-edit]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-view]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-window]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-help]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-project-manager]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-toolbars-language-templates]
+file=isehelp/pn_p_showing_hiding_toolbars.htm
+title=Showing and Hiding Toolbars [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-transcript]
+file=isehelp/pn_p_showing_hiding_transcript_window.htm
+title=Showing and Hiding the Transcript Window [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic view-statusbar]
+file=isehelp/pn_p_showing_hiding_status_bar.htm
+
+//zoom calls handled in plugin_sse
+
+//gc-rv-browser-back & gc-rv-browser-forward handled in designsummary
+
+
+[topic view-go-back]
+file=isehelp/dsm_c_open_nav_design_summary.htm
+
+[topic view-go-forward]
+file=isehelp/dsm_c_open_nav_design_summary.htm
+
+
+
+
+[topic view-refresh]
+file=isehelp/pn_p_refreshing_windows.htm
+title=Refreshing Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+ 
+
+
+[topic pn-view-file-names]
+file=isehelp/pn_p_showing_file_names_paths.htm
+title=Showing and Hiding Source File Names and Paths [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-display-full-paths]
+file=isehelp/pn_p_showing_file_names_paths.htm
+title=Showing and Hiding Source File Names and Paths [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-display-relative-paths]
+file=isehelp/pn_p_showing_file_names_paths.htm
+title=Showing and Hiding Source File Names and Paths [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-view-display-file-names-only]
+file=isehelp/pn_p_showing_file_names_paths.htm
+title=Showing and Hiding Source File Names and Paths [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+[topic pn-change-orientation]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Panels and Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+//PROJECT MENU
+
+
+
+[topic pn-project-new-source]
+file=isehelp/ise_p_creating_a_new_source.htm
+
+[topic pn-project-add-source]
+file=isehelp/ise_p_adding_a_source_to_a_project.htm
+
+[topic pn-project-add-copy-of-source]
+file=isehelp/ise_p_adding_a_copy_of_a_source_to_a_project.htm
+
+
+
+[topic pn-project-new-library]
+file=isehelp/ise_c_working_with_vhdl_libraries.htm
+
+[topic pn-project-automatic-compile-order]
+file=isehelp/ise_c_setting_custom_compile_order.htm
+
+[topic pn-import-compile-order]
+file=isehelp/ise_c_importing_custom_compile_file_list.htm
+
+
+
+[topic pn-disable-hierarchy-reparsing]
+file=isehelp/ise_c_understanding_design_parser.htm
+title=Understanding the Front-End Design Parser
+type=xilhelp
+type=xilhelp
+
+[topic pn-refresh-hierarchy]
+file=isehelp/ise_c_understanding_design_parser.htm
+title=Understanding the Front-End Design Parser
+type=xilhelp
+type=xilhelp
+
+
+
+
+[topic pn-project-cleanup-project-files]
+file=isehelp/pn_p_cleaning_up_project_files.htm
+title=Cleaning up Project Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-archive]
+file=isehelp/ise_c_project_archive.htm
+title=Creating a Project Archive [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-generate-tcl-script]
+file=isehelp/ise_p_generate_tcl_script.htm
+
+
+
+
+[topic pn-project-source-control-export]
+file=isehelp/ise_p_source_control_exporting.htm
+
+[topic pn-project-source-control-import]
+file=isehelp/ise_p_source_control_importing.htm
+
+
+[topic pn-design-goals-and-strategies]
+file=isehelp/ise_c_design_strategies.htm
+
+[topic gq-design-summary]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+[topic pn-project-design-properties]
+file=isehelp/pn_p_changing_design_properties.htm
+
+
+
+//SOURCE MENU
+
+[topic pn-source-open]
+file=isehelp/pn_p_opening_source_file.htm
+title=Opening a Source File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-source-set-as-top-module]
+file=isehelp/pn_p_setting_top_module.htm
+title=Setting a Top-Level Source File
+type=xilhelp
+type=xilhelp
+
+[topic pn-source-smartguide]
+file=isehelp/ise_p_using_smartguide.htm
+
+[topic pn-source-remove]
+file=isehelp/ise_p_remove_files_from_project.htm
+
+[topic pn-source-move-to-library]
+file=isehelp/ise_c_working_with_vhdl_libraries.htm
+
+[topic pn-source-convert-tbw]
+file=isehelp/pn_p_converting_tbw.htm
+
+[topic pn-source-properties]
+file=isehelp/pn_p_changing_source_properties.htm
+title=Changing SourceProperties [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+//PROCESS MENU
+
+
+
+[topic pn-process-implement-design]
+file=isehelp/ise_p_implementing_the_top_module.htm
+
+[topic pn-process-run]
+file=isehelp/ise_p_running_processes.htm
+
+[topic pn-process-rerun]
+file=isehelp/ise_p_running_processes.htm
+
+[topic pn-process-rerun-all]
+file=isehelp/ise_p_running_processes.htm
+
+[topic pn-process-stop]
+file=isehelp/ise_p_running_processes.htm
+
+[topic pn-process-open-without-updating]
+file=isehelp/ise_p_running_processes.htm
+
+[topic pn-process-force-successful]
+file=isehelp/pn_p_forcing_process_up_to_date.htm
+
+[topic pn-process-properties]
+file=isehelp/ise_p_setting_process_properties.htm
+
+
+
+
+//TOOLS MENU
+
+
+
+[topic pn-tools-constraints-editor]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-manage-cores]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-planahead-pinplan-pre-synthesis]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-planahead-pinplan-post-synthesis]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-planahead-floorplan-area-io-logic]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-planahead-analyze-timing-floorplan-design]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-schematic-viewer-rtl]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-schematic-viewer-technology]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-timing-analyzer-post-map]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-timing-analyzer-post-place-and-route]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-timing-analyzer-post-fit]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-fpga-editor-post-map]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-fpga-editor-post-place-and-route]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-xpower-analyzer]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-impact]
+file=isehelp/ise_c_using_tools_menu.htm
+
+[topic pn-tools-smartxplorer]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+[topic pn-tools-smartxplorer-results]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+
+
+//WINDOW MENU
+
+
+
+[topic window-new]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-close]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-close-all]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-next]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-previous]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-maximize]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-minimize-all]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-cascade]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-tile-horizontally]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-tile-vertically]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-float]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-dock]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window1]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window2]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window3]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window4]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window5]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window6]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window7]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window8]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-list-window9]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+//LAYOUT MENU
+
+[topic pn-layout-load-default-layout]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-save-layout-as]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-load-layout-item]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-remove-layout-item]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+
+[topic layout-remove-layout-all-items]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-export-layouts]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-import-layouts]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+
+
+
+//HELP MENU
+
+
+
+[topic help-topics]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-software-manuals]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-search-manuals]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-support-home]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-appnotes-home]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-webcase-home]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-xilinx-user-community ]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-xilinx-home]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-ip-center]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-download-center]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-design-resources]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-tutorials-on-the-web]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+title=Using Xilinx Help [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-whats-new]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-whats-new-in-projnav]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+
+[topic help-webtalk]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-xinfo]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic pn-manage-license]
+file=isehelp/ise_c_getting_software_licenses.htm
+title=Getting a Software License or Registration ID [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-obtain-license]
+file=isehelp/ise_c_getting_software_licenses.htm
+title=Getting a Software License or Registration ID [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-tip-of-the-day]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-about]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic help-xilinxnotify]
+file=isehelp/ise_p_faq_get_sw_updates.htm
+title=Getting the Latest Software Updates [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-check-for-updates]
+file=isehelp/ise_p_faq_get_sw_updates.htm
+title=Getting the Latest Software Updates [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+//DIALOG BOXES
+
+
+[topic pn-design-view-elf-xmp-dialog]
+file=isehelp/pn_db_elf_xmp_file_association.htm
+title=ELF/XMP File Association Dialog Box
+type=xilhelp
+type=xilhelp
+
+[topic pn-design-view-xmp-elf-dialog]
+file=isehelp/pn_db_xmp_elf_file_association.htm
+title=XMP/ELF File Association Dialog Box
+type=xilhelp
+type=xilhelp
+
+
+
+[topic pn-compare-projects-dialog]
+file=isehelp/ise_c_comparing_projects.htm
+title=Comparing Projects
+type=xilhelp
+type=xilhelp
+
+
+[topic layout-save-layout-as-dialog]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+[topic layout-export-layouts-dialog]
+file=isehelp/pn_c_setting_window_layout.htm
+title=Setting the Window Layout
+type=xilhelp
+type=xilhelp
+
+
+
+
+[topic pn-convert-tbw-to-hdl-select]
+file=isehelp/pn_p_converting_tbw.htm
+title=Convert TBW to HDL Test Bench Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic pn-select-constraint-file-dialog]
+file=isehelp/pn_db_select_constraints_file.htm
+title=Select Constraints File Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic pn-project-browser-dialog]
+file=isehelp/ise_c_project_browser.htm
+title=Using the Project Browser [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic process-stop-dialog]
+file=isehelp/pn_db_stop_process.htm
+title=Abort Process Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-about]
+file=isehelp/pn_db_about_projnav.htm
+title=About Project Navigator Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic GuiC::Clip::SearchDialog]
+file=isehelp/pn_db_advanced_search.htm
+title=Advanced Search Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-cleanup-project-files-dialog]
+file=isehelp/pn_db_cleanup_project_files.htm
+title=Cleanup Project Files Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-preference]
+file=isehelp/pn_db_console_options.htm
+title=Console Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-source-association-dialog]
+file=isehelp/pn_db_adding_source_files.htm
+title=Adding Source Files Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-source-smartguide-dialog]
+file=isehelp/ise_p_using_smartguide.htm
+
+
+
+
+[topic pn-design-view-properties-dialog]
+file=isehelp/pn_db_design_view_properties.htm
+title=Source Properties - Design View Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-include-file-reference-dialog]
+file=isehelp/pn_db_include_file_references.htm
+title=Source Properties - Include File References Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-hardware-cosimulation-dialog]
+file=isehelp/pn_db_hardware_cosimulation.htm
+title=Source Properties - Hardware Cosimulation Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+
+
+
+
+[topic Gq_FindReplaceDialog]
+file=isehelp/pn_p_using_find.htm
+title=Using Find and Find Next [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-in-files-dialog]
+file=isehelp/pn_db_find_in_files.htm
+title=Find in Files Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-locate-missing-files-dialog]
+file=isehelp/pn_db_locate_missing_source_files.htm
+title=Locate Missing Source Files Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-create-tcl-script]
+file=isehelp/ise_p_generate_tcl_script.htm
+
+
+[topic process-properties-dialog-design-goals-and-strategies-page]
+file=isehelp/ise_c_design_strategies.htm
+
+
+[topic pn-design-goals-and-strategies-dialog]
+file=isehelp/ise_p_design_strategy_edit.htm
+
+[topic pn-source-move-to-library-dialog]
+file=isehelp/pn_db_move_to_library.htm
+title=Move to Library Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic file-new-dialog]
+file=isehelp/pn_db_new.htm
+title=New Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-create-new-library-dialog]
+file=isehelp/ise_c_working_with_vhdl_libraries.htm
+title=New Library Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic pn-file-copy-project-dialog]
+file=isehelp/ise_c_project_copy.htm
+title=Creating a Copy of a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-copy-additional-files-dialog]
+file=isehelp/ise_c_project_copy.htm
+title=Creating a Copy of a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic pn-file-new-project-dialog]
+file=isehelp/pn_db_new_project.htm
+title=New Project Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-import-design-dialog]
+file=isehelp/pn_db_import_netlist.htm
+title=Import Netlist (NGC/NGO) Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+
+
+
+[topic save-modified-files-dialog]
+file=isehelp/pn_db_save_modified_files.htm
+title=Save Modified Files Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-source-control-export-destination-page]
+file=isehelp/ise_p_source_control_exporting.htm
+title=Exporting a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-source-control-export-source-files-to-export-page]
+file=isehelp/ise_p_source_control_exporting.htm
+title=Exporting a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-source-control-export-other-files-to-export-page]
+file=isehelp/ise_p_source_control_exporting.htm
+title=Exporting a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-source-control-export-wizard]
+file=isehelp/ise_p_source_control_exporting.htm
+title=Exporting a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-project-source-control-import-dialog]
+file=isehelp/ise_p_source_control_importing.htm
+title=Importing a Project [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+//NEW PROJECT WIZARD 
+
+
+[topic npw-device-property] 
+file=isehelp/pn_db_npw_device_properties.htm 
+title=New Project Wizard [Project Navigator] 
+type=xilhelp
+type=xilhelp
+
+[topic npw-edif-file-path-name]
+file=isehelp/pn_db_npw_import_edif_ngc_project.htm
+title=New Project Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic npw-file-path-name] 
+file=isehelp/pn_db_npw_create_new_project.htm 
+title=New Project Wizard [Project Navigator] 
+type=xilhelp
+type=xilhelp 
+
+[topic npw-summary-page]
+file=isehelp/pn_db_npw_project_summary.htm 
+title=New Project Wizard [Project Navigator] 
+type=xilhelp
+type=xilhelp 
+
+
+
+//NEW SOURCE WIZARD
+
+[topic nsw-select-source-type]
+file=isehelp/pn_db_nsw_select_source_type.htm
+title=New Source Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic nsw-associate-source]
+file=isehelp/pn_db_nsw_associate_source.htm
+title=New Source Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic nsw-define-module]
+file=isehelp/pn_db_nsw_define_hdl_module.htm
+title=New Source Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic nsw-ip-page]
+file=isehelp/pn_db_nsw_select_ip.htm
+title=New Source Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic nsw-summary]
+file=isehelp/pn_db_nsw_summary.htm
+title=New Source Wizard [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-open-example-dialog]
+file=isehelp/pn_db_open_example_project.htm
+title=Open Example Project Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-open-example-confirm-dialog]
+file=isehelp/ise_p_open_ise_example.htm
+
+[topic edit-preferences-dialog-proxy-settings-page]
+file=isehelp/pn_db_proxy_settings_options.htm
+title=Proxy Setting Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-preferences-dialog-software-updates-page]
+file=isehelp/pn_db_webupdate_options.htm
+title=Software Update Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-preferences-dialog-design-goals-and-strategies-page]
+file=isehelp/ise_p_design_strategy_edit.htm
+
+[topic edit-preferences-dialog-editors-page]
+file=isehelp/pn_db_editor_options.htm
+title=Editor Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-preferences-dialog-integrated-tools-page]
+file=isehelp/pn_db_integrated_tools_options.htm
+title=Integrated Tools Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-preferences-dialog-general-page]
+file=isehelp/pn_db_ise_general_options.htm
+title=ISE General Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic edit-preferences-process-completion-notification-page]
+file=isehelp/pn_db_process_complete_notify_options.htm
+
+[topic langtempl-preference-dialog]
+file=isehelp/pn_db_language_templates_options.htm
+title=Language Templates Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic rv-email-send-to-dlg]
+file=isehelp/pn_db_web_talk_preferences.htm
+
+[topic smxc-options]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+[topic gc-webbrowser-preference]
+file=isehelp/pn_db_html_browser_options.htm
+title=Web Browser Options [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-webtalk-preferences]
+file=isehelp/pn_db_web_talk_preferences.htm
+
+[topic print-preview-dialog]
+file=isehelp/pn_p_printing_a_file.htm
+title=Printing a File [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+
+
+
+[topic pn-design-properties-dialog]
+file=isehelp/pn_db_design_properties.htm
+title=Project Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+[topic pn-project-design-properties-dialog]
+file=isehelp/pn_db_design_properties.htm
+title=Project Properties Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+
+
+
+
+[topic pn-project-take-snapshot-dialog]
+file=isehelp/ise_n_snapshot_redirect.htm
+title=Looking for Snapshots? [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic help-tip-of-the-day-dialog]
+file=isehelp/pn_c_tip_of_day.htm
+title=Tip of the Day Dialog Box [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-update-project-dialog]
+file=isehelp/ise_p_migrating_ise_projects.htm
+
+
+
+
+//Panels
+
+
+[topic find-in-files-results]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Using Find in Files [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-design-views]
+file=isehelp/pn_r_design_panel.htm
+title=Design Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-file-views]
+file=isehelp/pn_r_files_panel.htm
+title=Files Panel[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-getting-started-views]
+file=isehelp/pn_r_getting_started_panel.htm
+title=Getting Started Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-library-views]
+file=isehelp/pn_r_library_tab.htm
+title=Libraries Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-process-views]
+file=isehelp/pn_r_design_panel.htm
+title=Design Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-page]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-in-files-results]
+file=isehelp/pn_p_using_find_in_files.htm
+title=Find in Files Results Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-transcript-errors-tab]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-transcript-warnings-tab]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-transcript-tcl-console-tab]
+file=isehelp/pn_r_using_tcl_tab.htm
+title=Using the Tcl Console Panel[Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+
+
+[topic pn-module-views]
+file=isehelp/pn_r_design_panel.htm
+title=Design Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-reference-views]
+file=isehelp/pn_r_library_tab.htm
+title=Libraries Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic pn-flow-views]
+file=isehelp/pn_r_design_panel.htm
+title=Design Panel [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+//Windows, Tabs
+
+[topic help-whats-this]
+file=isehelp/ise_r_using_xilinx_online_help.htm
+
+[topic gq-mdi-tabbar-close]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic window-close-others]
+file=isehelp/pn_c_arranging_windows.htm
+title=Arranging Windows [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic edit-find-from-combobox]
+file=isehelp/pn_p_using_find.htm
+title=Using Find and Find Next [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic langtempl-tree-window]
+file=isehelp/ise_p_lt_using_language_templates.htm
+
+[topic langtempl-editor-window]
+file=isehelp/ise_p_lt_using_language_templates.htm
+
+[topic embedded-browser]
+file=isehelp/pn_p_using_the_embedded_browser.htm
+title=Using the Embedded Browser [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-source-navigate]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-answer-record]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-translate-msg]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic gc-console-edit-clear]
+file=isehelp/pn_c_using_console_error_warning_tabs.htm
+title=Using the Console, Errors and Warnings Tab [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic smxc-results-view]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+[topic smxc-hide-column]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+[topic smxc-display-options]
+file=isehelp/ise_c_using_smartxplorer.htm
+
+
+
+
+//Right-click menu commands
+
+[topic pn-process-view-text-report]
+file=isehelp/pn_p_view_text_report.htm
+title=Viewing a Text Report [Project Navigator]
+type=xilhelp
+
+
+//Find Toolbar
+
+[topic find-bar]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-close-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-mode-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-replace-label]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-find-label]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic find-bar-find-combo]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-find-what-line-edit]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-type-label]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-type-combo]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-next-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic find-bar-previous-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-options-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-mark-all-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-select-all-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-advanced-search-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic find-bar-message-icon-label]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-message-text-label]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-replace-combo]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-replace-with-line-edit]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-replace-next-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+
+
+[topic find-bar-replace-previous-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+[topic find-bar-replace-all-button]
+file=isehelp/pn_p_using_find.htm
+title=Finding Text [Project Navigator]
+type=xilhelp
+type=xilhelp
+
+//PLUGIN_SSE FIX
+
+[topic seddq-edit-object-properties]
+file=isehelp/sse_p_getting_info.htm
+title=Getting Information about an Object [Schematic and Symbol Editors]
+type=xilhelp
+type=xilhelp
+
+[topic Sed::DqSymbolBrowser]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels
+type=xilhelp
+type=xilhelp
+
+[topic Sed::BqOptionsPage]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels
+type=xilhelp
+type=xilhelp
+
+[topic Sed::NqCategoryView]
+file=isehelp/pn_p_showing_hiding_panels.htm
+title=Showing and Hiding Panels
+type=xilhelp
+type=xilhelp

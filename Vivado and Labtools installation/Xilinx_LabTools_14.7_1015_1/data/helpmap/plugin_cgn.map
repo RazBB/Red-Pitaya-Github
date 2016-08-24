@@ -1,0 +1,250 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/cgn_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/cgn_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/cgn_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+
+[topic cg-dialog-custom_gui]
+file=isehelp/cgn_c_cust_gui_overview.htm
+title=Core Customization GUI Overview [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-compatibility]
+file=isehelp/cgn_p_viewing_data_sheets.htm
+title=Viewing an IP Core's Data Sheet [CORE Generator]
+type=xilhelp
+
+[topic cgdialog-coe-file_contents]
+file=isehelp/cgn_r_coe_file_syntax.htm
+title=COE File Syntax [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-project_options]
+file=isehelp/cgn_db_project_options.htm
+title=Project Options Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-new_project]
+file=isehelp/cgn_db_new_project.htm
+title=New Project Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-preferences]
+file=isehelp/cgn_db_preferences.htm
+title=Preferences Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-license_details]
+file=isehelp/cgn_db_license_status.htm
+title=License Status Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-license_feature_properties]
+file=isehelp/cgn_db_license_properties.htm
+title=License Properties Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-readme]
+file=isehelp/cgn_db_readme_txt.htm
+title=Readme File Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-resource_utilization]
+file=isehelp/cgn_db_core_viewer.htm
+title=Resource Utilization Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-arwz_component_name]
+file=isehelp/cgn_db_component_name.htm
+title=Component Name Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-main-function_view]
+file=isehelp/cgn_r_view_by_function.htm
+title=View by Function Panel [CORE Generator]
+type=xilhelp
+
+[topic cg-main-name_view]
+file=isehelp/cgn_r_view_by_name.htm
+title=View by Name Panel [CORE Generator]
+type=xilhelp
+
+[topic cg-main-generated_ip]
+file=isehelp/cgn_r_generated_ip.htm
+title=Generated IP Panel [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-project_option]
+file=isehelp/cgn_db_project_options.htm
+title=Project Options Dialog Box [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-import_existing_customized_ip]
+file=isehelp/cgn_p_import_core.htm
+title=Importing Existing Customized IP [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-regenerate_project_ip]
+file=isehelp/cgn_p_regenerate_core.htm
+title=Regenerating an IP Core [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-customize_ip]
+file=isehelp/cgn_p_create_custom_core.htm
+title=Creating a Customized IP Core [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-generate_ip]
+file=isehelp/cgn_p_regenerate_core.htm
+title=Regenerating an IP Core [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-upgrade_regenerate_ip]
+file=isehelp/cgn_p_regenerate_core.htm
+title=Regenerating an IP Core [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_data_sheet]
+file=isehelp/cgn_p_viewing_data_sheets.htm
+title=Viewing an IP Core Data Sheet [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_license_status]
+file=isehelp/cgn_p_view_lic_status.htm
+title=Viewing an IP Core License Status [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_product_webpage]
+file=isehelp/cgn_p_view_prod_webpage.htm
+title=Viewing an IP Core Product Webpage [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_version_info]
+file=isehelp/cgn_p_show_versions.htm
+title=Viewing Version Information [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_answer_records]
+file=isehelp/cgn_p_view_answer_records.htm
+title=Viewing Answer Records for an IP Core [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-view_read_me]
+file=isehelp/cgn_p_viewing_readme_file.htm
+title=Viewing a Generated IP Core's Output Files [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-upgrade_project_ip]
+file=isehelp/cgn_p_upgrading_project.htm
+title=Upgrading a Project [CORE Generator]
+type=xilhelp
+
+[topic cg-file-mru-file1]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file2]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file3]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file4]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file5]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file6]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file7]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file8]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file9]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cgn-file-mru-file10]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file11]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file12]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file13]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file14]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file15]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-file-mru-file16]
+file=isehelp/cgn_p_open_project.htm
+
+[topic cg-tool-updates_installer]
+file=isehelp/cgn_p_install_new_cores.htm
+title=Getting the Latest IP and Tool Updates [CORE Generator]
+type=xilhelp
+
+[topic cg-tool-new_project_button]
+file=isehelp/cgn_p_create_project.htm
+title=Creating a New Project [CORE Generator]
+type=xilhelp
+
+[topic cg-tool-open_project_button]
+file=isehelp/cgn_p_open_project.htm
+title=Opening a Project [CORE Generator]
+type=xilhelp
+
+[topic cg-tool-save_project_button]
+file=isehelp/cgn_p_save_project.htm
+title=Saving a Project [Core Generator]
+type=xilhelp
+
+[topic cg-tool-show_versions]
+file=isehelp/cgn_p_show_versions.htm
+title=Viewing Version Information [CORE Generator]
+type=xilhelp
+
+[topic cg-tool-search_button]
+file=isehelp/cgn_p_search_core.htm
+title=Searching for IP by Name [CORE Generator]
+type=xilhelp
+
+[topic cg-tool-updates_installer_button]
+file=isehelp/cgn_p_install_new_cores.htm
+title=Getting the Latet IP and Software Updates [CORE Generator]
+type=xilhelp
+
+[topic cg-dialog-upgrade_core]
+file=isehelp/cgn_p_upgrading_core.htm
+
+[topic cg-main-information]
+file=isehelp/cgn_r_window.htm
+
+[topic cg-manage_ip_menu]
+file=isehelp/cgn_c_manage_ip.htm
+title=Managing CORE Generator IP [CORE Generator]
+type=xilhelp

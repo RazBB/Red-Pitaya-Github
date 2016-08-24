@@ -1,0 +1,1368 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=platform_studio/ps_r_gst_whatsnew.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=platform_studio/ps_r_gst_whatsnew.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=platform_studio/ps_r_gst_whatsnew.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//GUI Parts
+ 
+[topic axi_interconnect_configuration_dialog]
+file=platform_studio/ps_c_hdw_axi_configuration_wizard.htm
+title=AXI Interconnect Configuration Dialog 
+type=xilhelp
+
+[topic bsbwiz_adddevicedlg]
+file=platform_studio/ps_c_bsb_adding_device_information_for_custom_boards.htm
+title=Add Device Dialog
+type=xilhelp
+
+[topic bsbwiz_application]
+file=platform_studio/ps_c_bsb_using_bsb.htm
+title=BSB Application Page
+type=xilhelp
+
+[topic bsbwiz_board]
+file=platform_studio/ps_c_bsb_selecting_development_board.htm
+title=BSB Board Page
+type=xilhelp
+
+[topic bsbwiz_cache]
+file=platform_studio/ps_c_bsb_using_bsb.htm
+title=BSB Cache Page
+type=xilhelp
+
+[topic bsbwiz_exportdevicedlg]
+file=platform_studio/ps_c_bsb_adding_device_information_for_custom_boards.htm
+title=Export Device Dialog
+type=xilhelp
+
+[topic bsbwiz_importdevicedlg]
+file=platform_studio/ps_c_bsb_adding_device_information_for_custom_boards.htm
+title=Import Device Dialog
+type=xilhelp
+
+[topic bsbwiz_peripheral]
+file=platform_studio/ps_c_bsb_adding_configuring_peripherals.htm
+title=BSB Peripheral Page
+type=xilhelp
+
+[topic bsbwiz_processor]
+file=platform_studio/ps_c_bsb_configuring_processor_system_settings.htm
+title=BSB Processor Page
+type=xilhelp
+
+[topic bsbwiz_summary]
+file=platform_studio/ps_c_bsb_using_bsb.htm
+title=BSB Summary Page
+type=xilhelp
+
+[topic bsbwiz_system]
+file=platform_studio/ps_c_bsb_selecting_zynq_board.htm
+title=BSB System Page
+type=xilhelp
+
+[topic bsbwiz_welcome]
+file=platform_studio/ps_c_bsb_using_bsb.htm
+title=BSB Welcome Page
+type=xilhelp
+
+[topic cipwiz_AdvancedAttributes]
+file=platform_studio/ps_c_ipw_advanced_attributes_ports_parameters.htm
+title=Parameter/Ports Attributes - Import
+type=xilhelp
+
+[topic cipwiz_AXI4MasterConfiguration]
+file=platform_studio/ps_c_ipw_configuring_axi4_master_interface.htm
+title=AXI4 Master Interface
+type=xilhelp
+
+[topic cipwiz_AXIStreamIf]
+file=platform_studio/ps_c_ipw_define_axi4stream_bus_interface_settings.htm
+title=AXI4 Stream Interface Settings
+type=xilhelp
+
+[topic cipwiz_BFMToolkit]
+file=platform_studio/ps_c_ipw_generate_peripheral_simulation_support.htm
+title=BFM - Create
+type=xilhelp
+
+[topic cipwiz_BusInterfaces]
+file=platform_studio/ps_r_ipw_bus_interfaces.htm
+title=Bus Interfaces - Import
+type=xilhelp
+
+[topic cipwiz_DesignBasicInformation]
+file=platform_studio/ps_c_ipw_selecting_bus_interface.htm
+title=Bus Interfaces - Create
+type=xilhelp
+
+[topic cipwiz_DesignName]
+file=platform_studio/ps_p_ipw_identifying_module_and_version.htm
+title=Peripheral Name - Create
+type=xilhelp
+
+[topic cipwiz_DMAFeatureConfiguration]
+file=platform_studio/ps_c_ipw_configuring_dma.htm
+title=DMA - Create
+type=xilhelp
+
+[topic cipwiz_DocFiles]
+file=platform_studio/ps_c_ipw_netlist_documentation_files.htm
+title=Documentation - Import
+type=xilhelp
+
+[topic cipwiz_FIFOFeatureConfiguration]
+file=platform_studio/ps_c_ipw_configuring_fifos.htm
+title=FIFO - Create
+type=xilhelp
+
+[topic cipwiz_FinishCreate]
+file=platform_studio/ps_c_ipw_generating_files_representing_design.htm
+title=Finish - Create
+type=xilhelp
+
+[topic cipwiz_FinishImport]
+file=platform_studio/ps_c_ipw_completing_peripheral_import.htm
+title=Finish � Import
+type=xilhelp
+
+[topic cipwiz_FSLBusInterface]
+file=platform_studio/ps_p_ipw_selecting_fsl_bus_interfaces.htm
+title=FSL Bus - Create
+type=xilhelp
+
+[topic cipwiz_FSLCoreDriverInterface]
+file=platform_studio/ps_c_ipw_setting_driver.htm
+title=FSL Driver - Create
+type=xilhelp
+
+[topic cipwiz_HDLAnalysisInfo]
+file=platform_studio/ps_c_ipw_hdl_analysis.htm
+title=HDL Analysis - Import
+type=xilhelp
+
+[topic cipwiz_IdentifyBusInterfacePortsAndParams]
+file=platform_studio/ps_c_ipw_identifying_bus_interface_ports_and_parameters.htm
+title=Identified Bus & Ports/Parms - Import
+type=xilhelp
+
+[topic cipwiz_InterruptFeatureConfiguration]
+file=platform_studio/ps_c_ipw_configuring_interrupt_handling.htm
+title=Interrupt - Create
+type=xilhelp
+
+[topic cipwiz_InterruptSignals]
+file=platform_studio/ps_c_ipw_identifying_interrupt_signals.htm
+title=Identify Interrupt Signals - Import
+type=xilhelp
+
+[topic cipwiz_Introduction]
+file=platform_studio/ps_c_ipw_using_create_import_ip_wizard.htm
+title=CIP Wizard Welcome
+type=xilhelp
+
+[topic cipwiz_IPCreationFlow]
+file=platform_studio/ps_c_ipw_starting_cip_wizard.htm
+title=IP Flow
+type=xilhelp
+
+[topic cipwiz_IPCreationFlowReview]
+file=platform_studio/ps_c_ipw_generate_peripheral_implementation_support.htm
+title=Peripheral Impl Support - Create
+type=xilhelp
+
+[topic cipwiz_IPICSignalSelection]
+file=platform_studio/ps_c_ipw_configure_ipic.htm
+title=IPIC - Create
+type=xilhelp
+
+[topic cipwiz_IPIFServiceSelection]
+file=platform_studio/ps_c_ipw_selecting_ipif_services.htm
+title=IPIF - Create
+type=xilhelp
+
+[topic cipwiz_IPIFServiceSelectionForAXI]
+file=platform_studio/ps_c_ipw_selecting_axi_ipif_services.htm
+title=Selecting AXI IPIF Services
+type=xilhelp
+
+[topic cipwiz_LocateHDLSources]
+file=platform_studio/ps_c_ipw_hdl_source_files.htm
+title=HDL Source Files - Import
+type=xilhelp
+
+[topic cipwiz_NetlistFiles]
+file=platform_studio/ps_c_ipw_netlist_documentation_files.htm
+title=Netlist - Import
+type=xilhelp
+
+[topic cipwiz_PLBv46IPIFServiceSelection]
+file=platform_studio/ps_c_ipw_selecting_ipif_services.htm
+title=PLBv46 IPIF � Create
+type=xilhelp
+
+[topic cipwiz_PLBv46MasterConfiguration]
+file=platform_studio/ps_c_ipw_configuring_master_interface.htm
+title=Configuring Master Interface
+type=xilhelp
+
+[topic cipwiz_PLBv46SlaveConfiguration]
+file=platform_studio/ps_c_ipw_configuring_slave_interface.htm
+title=Configuring Slave Interface
+type=xilhelp
+
+[topic cipwiz_RepositoryOrProjectDirectory]
+file=platform_studio/ps_c_ipw_identifying_physical_location_peripheral.htm
+title=Repos/Proj
+type=xilhelp
+
+[topic cipwiz_SourceFileTypes]
+file=platform_studio/ps_c_ipw_source_file_types.htm
+title=Source File Types - Import
+type=xilhelp
+
+[topic cipwiz_UserAddressRangeFeatureConfiguration]
+file=platform_studio/ps_c_ipw_configuring_address_ranges.htm
+title=Address - Create
+type=xilhelp
+
+[topic cipwiz_UserRegisterFeatureConfiguration]
+file=platform_studio/ps_c_ipw_configuring_software_accessible_registers.htm
+title=Register - Create
+type=xilhelp
+
+[topic clkwiz_overview]
+file=platform_studio/ps_c_clk_using_clock_generator.htm
+title=Clock Generator
+type=xilhelp
+
+[topic config-coproc-cpu]
+file=platform_studio/ps_c_cpw_configuring_coprocessor_cpu.htm
+title=Configure Coprocessor for CPU
+type=xilhelp
+
+[topic coproc-connection]
+file=platform_studio/ps_p_cpw_connecting_fsl_peripherals_different_slots_cpu.htm
+title=Connecting to Different FSL Slot
+type=xilhelp
+
+[topic CustomizableButtonsToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic custom-user-1]
+file=platform_studio/ps_p_prf_setting_custom_buttons.htm
+title=Add Custom Function - Button 1
+type=xilhelp
+
+[topic custom-user-2]
+file=platform_studio/ps_p_prf_setting_custom_buttons.htm
+title=Add Custom Function - Button 2
+type=xilhelp
+
+[topic dbgcfg_ConfigureSW]
+file=platform_studio/ps_c_dbw_configuring_sw_for_debugging.htm
+title=Configuring Software for Debugging
+type=xilhelp
+
+[topic dbgcfg_Misc]
+file=platform_studio/ps_c_dbw_debugging_features.htm
+title=Debugging Features
+type=xilhelp
+
+[topic dbgcfg_MonitorHWSignals]
+file=platform_studio/ps_c_dbw_monitoring_hardware_signals.htm
+title=Monitoring Hardware Signals
+type=xilhelp
+
+[topic dbg-xmd]
+file=platform_studio/ps_p_dbg_invoking_xmd.htm
+title=Run XMD Command
+type=xilhelp
+
+[topic dbg-gdb]
+file=platform_studio/ps_p_dbg_debugging_programs_gdb.htm
+title=Start Software Debugger Command
+type=xilhelp
+
+[topic DebugToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic DeviceConfigToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic drc-project]
+file=platform_studio/ps_c_gui_using_design_rule_check.htm
+title=Using Design Rule Check
+type=xilhelp
+
+[topic EditToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic edit-undo]
+file=platform_studio/ps_p_gui_undoing_redoing_actions.htm
+title=Undo Command
+type=xilhelp
+
+[topic edit-redo]
+file=platform_studio/ps_p_gui_undoing_redoing_actions.htm
+title=Redo Command
+type=xilhelp
+
+[topic edit-cut]
+file=platform_studio/ps_c_gui_using_cut_copy_paste.htm
+title=Cut Command
+type=xilhelp
+
+[topic edit-copy]
+file=platform_studio/ps_c_gui_using_cut_copy_paste.htm
+title=Copy Command
+type=xilhelp
+
+[topic edit-paste]
+file=platform_studio/ps_c_gui_using_cut_copy_paste.htm
+title=Paste Command
+type=xilhelp
+
+[topic edit-delete]
+file=platform_studio/ps_p_gui_deleting.htm
+title=Delete Command
+type=xilhelp
+
+[topic edit-select-all]
+file=platform_studio/ps_p_gui_selecting_text.htm
+title=Select All Command
+type=xilhelp
+
+[topic edit-unselect-all]
+file=platform_studio/ps_p_gui_unselecting_text.htm
+title=Unselect All Command
+type=xilhelp
+
+[topic edit-find]
+file=platform_studio/ps_p_gui_finding_text_in_file.htm
+title=Find Command
+type=xilhelp
+
+[topic edit-find-next]
+file=platform_studio/ps_p_gui_finding_text_in_file.htm
+title=Find Next Command
+type=xilhelp
+
+[topic edit-find-previous]
+file=platform_studio/ps_p_gui_finding_text_in_file.htm
+title=Find Previous Command
+type=xilhelp
+
+[topic edit-replace]
+file=platform_studio/ps_p_gui_using_replace.htm
+title=Replace Command
+type=xilhelp
+
+[topic edit-find-in-files]
+file=platform_studio/ps_p_gui_using_find_in_files.htm
+title=Find in Files Command
+type=xilhelp
+
+[topic edit-preferences]
+file=platform_studio/ps_c_prf_setting_xps_preferences.htm
+title=Setting XPS Preferences					
+type=xilhelp
+
+[topic FileToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic file-new]
+file=platform_studio/ps_p_gui_creating_a_new_file.htm
+title=New File Command
+type=xilhelp
+
+[topic file-open]
+file=platform_studio/ps_p_gui_opening_file.htm
+title=Open File Command
+type=xilhelp
+
+[topic file-close]
+file=platform_studio/ps_p_gui_closing_file.htm
+title=Close File Command
+type=xilhelp
+
+[topic file-exit]
+file=platform_studio/ps_p_gui_closing_xps.htm
+Title=Exit
+type=xilhelp
+
+[topic file-mru-list]
+file=platform_studio/ps_p_gui_opening_recent_file.htm
+title=Recent File List
+type=xilhelp
+
+[topic file-mru-file1]
+file=platform_studio/ps_p_gui_opening_recent_file.htm
+title=Recent File 1
+type=xilhelp
+
+[topic file-mru-file2]
+file=platform_studio/ps_p_gui_opening_recent_file.htm
+title=Recent File 2
+type=xilhelp
+
+[topic file-mru-file3]
+file=platform_studio/ps_p_gui_opening_recent_file.htm
+title=Recent File 3
+type=xilhelp
+
+[topic file-mru-file4]
+file=platform_studio/ps_p_gui_opening_recent_file.htm
+title=Recent File 4
+type=xilhelp
+
+[topic file-print]
+file=platform_studio/ps_p_gui_printing_a_file.htm
+title=Print File Command
+type=xilhelp
+
+[topic file-print-preview]
+file=platform_studio/ps_p_gui_printing_a_file.htm
+title=Print File Command
+type=xilhelp
+
+[topic file-proj-mru]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Recent Project List
+type=xilhelp
+
+[topic file-proj-mru-file1]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Recent Project 1
+type=xilhelp
+
+[topic file-proj-mru-file2]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Recent Project 2
+type=xilhelp
+
+[topic file-proj-mru-file3]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Recent Project 3
+type=xilhelp
+
+[topic file-proj-mru-file4]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Recent Project 4
+type=xilhelp
+
+[topic file-save]
+file=platform_studio/ps_p_gui_saving_a_file.htm
+title=Save File Command
+type=xilhelp
+
+[topic file-save-as]
+file=platform_studio/ps_p_gui_saving_a_file.htm
+title=Save File As Command
+type=xilhelp
+
+[topic file-save-makefile]
+file=platform_studio/ps_r_gst_whatsnew.htm
+title=Save Makefile Command
+type=xilhelp
+
+[topic gc-application-preference]
+file=platform_studio/ps_c_gui_setting_application_preferences.htm
+title=Setting Application Preferences
+type=xilhelp
+
+[topic gc-console-page]
+file=platform_studio/ps_r_gst_whatsnew.htm
+title=Console Log
+type=xilhelp
+
+[topic gc-console-preference]
+file=platform_studio/ps_c_gui_setting_console_preferences.htm
+title=Console Preferences
+type=xilhelp
+
+[topic gc-editor-preference]
+file=platform_studio/ps_c_gui_setting_editor_options.htm
+title=Setting Editor Options
+type=xilhelp
+
+[topic gc-simulation-preference]
+file=platform_studio/ps_c_gui_setting_simulation_preferences.htm
+title=Simulation Preferences
+type=xilhelp
+
+[topic gc-synthesis-preference]
+file=platform_studio/ps_c_gui_setting_synthesis_preferences.htm
+title=Synthesis Preferences
+type=xilhelp
+
+[topic gc-view-embedbrowser-goback]
+file=platform_studio/ps_p_gui_using_go_back_command.htm
+title=HTML Browser Go Back Command
+type=xilhelp
+
+[topic gc-view-embedbrowser-goforward]
+file=platform_studio/ps_p_gui_using_go_forward_command.htm
+title=HTML Browser Go Forward Command
+type=xilhelp
+
+[topic gc-view-embedbrowser-stop]
+file=platform_studio/ps_p_gui_using_stop_command.htm
+title=HTML Browser Stop Command
+type=xilhelp
+
+[topic gc-view-embedbrowser-biggertext]
+file=platform_studio/ps_p_gui_increasing_decreasing_text_size.htm
+title=HTML Browser Increase Text Size Command
+type=xilhelp
+
+[topic gc-view-embedbrowser-smallertext]
+file=platform_studio/ps_p_gui_increasing_decreasing_text_size.htm
+title=HTML Browser Decrease Text Size Command
+type=xilhelp
+
+[topic gc-webbrowser-preference]
+file=platform_studio/ps_c_gui_setting_html_browser_options.htm
+title=HTML Browser Preferences
+type=xilhelp
+
+[topic help-xilinxnotify]
+file=platform_studio/ps_c_gui_getting_latest_software_updates.htm
+title=Getting the Latest Software Updates
+type=xilhelp
+
+[topic HardwareToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic help-about]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=About XPS
+type=xilhelp
+
+[topic help-appnotes-home]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Xilinx Application Notes
+type=xilhelp
+
+[topic help-installed-projects]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Installed Projects
+type=xilhelp
+
+[topic help-obtain-a-license-key]
+file=platform_studio/ps_c_gst_software_license.htm
+title=Otbaining a Software License
+type=xilhelp
+
+[topic help-online-docs]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Online Documents
+type=xilhelp
+
+[topic help-manage-license]
+file=platform_studio/ps_c_gst_software_license.htm
+title=Managing Licenses
+type=xilhelp
+
+[topic help-projects-on-the-web]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Projects on the Web
+type=xilhelp
+
+[topic help-support-home]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Support and Services
+type=xilhelp
+
+[topic help-topics]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Help Topics
+type=xilhelp
+
+[topic help-upgrade-to-full]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Upgrade to Full Version
+type=xilhelp
+
+[topic help-user-forum]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=About XPS
+type=xilhelp
+
+[topic help-view-flow-diagram]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=View Flow Diagram
+type=xilhelp
+
+[topic help-webcase-home]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Open a Support Case
+type=xilhelp
+
+[topic help-xilinx-home]
+file=platform_studio/ps_r_gui_using_xilinx_online_help.htm
+title=Xilinx Home Page
+type=xilhelp
+
+[topic hw-check-licenses-wiz]
+file=platform_studio/ps_p_gui_check_view_core_licenses.htm
+title=Check and View Core Licenses
+type=xilhelp
+
+[topic hw-clean-all]
+file=platform_studio/ps_c_gui_clean_hardware_command.htm
+title=Clean Hardware Command
+type=xilhelp
+
+[topic hw-clean-bits]
+file=platform_studio/ps_c_gui_clean_bits_command.htm
+title=Clean Bits Command
+type=xilhelp
+
+[topic hw-clean-netlist]
+file=platform_studio/ps_c_gui_clean_netlist_command.htm
+title=Clean Netlist Command
+type=xilhelp
+
+[topic hw-config-clkgen]
+file=platform_studio/ps_c_clk_using_clock_generator.htm
+title=Clock Generator
+type=xilhelp
+
+[topic hw-config-coproc]
+file=platform_studio/ps_c_cpw_configuring_coprocessor_cpu.htm
+title=Configure Coprocessor Command
+type=xilhelp
+
+[topic hw-create-ip]
+file=platform_studio/ps_c_ipw_using_create_import_ip_wizard.htm
+title=Create and Import Peripheral Wizard
+type=xilhelp
+
+[topic hw-debug-config-wiz]
+file=platform_studio/ps_c_dbw_using_debug_config_wizard.htm
+title=Debug Configuration Wizard
+type=xilhelp
+
+[topic hw-gen-bits]
+file=platform_studio/ps_p_hdw_generating_bitstream.htm
+title=Generate Bitstream Command
+type=xilhelp
+
+[topic hw-gen-netlist]
+file=platform_studio/ps_p_hdw_generating_netlist.htm
+title=Generate Netlist
+type=xilhelp
+
+[topic hw-gen-sysace]
+file=platform_studio/ps_p_dld_generating_systemace_file.htm
+title=Generate SystemACE File
+type=xilhelp
+
+[topic ip-catalog-help]
+file=platform_studio/ps_c_gui_setting_ip_catalog_ip_config.htm
+title=IP Catalog Preferences
+type=xilhelp
+
+[topic libwiz_compiling]
+file=platform_studio/ps_c_lcw_compiling_ise_edk_sim_lib.htm
+title=Compiling ISE and EDK Libraries
+type=xilhelp
+
+[topic libwiz_finish]
+file=platform_studio/ps_c_lcw_finished.htm
+title=Finished
+type=xilhelp
+
+[topic libwiz_hdl_info]
+file=platform_studio/ps_r_lcw_indicate_supp_hdls.htm
+title=Indicating Supported HDLs
+type=xilhelp
+
+[topic libwiz_introduction]
+file=platform_studio/ps_c_lcw_intro.htm
+title=Introduction
+type=xilhelp
+
+[topic libwiz_ise_info]
+file=platform_studio/ps_c_lcw_compiling_ise_lib.htm
+title=Compiling ISE Libraries
+type=xilhelp
+
+[topic libwiz_options]
+file=platform_studio/ps_c_lcw_lib_comp_options.htm
+title=Library Compilation Options
+type=xilhelp
+
+[topic libwiz_sim_setup]
+file=platform_studio/ps_c_lcw_sim_setup.htm
+title=Simulation Setup
+type=xilhelp
+
+[topic libwiz_simulator]
+file=platform_studio/ps_c_lcw_selecting_simulator.htm
+title=Selecting a Simulator
+type=xilhelp
+
+[topic libwiz_user_repos]
+file=platform_studio/ps_c_lcw_compiling_other_periph_repos.htm
+title=Compiling Other Peripheral Repositories
+type=xilhelp
+
+[topic libwiz_xps_info]
+file=platform_studio/ps_c_lcw_compiling_edk_lib.htm
+title=Compiling EDK Libraries
+type=xilhelp
+
+[topic microblaze_configuration_wizard]
+file=platform_studio/ps_c_mcw_microblaze_configuration_wizard.htm
+title=MicroBlaze Configuration Wizard
+type=xilhelp
+
+[topic opt-customize-buttons]
+file=platform_studio/ps_p_prf_setting_custom_buttons.htm
+title=Customize Buttons Command
+type=xilhelp
+
+[topic opt-xmd-dbg]
+file=platform_studio/ps_c_dbg_setting_debug_invoking_xmd.htm
+title=Configure Debug Settings
+type=xilhelp
+
+[topic opt-project]
+file=platform_studio/ps_p_prf_setting_device_repos_options.htm
+title=Set Project Options Dialog Box 
+type=xilhelp
+
+[topic opt-project-hf]
+file=platform_studio/ps_db_project_options.htm
+title=Project Options Dialog
+type=xilhelp
+
+[topic opt-project-hs]
+file=platform_studio/ps_p_prf_setting_hdl_language.htm
+title=Set HDL and Simulation Options Dialog
+type=xilhelp
+
+[topic project-add-sw-proj]
+file=platform_studio/ps_p_app_creating_software_application_project.htm	
+title=Add Software Application Project Command
+type=xilhelp
+
+[topic project-assign-drivers]
+file=platform_studio/ps_c_stw_assigning_drivers_libraries_os.htm
+title=Assigning Default Drivers
+type=xilhelp
+
+[topic project-clean-all]
+file=platform_studio/ps_c_gui_clean_all_command.htm
+title=Clean All Generated Files Command
+type=xilhelp
+
+[topic project-close]
+file=platform_studio/ps_c_gui_close_project.htm
+title=Close Project Command
+type=xilhelp
+
+[topic project-open]
+file=platform_studio/ps_p_gui_open_project.htm
+title=Open Project Command
+type=xilhelp
+
+[topic project-rescan-user-ip]
+file=platform_studio/ps_c_gui_rescan_user_repositories.htm
+title=Rescan User IP Repository Directories Command
+type=xilhelp
+
+[topic project-save]
+file=platform_studio/ps_c_gui_save_project.htm
+title=Save Project Command
+type=xilhelp
+
+[topic project-sw-platform-settings]
+file=platform_studio/ps_c_gui_software_platform_settings_dialog.htm
+title=Software Platform Settings Dialog
+type=xilhelp
+
+[topic project_version_migration]
+file=platform_studio/ps_c_vmw_version_management_wizard.htm
+title=Version Management Wizard pre window
+type=xilhelp
+
+[topic ProjectToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic ProjectToolsToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic ps-add-port]
+file=platform_studio/ps_p_hdw_making_external_port_connects.htm
+title=SAV Add External Ports button
+type=xilhelp
+
+[topic ps-address-generation]
+file=platform_studio/ps_c_hdw_generating_sys_addr_map.htm
+title=Address Generation
+type=xilhelp
+
+[topic ps_autobusconnection_dialog]
+file=platform_studio/ps_c_hdw_axi_auto_bus_connections.htm
+title=AXI Auto Bus Connections
+type=xilhelp
+
+[topic ps_axi_slave_connect_dlg]
+file=platform_studio/ps_c_hdw_axi_slave_bus_interface.htm
+title=Connecting the AXI Slave Bus Interface
+type=xilhelp
+
+[topic ps-blkd]
+file=platform_studio/ps_c_hdw_viewing_sys_blk_diagram.htm
+title=Block Diagram
+type=xilhelp
+
+[topic ps-BLKD]
+file=platform_studio/ps_c_hdw_viewing_graphical_design_view.htm
+title=Graphical Design View
+type=xilhelp
+
+[topic ps-bus-connections]
+file=platform_studio/ps_c_hdw_making_bus_cnnects_sys_blocks.htm
+title=Bus Connections
+type=xilhelp
+
+[topic ps_connecting_int]
+file=platform_studio/ps_p_hdw_connecting_int.htm
+title=Connecting Interrupts dialog box
+type=xilhelp
+
+[topic ps_delete_IP_dlg]
+file=platform_studio/ps_p_hdw_deleting_ip_inst_from_hw_platform.htm
+title=Delete IP Dialog
+type=xilhelp
+
+[topic ps-export-to-sdk]
+file=platform_studio/ps_p_app_launching_sdk.htm
+title=Export Hardware Design to SDK
+type=xilhelp
+
+[topic ps-generate-addr]
+file=platform_studio/ps_c_hdw_generating_system_addresses.htm
+title=SAV Generate Address Button
+type=xilhelp
+
+[topic ps-ip-catalog]
+file=platform_studio/ps_p_hdw_adding_sys_blocks_to_hw_platform.htm
+title=IP Catalog
+type=xilhelp
+
+[topic ps-make-ip-local]
+file=platform_studio/ps_c_hdw_making_ip_local.htm
+title=Making an IP Local
+type=xilhelp
+
+[topic ps_newproject]
+file=platform_studio/ps_c_bsb_creating_new_project_bsb.htm
+title=BSB New Project Page
+type=xilhelp
+
+[topic ps-port-connections]
+file=platform_studio/ps_c_hdw_making_port_connections_sys_blocks.htm
+title=Port Connections
+type=xilhelp
+
+[topic ps-project-add-ip-core]
+file=platform_studio/ps_c_hdw_customizing_system_blocks.htm
+title=Customizing IP Modules
+type=xilhelp
+
+[topic ps-project-archiver]
+file=platform_studio/ps_c_smp_archiving_xps_project_files.htm
+title=Archiving Project Files
+type=xilhelp
+
+[topic ps-project-view]
+file=platform_studio/ps_c_gst_edkwindow.htm
+title=Project tab
+type=xilhelp
+
+[topic ps-view-design-summary]
+file=platform_studio/dsm_c_design_summary_overview.htm
+title=Design Summary
+type=xilhelp
+
+[topic ps-sav-addr]
+file=platform_studio/ps_r_addresses_tab.htm
+title=Addresses tab
+type=xilhelp
+
+[topic ps-sav-bif]
+file=platform_studio/ps_r_gui_bus_interfaces_tab.htm
+title=Bus Interfaces tab
+type=xilhelp
+
+[topic ps-sav-filter-bif]
+file=platform_studio/ps_c_hdw_using_filters_in_sav.htm
+title=Bus Interface Filters
+type=xilhelp
+
+[topic ps-sav-filter-port]
+file=platform_studio/ps_p_hdw_port_filtering_options.htm
+title=Port Filters
+type=xilhelp
+
+[topic ps-sav-help]
+file=platform_studio/ps_c_gst_edkwindow.htm
+title=SAV
+type=xilhelp
+
+[topic ps-sav-port]
+file=platform_studio/ps_r_ports_tab.htm
+title=Ports tab
+type=xilhelp
+
+[topic ps-sav-zynq]
+file=platform_studio/ps_r_gui_zynq_tab.htm
+title=Zynq tab
+type=xilhelp
+
+[topic ps_startup_dialog]
+file=platform_studio/ps_c_smp_creating_a_blank_xps_project.htm
+title=Create a Blank XPS Project
+type=xilhelp
+
+[topic ps-sw-app-view]
+file=platform_studio/ps_c_gst_edkwindow.htm
+title=Applications tab
+type=xilhelp
+
+[topic ps-whats-next-dialog]
+file=platform_studio/ps_c_bsb_summary_page.htm
+title=What�s Next dialog box
+type=xilhelp
+
+[topic ps-zynq-clkwiz]
+file=platform_studio/ps_c_gui_clocking_tab.htm
+title=Zynq Clock Wizard
+type=xilhelp
+
+[topic ps-zynq-config-summary]
+file=platform_studio/ps_c_gui_zynq_config_summary.htm
+title=Zynq PS Configuration Summary
+type=xilhelp
+
+[topic ps-zynq-configure-int]
+file=platform_studio/ps_c_gui_zynq_configure_interrupts.htm
+title=Configuring Interrupts for Zynq
+type=xilhelp
+
+[topic ps-zynq-core-config]
+file=platform_studio/ps_c_gui_core_configuration.htm
+title=Core Configuration dialog box
+type=xilhelp
+
+[topic ps-zynq-ddr]
+file=platform_studio/ps_c_gui_ddr_configuration.htm
+title=DDR Configuration dialog box
+type=xilhelp
+
+[topic ps-zynq-export]
+file=platform_studio/ps_c_gui_export_zynq_configuration.htm
+title=Export Zynq Configuration dialog box
+type=xilhelp
+
+[topic ps-zynq-import]
+file=platform_studio/ps_c_gui_import_zynq_configuration.htm
+title=Import Zynq Configuration dialog box
+type=xilhelp
+
+[topic ps-zynq-mio]
+file=platform_studio/ps_c_gui_mio_configuration.htm
+title=MIO Configuration dialog box
+type=xilhelp
+
+[topic ps-zynq-mio-table]
+file=platform_studio/ps_c_gui_mio_table.htm
+title=MIO Table dialog box
+type=xilhelp
+
+[topic qt_scrollarea_viewport]
+file=platform_studio/ps_c_gst_welcome_window.htm
+title=Welcome Window
+type=xilhelp
+
+[topic sav-help]
+file=platform_studio/ps_c_gui_setting_system_assembly_view_options.htm
+title=System Assembly View Preferences
+type=xilhelp
+
+[topic SharedWindowToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic sim-clean-sim]
+file=platform_studio/ps_c_gui_clean_simulation_command.htm
+title=Clean Simulation Command
+type=xilhelp
+
+[topic sim-gen-hdl]
+file=platform_studio/ps_c_gui_sim_model_generation.htm
+title=Generate Simulation HDL Files Command
+type=xilhelp
+
+[topic sim_intro_to_sim]
+file=platform_studio/ps_c_sim_intro_to_sim_xps.htm
+title=Introduction to Simulation
+type=xilhelp
+
+[topic sim-run-libcompwiz]
+file=platform_studio/ps_c_sim_compiling_simulation_libraries_in_xps.htm
+title=Compile Simulation Libraries Command
+type=xilhelp
+
+[topic sim_setting_smartmodels]
+file=platform_studio/ps_c_sim_setting_up_smartmodels.htm
+title=Setting Up SmartModels
+type=xilhelp
+
+[topic sim-start-hdl]
+file=platform_studio/ps_c_gui_run_simulation.htm
+title=Start HDL Simulator Command
+type=xilhelp
+
+[topic SimulationToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic SoftwareToolBar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic sw-clean-all]
+file=platform_studio/ps_c_gui_clean_software_command.htm
+title=Clean Software Command
+type=xilhelp
+
+[topic sw-clean-libs]
+file=platform_studio/ps_c_gui_clean_libraries_command.htm
+title=Clean Libraries Command
+type=xilhelp
+
+[topic sw-clean-programs]
+file=platform_studio/ps_c_gui_clean_programs_command.htm
+title=Clean Programs Command
+type=xilhelp
+
+[topic sw-compiler-options]
+file=platform_studio/ps_n_app_setting_compiler_options.htm
+title=Compiler Options
+type=xilhelp
+
+[topic sw-gen-libs]
+file=platform_studio/ps_c_stw_generating_software_libraries.htm
+title=Generate Libraries and Drivers Command
+type=xilhelp
+
+[topic sw-gen-linker-scr]
+file=platform_studio/ps_p_app_generating_linker_scripts.htm
+title=Generate Linker Script 
+type=xilhelp
+
+[topic sw-gen-prog]
+file=platform_studio/ps_p_app_generating_application_executables.htm
+title=Build All User Applications Command 
+type=xilhelp
+
+[topic sw-get-prog-size]
+file=platform_studio/ps_p_app_getting_program_size.htm
+title=Get Program Size 
+type=xilhelp
+
+[topic sw-launch-sdk]
+file=platform_studio/ps_p_app_launching_sdk.htm
+title=Launch Software IDE (SDK) Command
+type=xilhelp
+
+[topic tools-cyg]
+file=platform_studio/ps_c_gui_cygwin_shell.htm
+title=Launch Cygwin Shell Command
+type=xilhelp
+
+[topic tools-runprocess]
+file=platform_studio/ps_c_gui_gen_view_block_diagram.htm
+title=Generate and View Block Diagram
+type=xilhelp
+
+[topic tools-terminateprocess]
+file=platform_studio/ps_c_gui_terminate_process.htm
+title=Terminate Running Process
+type=xilhelp
+
+[topic tools-view-block-diagram]
+file=platform_studio/ps_c_hdw_viewing_sys_blk_diagram.htm
+title=Generate and View Block Diagram
+type=xilhelp
+
+[topic tools-view-project-report]
+file=platform_studio/ps_c_gui_generate_view_design_report.htm
+title=Generate and View Design Report
+type=xilhelp
+
+[topic up-bitstream]
+file=platform_studio/ps_p_dld_initializing_executable_in_bitstream.htm
+title=Update Bitstream Command
+type=xilhelp
+
+[topic up-download]
+file=platform_studio/ps_c_dld_downloading_bitstreams_fpga.htm
+title=Download Bitstream to the FPGA Command
+type=xilhelp
+
+[topic up-prog-flash]
+file=platform_studio/ps_r_dld_program_flash_memory_dialog_box.htm
+title=Program Flash Memory
+type=xilhelp
+
+[topic view-console]
+file=platform_studio/ps_c_gui_changing_viewing_options.htm
+title=View Console Window
+type=xilhelp
+
+[topic view-navigator]
+file=platform_studio/ps_c_gui_changing_viewing_options.htm
+title=View Project Information Area
+type=xilhelp
+
+[topic view-restore-defaults]
+file=platform_studio/ps_c_gui_restore_defaults.htm
+title=Restore Defaults command
+type=xilhelp
+[topic view-refresh]
+file=platform_studio/ps_c_gui_changing_viewing_options.htm
+title=Refresh Command
+type=xilhelp
+
+[topic view-statusbar]
+file=platform_studio/ps_c_gui_changing_Viewing_options.htm
+title=Status Bar Command
+type=xilhelp
+
+[topic view-toolbar]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command
+type=xilhelp
+
+[topic view-toolbar-large-icons]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Large Icons
+type=xilhelp
+
+[topic view-toolbar-list11]
+file=platform_studio/ps_c_gui_arranging_toolbars.htm
+title=Toolbar Command 11
+type=xilhelp
+
+[topic view-tabs]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list1]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list2]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list3]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list4]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list5]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list6]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list7]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list8]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list9]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic view-tabs-list10]
+file=platform_studio/ps_c_gui_setting_visibility_of_tabs.htm
+title=Tab Command
+type=xilhelp
+
+[topic vmwiz_Finish]
+file=platform_studio/ps_p_vmw_finish_version_management_wizard.htm
+title=Finish
+type=xilhelp
+
+[topic vmwiz_Info]
+file=platform_studio/ps_c_vmw_ip_upgrades.htm
+title=Info
+type=xilhelp
+
+[topic vmwiz_Introduction]
+file=platform_studio/ps_c_vmw_version_management_wizard.htm
+title=Welcome
+type=xilhelp
+
+[topic vmwiz_Mandatory]
+file=platform_studio/ps_c_vmw_ip_upgrades.htm
+title=Mandatory
+type=xilhelp
+
+[topic vmwiz_Manual]
+file=platform_studio/ps_c_vmw_ip_upgrades.htm
+title=Manual
+type=xilhelp
+
+[topic vmwiz_Recommended]
+file=platform_studio/ps_c_vmw_ip_upgrades.htm
+title=Recommended
+type=xilhelp
+
+[topic vmwiz_SWMandatory
+file=platform_studio/ps_c_vmw_driver_upgrades.htm
+title=SW Mandatory
+type=xilhelp
+
+[topic vmwiz_SWManual]
+file=platform_studio/ps_c_vmw_driver_upgrades.htm
+title=SW Manual
+type=xilhelp
+
+[topic vmwiz_SWRecommended]
+file=platform_studio/ps_c_vmw_driver_upgrades.htm
+title=SW Recommended
+type=xilhelp
+
+[topic window-arrange-minimized]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Arrange Minimized Windows Command
+type=xilhelp
+
+[topic window-cascade]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Cascade Windows Command
+type=xilhelp
+
+[topic window-close]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Close Window Command
+type=xilhelp
+
+[topic window-close-all]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Close All Command
+type=xilhelp
+
+[topic window-close-others]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Close Other Windows Command
+type=xilhelp
+
+[topic window-floating]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Float Window Command
+type=xilhelp
+
+[topic window-maximize]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Maximize Window Command
+type=xilhelp
+
+[topic window-minimize-all]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Minimize All Windows Command
+type=xilhelp
+
+[topic window-new]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=New Window Command
+type=xilhelp
+
+[topic window-next]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Next Window Command
+type=xilhelp
+
+[topic window-previous]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Previous Window Command
+type=xilhelp
+
+[topic window-tile-horizontally]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Tile Windows Horizontally Command
+type=xilhelp
+
+[topic window-tile-vertically]
+file=platform_studio/ps_c_gui_arranging_windows.htm
+title=Tile Windows Vertically Command
+type=xilhelp
+
+[topic xps-update-blockdiagram]
+file=platform_studio/ps_c_gui_gen_view_block_diagram.htm
+title=Update Block Diagram Command
+type=xilhelp
+
+#include plugin_ite.map

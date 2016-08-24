@@ -1,0 +1,9 @@
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//Clocking Wizard - Pre Virtex 4
+
+[topic contents]
+file=wizards/compxlib/cxl_c_xilinx_library_compilation_wizard.htm
+

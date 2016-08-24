@@ -1,0 +1,845 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/sse_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/sse_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/sse_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+[topic plugin_sse_overview]
+file=isehelp/sse_c_overview.htm
+
+[topic edit-find]
+file=isehelp/sse_p_finding_instance_net.htm
+title=Finding Instances and Nets
+type=xilhelp
+
+[topic find-in-files]
+file=isehelp/sse_p_using_find_in_files.htm
+title=Using Find in Files
+type=xilhelp
+
+[topic seddq-edit-paste-special]
+file=isehelp/sse_p_copying_nets_paste_special.htm
+title=Copying and Pasting Nets Using Paste Special
+type=xilhelp
+
+[topic seddq-edit-symbol]
+file=isehelp/sse_p_editing_symbol_from_schematic.htm
+title=Editing a Symbol from a Schematic
+type=xilhelp
+
+[topic seddq-edit-update-obsolete-symbol]
+file=isehelp/sse_p_updating_instances.htm
+title=Updating Obsolete Symbol Instances
+type=xilhelp
+
+[topic seddq-edit-rename-bus]
+file=isehelp/sse_p_naming_bus.htm
+title=Naming a Bus
+type=xilhelp
+
+[topic seddq-edit-rename-net]
+file=isehelp/sse_p_naming_net.htm
+title=Naming a Net
+type=xilhelp
+
+[topic seddq-edit-rename-instance]
+file=isehelp/sse_p_naming_instance.htm
+title=Naming a Symbol Instance
+type=xilhelp
+
+[topic seddq-edit-change-sheet-size]
+file=isehelp/sse_p_resizing_sheet.htm
+title=Resizing a Sheet
+type=xilhelp
+
+[topic seddq-edit-mirror]
+file=isehelp/sse_p_changing_sym_orientation.htm
+title=Changing the Orientation of a Symbol Instance
+type=xilhelp
+
+[topic seddq-edit-rotate]
+file=isehelp/sse_p_changing_sym_orientation.htm
+title=Changing the Orientation of a Symbol Instance
+type=xilhelp
+
+[topic seddq-edit-align-instances-left]
+file=isehelp/sse_p_aligning_symbol_instances.htm
+title=Aligning Symbol Instances
+type=xilhelp
+
+[topic seddq-edit-align-instances-right]
+file=isehelp/sse_p_aligning_symbol_instances.htm
+title=Aligning Symbol Instances
+type=xilhelp
+
+[topic seddq-edit-align-instances-top]
+file=isehelp/sse_p_aligning_symbol_instances.htm
+title=Aligning Symbol Instances
+type=xilhelp
+
+[topic seddq-edit-align-instances-bottom]
+file=isehelp/sse_p_aligning_symbol_instances.htm
+title=Aligning Symbol Instances
+type=xilhelp
+
+[topic seddq-edit-align-iomarkers-left]
+file=isehelp/sse_p_aligning_iomarker_origins.htm
+title=Aligning I/O Marker Origins
+type=xilhelp
+
+[topic seddq-edit-align-iomarkers-right]
+file=isehelp/sse_p_aligning_iomarker_origins.htm
+title=Aligning I/O Marker Origins
+type=xilhelp
+
+[topic seddq-edit-align-iomarkers-top]
+file=isehelp/sse_p_aligning_iomarker_origins.htm
+title=Aligning I/O Marker Origins
+type=xilhelp
+
+[topic seddq-edit-align-iomarkers-bottom]
+file=isehelp/sse_p_aligning_iomarker_origins.htm
+title=Aligning I/O Marker Origins
+type=xilhelp
+
+[topic seddq-edit-align-text-left]
+file=isehelp/sse_p_aligning_text.htm
+title=Aligning Text
+type=xilhelp
+
+[topic seddq-edit-align-text-right]
+file=isehelp/sse_p_aligning_text.htm
+title=Aligning Text
+type=xilhelp
+
+[topic seddq-edit-align-text-top]
+file=isehelp/sse_p_aligning_text.htm
+title=Aligning Text
+type=xilhelp
+
+[topic seddq-edit-align-text-bottom]
+file=isehelp/sse_p_aligning_text.htm
+title=Aligning Text
+type=xilhelp
+
+[topic edit-object-properties]
+file=isehelp/sse_n_object_properties.htm
+title=Object Properties
+type=xilhelp
+
+[topic seddq-tools-zoom]
+file=isehelp/sse_p_zooming_zoomselect_button.htm
+title=Zooming Using the Zoom Select Button
+type=xilhelp
+
+[topic seddq-tools-pointer]
+file=isehelp/sse_p_selecting_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic sedsq-tools-pointer]
+file=isehelp/sse_p_selecting_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic edit-select-all]
+file=isehelp/sse_p_selecting_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic edit-unselect-all]
+file=isehelp/sse_p_selecting_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic seddq-edit-clear-highlight]
+file=isehelp/sse_p_highlighting_net.htm
+title=Highlighting an Instance or Net
+type=xilhelp
+
+[topic sedsq-edit-clear-highlight]
+file=isehelp/sse_p_highlighting_net.htm
+title=Highlighting an Instance or Net
+type=xilhelp
+
+[topic view-zoom-in]
+file=isehelp/sse_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-out]
+file=isehelp/sse_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-full]
+file=isehelp/sse_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-to-box]
+file=isehelp/sse_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-to-selected]
+file=isehelp/sse_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-pan-left]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-right]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-up]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-down]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-left-side]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-right-side]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-top]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-bottom]
+file=isehelp/sse_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic seddq-view-push]
+file=isehelp/sse_p_pushing_into_symbol.htm
+title=Pushing into a Symbol Instance
+type=xilhelp
+
+[topic seddq-view-pop]
+file=isehelp/sse_p_popping_to_schematic.htm
+title=Popping to a Symbol Instance's Calling Schematic
+type=xilhelp
+
+[topic seddq-view-previous]
+file=isehelp/sse_p_returning_to_previous_view.htm
+title=Returning to the Previous View
+type=xilhelp
+
+[topic seddq-view-next]
+file=isehelp/sse_p_returning_to_previous_view.htm
+title=Returning to the Previous View
+type=xilhelp
+
+
+[topic seddq-view-show-related-tabs]
+file=isehelp/sse_p_showing_related_panels.htm
+title=Showing Related Panels
+type=xilhelp
+
+[topic sedsq-view-show-related-tabs]
+file=isehelp/sse_p_showing_related_panels.htm
+title=Showing Related Panels
+type=xilhelp
+
+
+
+[topic sedbq-ripout-view-options-page]
+file=isehelp/sse_c_window.htm
+title=Schematic and Symbol Editors Workspace
+type=xilhelp
+
+[topic seddq-tools-wire]
+file=isehelp/sse_p_adding_net.htm
+title=Adding a Net
+type=xilhelp
+
+[topic seddq-tools-netname]
+file=isehelp/sse_p_naming_net.htm
+title=Naming a Net
+type=xilhelp
+
+[topic seddq-tools-bustap]
+file=isehelp/sse_p_adding_bus_tap_manually.htm
+title=Connecting a Net to a Bus
+type=xilhelp
+
+[topic seddq-tools-iomarker]
+file=isehelp/sse_p_adding_io_marker.htm
+title=Adding an I/O Marker
+type=xilhelp
+
+[topic seddq-tools-symbol]
+file=isehelp/sse_p_adding_symbol.htm
+title=Adding a Symbol Instance
+type=xilhelp
+
+[topic seddq-tools-instancename]
+file=isehelp/sse_p_naming_instance.htm
+title=Naming a Symbol Instance
+type=xilhelp
+
+[topic seddq-tools-arc]
+file=isehelp/sse_p_drawing_arc.htm
+title=Drawing an Arc
+type=xilhelp
+
+[topic seddq-tools-circle]
+file=isehelp/sse_p_drawing_circle.htm
+title=Drawing a Circle
+type=xilhelp
+
+[topic seddq-tools-line]
+file=isehelp/sse_p_drawing_line.htm
+title=Drawing a Line
+type=xilhelp
+
+[topic seddq-tools-rectangle]
+file=isehelp/sse_p_drawing_rectangle.htm
+title=Drawing a Rectangle
+type=xilhelp
+
+[topic seddq-tools-text]
+file=isehelp/sse_p_adding_text.htm
+title=Adding Text
+type=xilhelp
+
+
+// Symbol Editor IDs that launch same topics as Schematic Editor
+
+
+[topic sedsq-tools-arc]
+file=isehelp/sse_p_drawing_arc.htm
+title=Drawing an Arc
+type=xilhelp
+
+[topic sedsq-tools-circle]
+file=isehelp/sse_p_drawing_circle.htm
+title=Drawing a Circle
+type=xilhelp
+
+[topic sedsq-tools-line]
+file=isehelp/sse_p_drawing_line.htm
+title=Drawing a Line
+type=xilhelp
+
+[topic sedsq-tools-rectangle]
+file=isehelp/sse_p_drawing_rectangle.htm
+title=Drawing a Rectangle
+type=xilhelp
+
+[topic sedsq-tools-text]
+file=isehelp/sse_p_adding_text.htm
+title=Adding Text
+type=xilhelp
+
+
+// end
+
+
+[topic sedsq-tools-pin]
+file=isehelp/sse_p_adding_pin.htm
+title=Adding a Pin to a Symbol
+type=xilhelp
+
+[topic sedsq-tools-bubble]
+file=isehelp/sse_p_adding_bubble.htm
+title=Adding a Bubble to a Symbol
+type=xilhelp
+
+[topic sedsq-tools-attr]
+file=isehelp/sse_p_displaying_attr_sym.htm
+title=Displaying Attributes in a Symbol
+type=xilhelp
+
+[topic seddq-tools-check-schematic]
+file=isehelp/sse_p_checking_sch.htm
+title=Checking a Schematic
+type=xilhelp
+
+[topic seddq-tools-hierarchical-check]
+file=isehelp/sse_p_checking_sch.htm
+title=Checking a Schematic
+type=xilhelp
+
+[topic seddq-tools-symbol-wizard]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+[topic seddq-tools-library-manager]
+file=isehelp/sse_p_creating_library.htm
+title=Creating or Editing a Symbol Library
+type=xilhelp
+
+[topic seddq-tools-generate-hdl-template]
+file=isehelp/sse_p_generating_hdl_template.htm
+title=Generating an HDL Template from a Symbol
+type=xilhelp
+
+[topic seddq-tools-create-iomarker]
+file=isehelp/sse_p_adding_io_markers_empty_sch.htm
+title=Adding I/O Markers to an Empty Schematic
+type=xilhelp
+
+[topic seddq-tools-query]
+file=isehelp/sse_p_running_query.htm
+title=Running a Query
+type=xilhelp
+
+[topic sedsq-tools-check-symbol]
+file=isehelp/sse_p_checking_sym.htm
+title=Checking a Symbol
+type=xilhelp
+
+[topic seddq-file-print-current-sheet]
+file=isehelp/sse_p_printing.htm
+title=Printing a Schematic
+type=xilhelp
+
+[topic seddq-edit-change-attr-value]
+file=isehelp/sse_p_changing_attr_value.htm
+title=Changing an Attribute Value in a Schematic
+type=xilhelp
+
+[topic seddq-edit-delete-attr]
+file=isehelp/sse_p_removing_attribute.htm
+title=Removing an Attribute
+type=xilhelp
+
+[topic seddq-edit-hide-attr]
+file=isehelp/sse_p_hiding_attr.htm
+title=Hiding an Attribute
+type=xilhelp
+
+[topic seddq-edit-rename-port]
+file=isehelp/sse_p_naming_port.htm
+title=Naming a Port
+type=xilhelp
+
+[topic sedsq-edit-change-attr-value]
+file=isehelp/sse_p_changing_attr_value_symbol.htm
+title=Changing an Attribute Value in a Symbol
+type=xilhelp
+
+[topic sedsq-edit-delete-attr]
+file=isehelp/sse_p_removing_attribute.htm
+title=Removing an Attribute
+type=xilhelp
+
+[topic sedsq-edit-hide-attr]
+file=isehelp/sse_p_hiding_attr.htm
+title=Hiding an Attribute
+type=xilhelp
+
+[topic seddq-view-symbol-info]
+file=isehelp/sse_p_getting_symbol_info.htm
+title=Getting Information about a Xilinx Symbol
+type=xilhelp
+
+
+//DIALOG BOXES
+
+
+[topic seddq-define-sheet-size-dlg]]
+file=isehelp/sse_db_define_sheet_size.htm
+title=Define Sheet Size Dialog Box
+type=xilhelp
+
+[topic seddq-edit-path-dlg]
+file=isehelp/sse_db_edit_sch_paths.htm
+title=Edit Dialog Box
+type=xilhelp
+
+[topic seddq-find-dlg]
+file=isehelp/sse_db_find.htm
+title=Find Dialog Box
+type=xilhelp
+
+[topic find-in-files-dialog]
+file=isehelp/sse_db_find_in_files.htm
+title=Find in Files Dialog
+type=xilhelp
+
+[topic seddq-new-sheet-dlg]
+file=isehelp/sse_db_new_sheet.htm
+title=New Sheet Dialog Box
+type=xilhelp
+
+[topic seddq-obselete-symbol-dlg]
+file=isehelp/sse_db_obsolete_symbols.htm
+title=Obsolete Symbols Dialog Box
+type=xilhelp
+
+[topic seddq-open-sch-error-dlg]
+file=isehelp/sse_db_open_sch_error.htm
+title=Open Schematic File Errors Dialog Box
+type=xilhelp
+
+[topic seddq-query-dlg]
+file=isehelp/sse_db_query.htm
+title=Query Dialog Box
+type=xilhelp
+
+[topic seddq-rename-bus-dlg]
+file=isehelp/sse_db_rename_bus.htm
+title=Rename Bus Dialog Box
+type=xilhelp
+
+[topic seddq-rename-net-dlg]
+file=isehelp/sse_db_rename_net.htm
+title=Rename Net Dialog Box
+type=xilhelp
+
+[topic seddq-rename-instance-dlg]
+file=isehelp/sse_db_rename_instance.htm
+title=Rename Instance Dialog Box
+type=xilhelp
+
+[topic seddq-create-symbol-dlg]
+file=isehelp/sse_db_create_iomarker.htm
+title=Create I/O Markers Dialog Box
+type=xilhelp
+
+[topic sedsq-new-attribute-dlg]
+file=isehelp/sse_db_new_attribute.htm
+title=New Attribute Dialog Box
+type=xilhelp
+
+[topic seddq-net-attr-visibility-dlg]
+file=isehelp/sse_db_net_attr_visibility.htm
+title=Net Attribute Visibility Dialog Box
+type=xilhelp
+
+[topic seddq-auto-bustap-tip-dlg]
+file=isehelp/sse_db_bus_tap_tip.htm
+title=Bus Tap Automatically Added Dialog Box
+type=xilhelp
+
+[topic seddq-paste-special-dlg]
+file=isehelp/sse_db_paste_special.htm
+title=Paste Special Dialog Box
+type=xilhelp
+
+[topic seddq-push-option-dlg]
+file=isehelp/sse_db_push_options.htm
+title=Push Options Dialog Box
+type=xilhelp
+
+[topic seddq-print-dlg]
+file=isehelp/sse_db_sch_print.htm
+title=Schematic Print Dialog Box
+type=xilhelp
+
+[topic seddq-main-preference-page]
+file=isehelp/sse_db_pref_sch.htm
+title=Preferences Dialog Box - Schematic Editor Page
+type=xilhelp
+
+[topic seddq-layout-preference-page]
+file=isehelp/sse_db_pref_sch_layout.htm
+title=Preferences Dialog Box - Schematic Editor Layout Page
+type=xilhelp
+
+[topic seddq-color-preference-page]
+file=isehelp/sse_db_pref_sch_color.htm
+title=Preferences Dialog Box - Schematic Editor Colors Page
+type=xilhelp
+
+[topic seddq-check-preference-page]
+file=isehelp/sse_db_pref_sch_check.htm
+title=Preferences Dialog Box - Schematic Editor Check Page
+type=xilhelp
+
+[topic seddq-sheet-size-preference-page]
+file=isehelp/sse_db_pref_sch_sheet_size.htm
+title=Preferences Dialog Box - Schematic Editor Sheet Sizes Page
+type=xilhelp
+
+[topic seddq-device-family-preference-page]
+file=isehelp/sse_db_pref_sch_device_family.htm
+title=Preferences Dialog Box - Schematic Editor Device Families Page
+type=xilhelp
+
+[topic seddq-print-preference-page]
+file=isehelp/sse_db_pref_sch_print.htm
+title=Preferences Dialog Box - Schematic Editor Printing Page
+type=xilhelp
+
+[topic seddq-sheet-page]
+file=isehelp/sse_db_sch_prop_sheets.htm
+title=Schematic Properties Dialog Box - Sheets Page
+type=xilhelp
+
+[topic seddq-rename-bus-io-page]
+file=isehelp/sse_db_sch_prop_bus_rename.htm
+title=Schematic Properties Dialog Box - Bus Renaming Page
+type=xilhelp
+
+[topic seddq-iomarker-traits-page]
+file=isehelp/sse_db_obj_prop_iomarker.htm
+title=Object Properties Dialog Box - I/O Marker Traits Page
+type=xilhelp
+
+[topic sedsq-tools-library-manager]
+file=isehelp/sse_p_creating_library.htm
+title=Creating or Editing a Symbol Library
+type=xilhelp
+
+[topic seddq-hdl-template-tip-dlg]
+file=isehelp/sse_db_hdl_template_tip.htm
+title=HDL Template Generated Dialog Box
+type=xilhelp
+
+[topic sedsq-attrs-page]
+file=isehelp/sse_db_obj_prop_attributes.htm
+title=Object Properties Dialog Box - Attributes Page
+type=xilhelp
+
+[topic sedsq-figure-traits-page]
+file=isehelp/sse_db_obj_prop_figure_traits.htm
+title=Object Properties Dialog Box - Figure Traits Page
+type=xilhelp
+
+[topic sedsq-value-type-page]
+file=isehelp/sse_db_attr_trait_name_type.htm
+title=Attribute Traits Dialog Box - Name and Type Page
+type=xilhelp
+
+[topic sedsq-permission-trait-page]
+file=isehelp/sse_db_attr_trait_permissions.htm
+title=Attribute Traits Dialog Box - Permissions Page
+type=xilhelp
+
+[topic sedsq-verilog-trait-page]
+file=isehelp/sse_db_attr_trait_verilog.htm
+title=Attribute Traits Dialog Box - Verilog Page
+type=xilhelp
+
+[topic sedsq-vhdl-trait-page]
+file=isehelp/sse_db_attr_trait_vhdl.htm
+title=Attribute Traits Dialog Box - VHDL Page
+type=xilhelp
+
+[topic sedsq-main-preference-page]
+file=isehelp/sse_db_pref_sym.htm
+title=Preferences Dialog Box - Symbol Editor Page
+type=xilhelp
+
+[topic sedsq-symbol-color-page]
+file=isehelp/sse_db_pref_sym_colors.htm
+title=Preferences Dialog Box - Symbol Editor Colors Page
+type=xilhelp
+
+[topic sedsq-symbol-check-preferences-page]
+file=isehelp/sse_db_pref_sym_check.htm
+title=Preferences Dialog Box - Symbol Editor Check Page
+type=xilhelp
+
+[topic sedsq-hdl-template-tip-dlg]
+file=isehelp/sse_db_hdl_template_tip.htm
+title=HDL Template Generated Dialog Box
+type=xilhelp
+
+
+//HDL WIZARD
+
+
+[topic sedsq-tools-generate-hdl-template]
+file=isehelp/sse_p_generating_hdl_template.htm
+title=Generating an HDL Template from a Symbol
+type=xilhelp
+
+
+//SYMBOL WIZARD
+
+
+[topic sedsq-symbol-wizard-page]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+[topic sedsq-tools-symbol-wizard]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+
+[topic symwizard-source-page]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+[topic symwizard-pin-page]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+[topic symwizard-layout-page]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+[topic symwizard-preview-page]
+file=isehelp/sse_p_creating_symbol.htm
+title=Creating a Symbol
+type=xilhelp
+
+
+
+
+
+
+
+
+[topic sedsq-symbol-import-dlg]
+file=isehelp/sse_p_creating_library.htm
+title=Creating or Editing a Symbol Library
+type=xilhelp
+
+[topic sedsq-symbol-extract-dlg]
+file=isehelp/sse_p_creating_library.htm
+title=Creating or Editing a Symbol Library
+type=xilhelp
+
+[topic sedsq-symbol-property-dlg]
+file=isehelp/sse_p_creating_library.htm
+title=Creating or Editing a Symbol Library
+type=xilhelp
+
+
+//SCHEMATIC EDITOR TABS
+
+
+[topic seddq-symbolbrowser-option-page]
+file=isehelp/sse_r_symbols_tab.htm
+title=Symbols Panel
+type=xilhelp
+
+[topic seddq-pointer-option-page]
+file=isehelp/sse_r_options_sch_select.htm
+title=Options Panel - Select Options (Schematic Editor)
+type=xilhelp
+
+[topic seddq-wire-option-page]
+file=isehelp/sse_r_options_wire.htm
+title=Options Panel - Add Wire Options
+type=xilhelp
+
+[topic seddq-netname-option-page]
+file=isehelp/sse_r_options_net_name.htm
+title=Options Panel - Add Net Name Options
+type=xilhelp
+
+[topic seddq-bustap-option-page]
+file=isehelp/sse_r_options_bus_tap.htm
+title=Options Panel - Add Bus Tap Options
+type=xilhelp
+
+[topic seddq-iomarker-option-page]
+file=isehelp/sse_r_options_iomarker.htm
+title=Options Panel - Add I/O Marker Options
+type=xilhelp
+
+[topic seddq-instname-option-page]
+file=isehelp/sse_r_options_instance_name.htm
+title=Options Panel - Add Instance Name Options
+type=xilhelp
+
+[topic seddq-circle-option-page]
+file=isehelp/sse_r_options_circle.htm
+title=Options Panel - Add Circle Options
+type=xilhelp
+
+[topic seddq-text-option-page]
+file=isehelp/sse_r_options_text.htm
+title=Options Panel - Add Text Options
+type=xilhelp
+
+
+//SYMBOL EDITOR TABS
+
+
+[topic sedsq-pointer-option-page]
+file=isehelp/sse_r_options_sym_select.htm
+title=Options Panel - Select Options (Symbol Editor)
+type=xilhelp
+
+[topic sedsq-pin-option-page]
+file=isehelp/sse_r_options_pin.htm
+title=Options Panel - Add Pin Options
+type=xilhelp
+
+[topic sedsq-circle-option-page]
+file=isehelp/sse_r_options_circle.htm
+title=Options Panel - Add Circle Options
+type=xilhelp
+
+[topic sedsq-attrwin-option-page]
+file=isehelp/sse_r_attr_window.htm
+title=Options Panel - Add Attribute Window Options
+type=xilhelp
+
+[topic sedsq-bubble-option-page]
+file=isehelp/sse_r_options_bubble.htm
+title=Options Panel - Add Bubble Options
+type=xilhelp
+
+[topic sedsq-text-option-page]
+file=isehelp/sse_r_options_text.htm
+title=Options Panel - Add Text Options
+type=xilhelp
+
+
+// EXTRAS
+
+
+[elements topic_not_found]
+file=isehelp/sse_n_symbol_info.htm
+title=Symbol Information
+type=xilhelp
+
+[elements-tblock topic_not_found]
+file=isehelp/sse_r_symbol_info_title.htm
+title=TITLE
+type=xilhelp
+
+[elements-title topic_not_found]
+file=isehelp/sse_r_symbol_info_title.htm
+title=TITLE
+type=xilhelp
+
+#include plugin_pn.map
+
+#include libs.map

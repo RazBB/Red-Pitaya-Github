@@ -1,0 +1,38 @@
+#! /bin/sh
+export PATH || exec /bin/sh "$0" $argv
+# Get the path to this exec
+setuploc=`dirname "$0"`
+
+unset LANG
+platform=`uname -s`
+	
+# run setup executable depending on different platform
+if [ "$platform" = "Linux" ]
+then
+    machineType=`uname -m`;	# Get the machine type
+    if [ "$machineType" = "x86_64" ]
+    then
+	# 64 bit
+        if [ -f "$setuploc/bin/lin64/xsetup" ]
+        then
+            "$setuploc/bin/lin64/xsetup" $*
+        else
+			if [ -f "$setuploc/bin/lin/xsetup" ]
+			then
+				"$setuploc/bin/lin/xsetup" $*
+			else
+				echo "Product is not supported on \"$platform\" platform."
+			fi            
+        fi
+    else
+        if [ -f "$setuploc/bin/lin/xsetup" ]
+        then
+            "$setuploc/bin/lin/xsetup" $*
+        else
+            echo "Product is not supported on \"$platform $machineType\" platform."
+        fi
+    fi
+else
+	echo "Un-supported platform: $platform"
+fi
+

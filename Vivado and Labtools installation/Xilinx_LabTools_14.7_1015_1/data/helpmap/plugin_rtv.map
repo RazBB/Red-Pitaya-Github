@@ -1,0 +1,350 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/rtv_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/rtv_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/rtv_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//Default topic for calling from the Help menu.
+[topic plugin_rtv_overview]
+file=isehelp/rtv_c_overview.htm
+
+// Menu Commands
+
+[topic sednq-tools-pointer]
+file=isehelp/rtv_p_rtl_select_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic sednq-view-bit-bus-mode]
+file=isehelp/rtv_p_view_bit_bus_modes.htm
+title=Viewing the Bit/Bus Modes
+type=xilhelp
+
+[topic sednq-edit-show-block-contents]
+file=isehelp/rtv_p_ex_adding_block_contents.htm
+title=Hiding or Showing Block Contents
+type=xilhelp
+
+[topic sednq-edit-hide-block-contents]
+file=isehelp/rtv_p_ex_adding_block_contents.htm
+title=Hiding or Showing Block Contents
+type=xilhelp
+
+[topic edit-find]
+file=isehelp/rtv_p_find_instance_net_rtl.htm
+title=Finding Instances and Nets
+type=xilhelp
+
+[topic find-in-files]
+file=isehelp/rtv_p_using_find_in_files.htm
+title=Using Find in Files
+type=xilhelp
+
+[topic edit-select-all]
+file=isehelp/rtv_p_rtl_select_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic edit-unselect-all]
+file=isehelp/rtv_p_rtl_select_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic view-zoom-in]
+file=isehelp/rtv_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-out]
+file=isehelp/rtv_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-full]
+file=isehelp/rtv_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-to-box]
+file=isehelp/rtv_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-zoom-to-selected]
+file=isehelp/rtv_c_p_zoom.htm
+title=Zooming
+type=xilhelp
+
+[topic view-pan-left]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-right]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-up]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-down]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-left-side]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-right-side]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-top]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic view-pan-to-bottom]
+file=isehelp/rtv_c_p_pan.htm
+title=Panning
+type=xilhelp
+
+[topic sednq-view-addname]
+file=isehelp/rtv_p_rtl_display_names.htm
+title=Displaying Instance and Net Names
+type=xilhelp
+
+[topic sednq-view-deletename]
+file=isehelp/rtv_p_rtl_display_names.htm
+title=Displaying Instance and Net Names
+type=xilhelp
+
+[topic sednq-view-pop]
+file=isehelp/rtv_p_rtl_pop.htm
+title=Popping to an Instance's Calling Schematic
+type=xilhelp
+
+[topic sednq-view-push]
+file=isehelp/rtv_p_rtl_push.htm
+title=Pushing into an Instance
+type=xilhelp
+
+[topic sednq-view-hdl]
+file=isehelp/rtv_p_crossprobe_hdl.htm
+title=Cross Probing to the HDL Source Files
+type=xilhelp
+
+[topic sednq-view-hdlsources]
+file=isehelp/rtv_p_crossprobe_hdl.htm
+title=Cross Probing to the HDL Source Files
+type=xilhelp
+
+[topic sednq-view-multisheetnets]
+file=isehelp/rtv_c_p_navigate_sheets.htm
+title=Navigating Schematic Sheets
+type=xilhelp
+
+[topic sednq-view-lut]
+file=isehelp/rtv_p_rtl_lut_content.htm
+title=Getting Information about a LUT
+type=xilhelp
+
+[topic sednq-view-previous]
+file=isehelp/rtv_p_sort_schematics.htm
+title=Sorting Schematics
+type=xilhelp
+
+[topic sednq-view-next]
+file=isehelp/rtv_p_sort_schematics.htm
+title=Sorting Schematics
+type=xilhelp
+
+[topic sednq-view-history]
+file=isehelp/rtv_p_sort_schematics.htm
+title=Sorting Schematics
+type=xilhelp
+
+[topic sednq-edit-preserve-placement]
+file=isehelp/rtv_p_ex_preserving_logic.htm
+title=Preserving Logic Placement when Adding Logic
+type=xilhelp
+
+[topic sednq-edit-add-input-cone]
+file=isehelp/rtv_p_ex_adding_cones.htm
+title=Adding Input or Output Cones
+type=xilhelp
+
+[topic sednq-edit-add-output-cone]
+file=isehelp/rtv_p_ex_adding_cones.htm
+title=Adding Input or Output Cones
+type=xilhelp
+
+[topic sednq-edit-add-contents-of-selected-blocks]
+file=isehelp/rtv_p_ex_adding_block_contents.htm
+title=Hiding or Showing Block Contents
+type=xilhelp
+
+[topic sednq-edit-remove-selected-objects]
+file=isehelp/rtv_p_ex_removing_objects.htm
+title=Removing Objects
+type=xilhelp
+
+[topic sednq-view-new-schematic-with-selected-blocks]
+file=isehelp/rtv_p_ex_blocks.htm
+title=Viewing a Block as a Schematic
+type=xilhelp
+
+[topic sednq-view-select-block-pin-annotation]
+file=isehelp/rtv_p_ex_block_pins.htm
+title=Selecting Block Pin Annotation
+type=xilhelp
+
+[topic sednq-view-colorize-new-objects]
+file=isehelp/rtv_p_ex_showing_color.htm
+title=Showing New Objects in Color
+type=xilhelp
+
+[topic sednq-browser-collapse-to-default]
+file=isehelp/rtv_p_view_rtl_hierarchy.htm
+title=Viewing Objects in a Hierarchy
+type=xilhelp
+
+[topic sednq-browser-collapse-to-parent]
+file=isehelp/rtv_p_view_rtl_hierarchy.htm
+title=Viewing Objects in a Hierarchy
+type=xilhelp
+
+// Toolbar Buttons
+
+
+[topic sednq-tools-select-area]
+file=isehelp/rtv_p_rtl_select_objects.htm
+title=Selecting Objects
+type=xilhelp
+
+[topic sednq-tools-select-zoom]
+file=isehelp/rtv_p_zooming_selectzoom_button.htm
+title=Zooming Using the Select Zoom Button
+type=xilhelp
+
+[topic sednq-view-showwizard]
+file=isehelp/rtv_c_explorer_wizard.htm
+title=Explorer Wizard
+type=xilhelp
+
+[topic sednq-view-show-selected-objects]
+file=isehelp/rtv_p_ex_blocks.htm
+title=Viewing a Block as a Schematic
+type=xilhelp
+
+
+[topic sednq-view-start-end-markers]
+file=isehelp/rtv_p_show_start_end_points.htm
+title=Showing Start and End Points for a Net
+type=xilhelp
+
+
+
+// Dialog boxes
+
+[topic sednq-find-dlg]
+file=isehelp/rtv_db_find.htm
+title=Find Dialog Box
+type=xilhelp
+
+[topic find-in-files-dialog]
+file=isehelp/rtv_db_find_in_files.htm
+title=Find in Files Dialog
+type=xilhelp
+
+[topic seddq-print-dlg]
+file=isehelp/rtv_db_print_schematic.htm
+title=Schematic Print Dialog Box
+type=xilhelp
+
+[topic sednq-mainprefpage-dlg]
+file=isehelp/rtv_db_pref_rtv.htm
+title=Preferences Dialog Box - RTL and Technology Viewers Page
+type=xilhelp
+
+[topic sednq-color-scheme-pref-page]
+file=isehelp/rtv_db_ex_pref_color_scheme.htm
+title=Preferences Dialog Box - RTL and Technology Viewers Color Scheme Page
+type=xilhelp
+
+[topic sednq-new-object-colors-pref-page]
+file=isehelp/rtv_db_ex_pref_new_object_colors.htm
+title=Preferences Dialog Box - RTL and Technology Viewers New Object Colors Page
+type=xilhelp
+
+[topic sednq-object-colors-pref-page]
+file=isehelp/rtv_db_ex_pref_object_colors.htm
+title=Preferences Dialog Box - RTL and Technology Viewers Object Colors Page
+type=xilhelp
+
+[topic sednq-user-color-rules-pref-page]
+file=isehelp/rtv_db_ex_pref_user_color_rules.htm
+title=Preferences Dialog Box - RTL and Technology Viewers User Color Rules Page
+type=xilhelp
+
+[topic sednq-category-dlg]
+file=isehelp/rtv_r_category_panel.htm
+title=View by Category Panel
+type=xilhelp
+
+[topic sednq-history-dlg]
+file=isehelp/rtv_db_history.htm
+title=Schematic History List Dialog Box
+type=xilhelp
+
+[topic sednq-progress-dlg]
+file=isehelp/rtv_db_create_schematic.htm
+title=Create Schematic Progress Dialog Box
+type=xilhelp
+
+[topic sednq-lut-dlg]
+file=isehelp/rtv_db_lut_content.htm
+title=Show LUT Content Dialog Box
+type=xilhelp
+
+[topic sednq-select-block-pin-dlg]
+file=isehelp/rtv_db_ex_block_pin_annotation.htm
+title=Select Block Pin Annotation Dialog Box
+type=xilhelp
+
+[topic sednq-user-color-rules-pref-page-rule-dlg]
+file=isehelp/rtv_db_ex_pref_color_rule.htm
+title=Color Rule Dialog Box
+type=xilhelp
+
+//TABS
+
+[topic sednq-category-page]
+file=isehelp/rtv_r_category_panel.htm
+title=View by Category Panel
+type=xilhelp
+
+
+
+#include plugin_pn.map

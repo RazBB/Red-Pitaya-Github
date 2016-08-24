@@ -1,0 +1,32 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/xn_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/xn_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/xn_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+[topic Welcome]
+file=isehelp/xn_db_available_updates.htm
+title=Available Updates Dialog Box
+type=xilhelp
+
+[topic Proxy]
+file=isehelp/xn_db_proxy_settings_options.htm
+title=Preferences Dialog Box - Proxy Settings Page
+type=xilhelp
+
+//Automatic update settings are always called through ISE, as that's the only way to gedt to them

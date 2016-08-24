@@ -1,0 +1,177 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Aug 22 11:18:09 2016
+# Process ID: 12184
+# Current directory: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12900 C:\Users\RazBB\Desktop\RP_FPGA\RP_out_mix\RP_out_mix.xpr
+# Log file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/vivado.log
+# Journal file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:57 ; elapsed = 00:00:31 . Memory (MB): peak = 798.777 ; gain = 159.641
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream
+WARNING: [Vivado 12-872] Run step 'Design Initialization' is out-of-date.
+[Mon Aug 22 11:23:59 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run impl_1 -prev_step 
+WARNING: [Vivado 12-1017] Problems encountered:
+1. PID not specified
+
+reset_run impl_1 -prev_step 
+WARNING: [Vivado 12-1017] Problems encountered:
+1. PID not specified
+
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Mon Aug 22 11:24:26 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 11:24:26 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+set_property -dict [list CONFIG.Amplitude_Mode {Unit_Circle} CONFIG.PINC1 {1100010010011}] [get_ips Sine_wave]
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Mon Aug 22 11:51:19 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 11:51:19 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.Output_Width {20}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Mon Aug 22 12:24:57 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 12:24:57 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Mon Aug 22 12:53:07 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 12:53:07 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Mon Aug 22 13:15:36 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 13:15:36 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.Output_Width {14}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Mon Aug 22 13:41:13 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 13:41:13 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Mon Aug 22 14:08:10 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 14:08:10 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.Output_Width {24} CONFIG.Latency {11}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Mon Aug 22 14:38:04 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 14:38:04 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1 -noclean_dir 
+launch_runs impl_1 -to_step write_bitstream
+[Mon Aug 22 14:43:12 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 14:43:12 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.Output_Width {14} CONFIG.Latency {9}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Mon Aug 22 15:06:01 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Mon Aug 22 15:06:01 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Tue Aug 23 02:46:55 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Tue Aug 23 02:46:55 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Tue Aug 23 03:09:25 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Tue Aug 23 03:09:25 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Tue Aug 23 10:53:30 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Tue Aug 23 10:53:30 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Tue Aug 23 11:21:28 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Tue Aug 23 11:21:28 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream
+[Wed Aug 24 12:22:09 2016] Launched synth_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Wed Aug 24 12:22:09 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.PINC1 {1100010010011}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Wed Aug 24 12:58:54 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Wed Aug 24 12:58:54 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+set_property -dict [list CONFIG.PINC1 {1000001100010}] [get_ips Sine_wave]
+reset_run synth_1
+reset_run Sine_wave_synth_1
+launch_runs impl_1 -to_step write_bitstream
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Sine_wave'...
+[Wed Aug 24 13:36:07 2016] Launched Sine_wave_synth_1, synth_1...
+Run output will be captured here:
+Sine_wave_synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/Sine_wave_synth_1/runme.log
+synth_1: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/synth_1/runme.log
+[Wed Aug 24 13:36:07 2016] Launched impl_1...
+Run output will be captured here: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Aug 24 14:03:35 2016...

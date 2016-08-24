@@ -1,0 +1,53 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/ise_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/ise_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/ise_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//software that appears in Project Navigator
+
+
+#include plugin_pn.map
+
+#include plugin_pp.map
+
+#include designsummary.map
+
+#include plugin_sse.map
+
+#include plugin_rtv.map
+
+#include plugin_ite.map
+
+#include plugin_ce.map
+
+#include plugin_ta.map
+
+#include plugin_xpa.map
+
+
+//software that appears in its own window
+
+
+#include plugin_cgn.map
+
+#include plugin_imp.map 
+
+#include plugin_ism.map 
+
+#include xilinxnotify.map

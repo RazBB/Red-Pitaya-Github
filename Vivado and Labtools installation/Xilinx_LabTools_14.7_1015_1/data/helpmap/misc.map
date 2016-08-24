@@ -1,0 +1,18 @@
+[prefix helpurl]
+file=http://toolbox.xilinx.com/docsan/xilinx9/
+type=url
+
+[menu online_docs]
+file=topic=online+books
+
+[menu support]
+file=topic=support
+
+[menu support_case]
+file=topic=online+case
+
+[menu home]
+file=topic=xilinx+home
+
+[menu webfitter]
+file=topic=webfitter

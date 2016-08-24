@@ -1,0 +1,91 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/xpa_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/xpa_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/xpa_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+[topic help-topics]
+file=isehelp/xpa_c_overview.htm
+title=XPower Analyzer Overview
+type=xilhelp
+
+\\ Menu Commands
+
+[topic design-open]
+file=isehelp/xpa_p_opening_design_file.htm
+
+[topic design-close]
+file=isehelp/xpa_p_closing_design_file.htm
+
+[topic xpe-xml-save]
+file=isehelp/xpa_c_exporting_power_info_to_xpe.htm
+
+[topic edit-thermal]
+file=isehelp/xpa_c_summary_view.htm
+
+[topic edit-voltage]
+file=isehelp/xpa_c_summary_view.htm
+
+[topic edit-default-activity-rates]
+file=isehelp/xpa_c_default_activity_rates_view.htm
+
+[topic edit-tool-settings]
+file=isehelp/xpa_c_tool_settings_view.htm
+
+[topic settings-save]
+file=isehelp/xpa_c_saving_settings.htm
+
+[topic settings-save-as]
+file=isehelp/xpa_c_saving_settings.htm
+
+[topic update-power-analysis]
+file=isehelp/xpa_p_updating_power_analysis.htm
+
+[topic stop-power-analysis]
+file=isehelp/xpa_p_stopping_power_analysis.htm
+
+[topic undo-all-changes]
+file=isehelp/xpa_p_undoing_all_changes.htm
+
+[topic generate-report-file]
+file=isehelp/xpa_p_generating_advanced_report.htm
+
+[topic view-color-legend]
+file=isehelp/xpa_c_color_legend.htm
+
+[topic view-output-controlbar]
+file=isehelp/xpa_r_xpa_window.htm
+
+[topic view-report-navigator-controlbar]
+file=isehelp/xpa_r_xpa_window.htm
+
+[topic power-tools-web-page]
+file=isehelp/xpa_c_additional_resources.htm
+
+\\ Dialog Boxes
+
+[topic opt-project]
+file=isehelp/xpa_p_opening_design_file.htm
+
+[topic generate_report_dlg]
+file=isehelp/xpa_p_generating_advanced_report.htm
+
+\\ Screen Areas
+
+[topic gc-console-page] 
+file=isehelp/xpa_r_xpa_window.htm

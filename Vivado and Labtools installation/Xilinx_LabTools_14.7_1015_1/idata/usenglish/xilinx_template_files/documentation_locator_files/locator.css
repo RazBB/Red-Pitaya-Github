@@ -1,0 +1,48 @@
+#formfields {
+	PADDING-RIGHT: 0px; BORDER-TOP: #9eacba 1px solid; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(../images/bluedot.gif) repeat-y 130px 0px; PADDING-BOTTOM: 0px; MARGIN: 30px 0px 20px; PADDING-TOP: 0px; BORDER-BOTTOM: #9eacba 1px solid; BORDER-RIGHT-WIDTH: 0px
+}
+#locator-wrap FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#formfields .fs {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 15px; MARGIN: 0px; PADDING-TOP: 5px; BORDER-RIGHT-WIDTH: 0px
+}
+.fs P {
+	MARGIN: 15px 0px 0px; WIDTH: 150px
+}
+.fsshade {
+	BACKGROUND: url(../images/bluedot.gif) #edf2f5 repeat-y 130px 0px
+}
+.fs-group {
+	MARGIN: -17px 0px 0px 145px; WIDTH: 580px
+}
+.grpcols {
+	MARGIN: -17px 0px 15px 145px
+}
+.grpcols .col {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 15px; MARGIN: 0px 2px 0px -2px; WIDTH: 97px; PADDING-TOP: 0px
+}
+.grpcols .wide {
+	WIDTH: 140px; MARGIN-RIGHT: 10px
+}
+.col LABEL {
+	DISPLAY: block
+}
+.fs-group LABEL {
+	MARGIN: 0px 10px 0px 0px
+}
+#srcbtn {
+	MARGIN: 0px 0px 15px 150px
+}
+#srcbtn INPUT {
+	MARGIN: 0px
+}
+#srcbtn A {
+	LEFT: 15px; COLOR: #888; POSITION: relative; TOP: -8px
+}
+.select {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 10px; WIDTH: 180px; PADDING-TOP: 5px
+}
+.region {
+	MARGIN: 5px 0px
+}

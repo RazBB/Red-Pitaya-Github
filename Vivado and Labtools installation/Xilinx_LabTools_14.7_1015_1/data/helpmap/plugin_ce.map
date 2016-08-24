@@ -1,0 +1,375 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/pce_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/pce_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/pce_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+[topic plugin_ce_overview]
+file=isehelp/pce_c_overview.htm
+
+//Menu items
+[topic ce-edit-clocktopad]
+file=isehelp/pce_c_clock_to_pad_top.htm
+title=Specifying Clock to Pad Times [Constraints Editor]
+type=xilhelp
+
+[topic ce-edit-padtosetup]
+file=isehelp/pce_c_pad_to_setup_top.htm
+title=Specifying Pad to Setup Times [Constraints Editor]
+type=xilhelp
+
+[topic ce-edit-period]
+file=isehelp/pce_c_clock_period_top.htm
+title=Specifying Clock Period [Constraints Editor]
+type=xilhelp
+
+[topic ce-window-constraints]
+file=isehelp/pce_c_constraints_editor_tab.htm
+title=Viewing Constraints [Constraints Editor]
+type=xilhelp
+
+[topic cedc-open-design]
+file=isehelp/pce_p_open_design_standalone.htm
+title=Opening a Design from Constraints Editor (Standalone) [Constraints Editor]
+type=xilhelp
+
+[topic cedc-constraint-audit]
+file=isehelp/pce_p_create_constraints-audit-file.htm
+title=Creating a Constraints Audit File [Constraints Editor]
+type=xilhelp
+
+
+//Tree
+
+[topic tree-timing]
+file=isehelp/pce_c_timing_constraints_tab.htm
+title=Timing Constraints Tab [Constraints Editor]
+type=xilhelp
+
+[topic tree-global]
+file=isehelp/pce_c_specify_global_constraints.htm
+title=Specifying Global Constraints [Constraints Editor]
+type=xilhelp
+
+[topic tree-inputs]
+file=isehelp/pce_c_pad_to_setup_top.htm
+title=Pad to Setup Times [Constraints Editor]
+type=xilhelp
+
+[topic tree-outputs]
+file=isehelp/pce_c_clock_to_pad_top.htm
+title=Clock to Pad Times [Constraints Editor]
+type=xilhelp
+
+[topic tree-exceptions]
+file=isehelp/pce_c_specify_exceptions.htm
+title=Specifying Timing Exceptions [Constraints Editor]
+type=xilhelp
+
+[topic tree-paths]
+file=isehelp/pce_c_specify_exceptions_paths.htm
+title=Specifying Path Exceptions [Constraints Editor]
+type=xilhelp
+
+[topic tree-nets]
+file=isehelp/pce_c_specify_exceptions_nets.htm
+title=Specifying Net Exceptions [Constraints Editor]
+type=xilhelp
+
+[topic tree-operating]
+file=isehelp/pce_p_operatingconditions.htm
+title=Specifying Operating Conditions [Constraints Editor]
+type=xilhelp
+
+[topic tree-insts]
+file=isehelp/pce_p_exceptions_tig.htm
+title=Specifying Instances and Pins to Ignore [Constraints Editor]
+type=xilhelp
+
+[topic tree-group]
+file=isehelp/pce_c_creating_groups.htm
+title=Creating Groups [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbynet]
+file=isehelp/pce_p_groups_by_nets.htm
+title=Grouping Elements by Nets [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbyinst]
+file=isehelp/pce_p_groups_by_instance.htm
+title=Grouping Elements by Instance Name [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbyhier]
+file=isehelp/pce_p_groups_by_hierarchy.htm
+title=Grouping Elements by Hierarchy [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbyelement]
+file=isehelp/pce_p_groups_by_type.htm
+title=Grouping Elements by Element type [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbyclockedge]
+file=isehelp/pce_p_groups_by_clock_edge.htm
+title=Grouping Elements by Clock Edge [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupybythrupoint]
+file=isehelp/pce_p_tpthru_points.htm
+title=Creating Timing THRU Points [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupybytpsync]
+file=isehelp/pce_p_groups_by_combinatorial_pins.htm
+title=Grouping Constraints by Combinatorial Pins [Constraints Editor]
+type=xilhelp
+
+[topic tree-groupbydcm]
+file=isehelp/pce_p_groups_by_dcm_output.htm
+title=Grouping Elements by DCM Output Pin [Constraints Editor]
+type=xilhelp
+
+[topic tree-misc]
+file=isehelp/pce_c_specify_misc_constraints.htm
+title=Specifying Miscellaneous Constraints [Constraints Editor]
+type=xilhelp
+
+[topic tree-areagroup]
+file=isehelp/pce_p_assign_tgroup_to_agroup.htm
+title=Creating Area Groups from Time Groups [Constraints Editor]
+type=xilhelp
+
+[topic tree-asynchreg]
+file=isehelp/pce_p_async_registers.htm
+title=Marking Asynchronous Registers [Constraints Editor]
+type=xilhelp
+
+[topic tree-iob]
+file=isehelp/pce_p_registers_in_iob.htm
+title=Specifying Registers to be Placed in IOBs [Constraints Editor]
+type=xilhelp
+
+[topic tree-temp]
+file=isehelp/pce_p_temperature.htm
+title=Specifying Temperature [Constraints Editor]
+type=xilhelp
+
+[topic tree-feedback]
+file=isehelp/pce_p_specify_feedback.htm
+title=Specifying Feedback Path Delay for DCM Analysis [Constraints Editor]
+type=xilhelp
+
+[topic tree-ptc]
+file=isehelp/pce_p_path_tracing_enable_disable.htm
+title=Enabling or Disabling Path Tracing [Constraints Editor]
+type=xilhelp
+
+//Tabs
+
+[topic Advanced-tab]
+file=isehelp/pce_db_advanced-tab.htm
+title=Advanced Tab [Constraints Editor]
+type=xilhelp
+
+[topic Global-tab]
+file=isehelp/pce_db_global-tab.htm
+title=Global Tab [Constraints Editor]
+type=xilhelp
+
+[topic Misc-tab]
+file=isehelp/pce_db_misc-tab.htm
+title=Misc Tab [Constraints Editor]
+type=xilhelp
+
+[topic Ports-tab]
+file=isehelp/pce_db_ports-tab.htm
+title=Ports Tab [Constraints Editor]
+type=xilhelp
+
+
+//Dialog boxes
+
+[topic AreaGroup-dialog]
+file=isehelp/pce_db_areagroup-dialog.htm
+title=Time Group is Area Group Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic AsyncRegisters-dialog]
+file=isehelp/pce_db_asyncregisters-dialog.htm
+title=Asynchronous Registers (ASYNC_REG) Dialog Box (Specifying) [Constraints Editor]
+type=xilhelp
+
+[topic EditAsyncRegisters-dialog]
+file=isehelp/pce_db_EditAsyncRegisters-dialog.htm
+title=Asynchronous Registers (ASYNC_REG) Dialog Box (Editing) [Constraints Editor]
+type=xilhelp
+
+[topic ClockEdgeTimeGrp-dialog]
+file=isehelp/pce_db_clockedgetimegrp-dialog.htm
+title=Clock Edge Time Group Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic CreateOffsetOut-dialog]
+file=isehelp/pce_db_clocktopad-dialog.htm
+Topic=Clock to Pad Dialog Box [Constraints Editor]
+
+[topic EditOffsetIn-dialog]
+file=isehelp/pce_db_offsetin-dialog.htm
+Topic=Offset In Dialog Box [Constraints Editor]
+
+[topic EditOffsetOut-dialog]
+file=isehelp/pce_db_offsetout-dialog.htm
+Topic=Offset Out Dialog Box [Constraints Editor]
+
+[topic TimingIgnore-Inst-dialog]
+file=isehelp/pce_db_inst-pins-dialog.htm
+Topic=Instances and Pins Exceptions Dialog Box [Constraints Editor]
+
+[topic CreateTimeGroup-dialog]
+file=isehelp/pce_db_create_timegroup-dialog.htm
+Topic=Create Time Group Dialog Box [Constraints Editor]
+
+[topic Feedback-dialog]
+file=isehelp/pce_db_feedback-dialog.htm
+title=Feedback Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic FromThruTo-dialog]
+file=isehelp/pce_db_exceptions-path-dialog.htm
+title=Path Exceptions Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic Input-ClockGroup-dialog]
+file=isehelp/pce_db_create_input-registergroup-dialog.htm
+Topic=Register Group Dialog Box [Constraints Editor]
+
+[topic Input-PadGroup-dialog]
+file=isehelp/pce_db_create_input-padgroup-dialog.htm
+title=Pad Group Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic IOBRegisters-dialog]
+file=isehelp/pce_db_iobregisters-dialog.htm
+title=Registers to be Placed in IOBs (IOB) Dialog Box (Specifying) [Constraints Editor]
+type=xilhelp
+
+[topic EditIOBRegisters-dialog]
+file=isehelp/pce_db_EditIOBRegisters-dialog.htm
+title=Registers to be Placed in IOBs (IOB) Dialog Box (Editing) [Constraints Editor]
+type=xilhelp
+
+[topic OperatingConditions-dialog]
+file=isehelp/pce_db_operatingconditions-dialog.htm
+title=Operating Conditions Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic OpenDesign-dialog]
+file=isehelp/pce_db_startup-dialog.htm
+title=Startup Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic Output-ClockGroup-dialog]
+file=isehelp/pce_db_create_output-registergroup-dialog.htm
+Topic=Register Group Dialog Box [Constraints Editor]
+
+[topic Output-PadGroup-dialog]
+file=isehelp/pce_db_create_output-padgroup-dialog.htm
+title=Pad Group Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic PadToSetup-dialog]
+file=isehelp/pce_db_padtosetup-dialog.htm
+title=Pad to Setup Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic Period-dialog]
+file=isehelp/pce_db_period-dialog.htm
+title=Clock Period Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic Ptc-dialog]
+file=isehelp/pce_db_Ptc-dialog.htm
+title=Path Tracing Control Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic SourceSyncPadToSetup-dialog]
+file=isehelp/pce_db_sourcesyncpadtosetup-dialog.htm
+title=Source Sync Pad to Setup Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic SetupTime-ClockEdge-dialog]
+file=isehelp/pce_db_setuptime-clockedge-dialog.htm
+title=Create Clock to Pad (OFFSET OUT) Constraint [Constraints Editor]
+type=xilhelp
+
+[topic SetupTime-ClockInfo-dialog]
+file=isehelp/pce_db_setuptime-clockinfo-dialog.htm
+title=Create Clock to Pad (OFFSET OUT) Constraint [Constraints Editor]
+type=xilhelp
+
+[topic Startup-dialog]
+file=isehelp/pce_db_startup-dialog.htm
+title=Startup Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic Temperature-dialog]
+file=isehelp/pce_db_temperature-dialog.htm
+title=Temperature Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimeGroup-dialog]
+file=isehelp/pce_db_timegroup-dialog.htm
+title=Time Group Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimeName-Inst-dialog]
+file=isehelp/pce_db_timename-inst-dialog.htm
+title=Time Name Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimeName-Nets-dialog]
+file=isehelp/pce_db_timename-nets-dialog.htm
+title=Time Name Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimingIgnore-dialog]
+file=isehelp/pce_db_exceptions-nets-dialog.htm
+title=Net Exceptions Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimingIgnore-Inst-dialog]
+file=isehelp/pce_db_inst-pins-dialog.htm
+title=Instances and Pins Exceptions Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimingThruPoint-dialog]
+file=isehelp/pce_db_timingthrupoint-dialog.htm
+title=Timing THRU Point Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TimingTpsync-dialog]
+file=isehelp/pce_db_tpsync-dialog.htm
+title=Group Constraints by Combinatorial Pins (TPSYNC) Dialog Box [Constraints Editor]
+type=xilhelp
+
+[topic TNmdcm-dialog]
+file=isehelp/pce_db_tnmdcm-dialog.htm
+title=Group Constraints by DCM/PLL/MMCM Outputs (TNM) Dialog Box [Constraints Editor]
+type=xilhelp

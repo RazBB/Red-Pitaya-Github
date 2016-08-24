@@ -1,0 +1,171 @@
+This document will explain how to get the Red Pitaya to behave as below
+
+
+PHOTODIODE ------> ADC ----->       <------ Phase Shifter (Potentiometer) <------- Local Oscillator
+                             |      |							|
+                             |      |							|
+                           Mixer <---							|
+			     |								|
+			Low Pass Filter							|
+Error Signal <-- DAC <--------								|
+			      								|
+Laser <--------- DAC <-------------------------------------------------------------------
+
+
+
+So, I'll explain how everything in this folder works, firstly, the working, correct fpga project for the red pitaya is
+RP_out_mix, it's a vivado project, so firstly, get that installed.
+
+MAKE SURE THE RED PITAYA IS PLUGGED IN, POWERED ON AND CONNECTED TO THE ETHERNET!
+
+INPUT 1  = CONNECT TO PHOTODIODE
+INPUT 2  = CONNECT TO POTENTIOMETER (This is also connected to +3.3v and -3.3v, the pin diagrams are on google)
+
+The potentiometer on the red pitaya allows 360 degree control over the phase of the Local Oscillator wave going into the
+mixer, you're welcome.
+
+OUTPUT 1 = CONNECT TO LASER
+OUTPUT 2 = MIXED AND LOW PASSED SIGNAL
+
+---------
+FOR NEW FPGA IMAGE CREATION!!!
+---------
+
+Need to have Vivado 2016.2 instlled, also Labtools
+
+These are included in the Vivado and Labtools installation folder, just run the application for Vivado, and run Xsetup
+for Labtools.
+
+The License required is also in the same folder
+
+---------
+
+P.S in order to ssh onto the Red Pitaya, it is advisable to have bash for windows 10 installed, makes life easier.
+(Beware, bash really cares about capital letters, and to access your c drive, it's cd /mnt/c)
+
+I recommend having one CMD window open, and two bash windows open.
+
+CMD is for the xilinx file to make a .BIN image
+bash 1 is for copying .BIN file to Red Pitaya
+bash 2 is for SSHing onto the red pitaya
+
+
+
+------------------
+Red Pitaya SSH Login
+------------------
+
+ssh user and pass for red pitaya is root, just type root and press enter, the characters wont show up for security.
+
+the red pitaya IP address is 152.78.194.163, to find this out manually, go to http://store.redpitaya.com/myequipment/list/
+
+Login details for website are as follows
+
+Email = bb11g13@soton.ac.uk
+Password = university
+
+click on MY RP in the top right, and it takes you to all the details of the red pitaya.
+
+
+
+-----------------------------
+Customising FPGA
+-----------------------------
+
+Customisable parts of the FPGA code are the Sine_Wave IP, under red_pitaya_locking in the vivado window.
+also the CIC filter, to adjust how harsh it is.
+
+---------
+
+The Sine_Wave IP can have its frequency alter by changing the phase increment using binary numbers, I made a handy python
+code that tells you the binary number you need for the correct frequency. (Equation is in the DDS_Compiler v6.0 manual).
+
+---------
+
+The CIC filter can be adjusted by changing the sample rate, (higher is more filtering, careful of too much filtering)
+after this has been adjusted, go to implementation options, output width must be 14 bits (Size of DAC).
+CIC Filter should be fine as is, it's currently similar to a 10Khz low pass.
+THIS WIDTH MUST BE CHANGED ON BOTH CIC FILTERS!!!!
+
+The first decimates, the second interpolates. Also change the sample period (clock cycles) to the same number
+as the sample rate.
+
+
+
+---------
+CREATE .BIT FILE
+---------
+
+In the vivado project, select generate bitstream, and allow synthesis and implementation to run, the FPGA.bin file will
+appear in the RP_FPGA\RP_out_mix\RP_out_mix.runs\impl_1 folder.
+
+
+
+---------
+CREATE .BIN FILE
+---------
+
+Maybe you will need to prepare your environment, if you have a 64 bits machine, run the settings64.sh file located in your
+installation directory.
+
+The first thing to do is to search the promgen executable.
+It should be by there: C:\Xilinx\YOUR VERSION\LabTools\LabTools\bin\nt64\promgen.exe
+
+Use the CMD window and move to the location of your .BIT file.
+
+Finally, just launch the promgen tools with the command 
+C:\Xilinx\YOUR VERSION\LabTools\LabTools\bin\nt64\promgen.exe -w -b -p bin -o fpga.bin -u 0 red_pitaya_top.bit -data_width 32
+
+
+
+------------------
+RE-PROGRAMMING THE FPGA STEP BY STEP
+------------------
+
+First, using the Red Pitaya IP address connect to your Red Pitaya and enable Read/Write with ssh root@152.78.194.163 and then redpitaya> rw
+
+Then, on the other bash window go back to your project.run/impl1 directory and do scp fpga.bin root@your Red Pitaya IP:/tmp
+(This step can also be done in FPGA_images folder, but replace fpga with the desired file name)
+
+Finally, in redpitaya> window load the .BIN in xdevcfg with redpitaya> cat /tmp/fpga.bin >/dev/xdevcfg
+
+
+Password is still =>  root
+
+---------
+
+That's pretty much all you need to know, everything else is commented in the vivado code.
+Every time the Red Pitaya is turned off, the FPGA resets to stock, it's not hard to ssh on to the red pitaya and upload
+the FPGA to the temp folder and install it, so don't be lazy!
+
+You can always permanently change it, but that's up to you.
+
+---------
+
+
+
+Any questions?
+Don't hesitate to email me at either
+bb11g13@soton.ac.uk or if this is still being read after 30/07/2017, please email benburridge@gmail.com
+
+
+
+---------
+PRESET FPGA IMAGES ARE IN FPGA_IMAGES FOLDER
+---------
+
+The FPGA 8MHz_60mv is 2mV with a 30db attenuator, 1mV with a 30db + 6db attenuator, 700uV with a a 30db + 10db attenuator
+and 300uV with a 30db + 10db + 6db attenuator.
+(Bitshift of 4 to the right)
+
+The FPGA 8MHz_30mV is 1mV, 550uV, 350uV, 150uV with 30db, 30db + 6db, 30db + 10db, and 30db + 6db + 10db respectively.
+(Bitshift of 5 to the right)
+
+The FPGA 8MHz_15mV is 520uV, 240uV, 160uV with 30db, 30db + 6db, 30db + 10db respectively.
+(Bitshift of 6 to the right)
+
+The FPGA 8MHz_8mV is 300uV, 160uV, with 30db, 30db + 6db respectively.  
+(Beware, the lower the initial starting voltage, the noiser the signal, 8mV is probably the limit, although even this is starting to get a bit too noisy)
+(Bitshift of 7 to the right)
+
+Always test the amplitude of the wave before putting it into the laser, just in case!!!!!!

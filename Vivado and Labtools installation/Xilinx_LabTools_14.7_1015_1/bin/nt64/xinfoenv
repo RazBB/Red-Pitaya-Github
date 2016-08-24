@@ -1,0 +1,32 @@
+#! /bin/sh
+export PATH || exec /bin/sh "$0" $argv
+
+# Get the path to this exec
+xinfoloc=`dirname "$0"`
+#echo $xinfoloc
+
+unset LANG
+platform=`uname -s`
+
+if [ "$platform" = "Linux" ]
+then
+    machineType=`uname -m`;	# Get the machine type
+    if [ "$machineType" = "x86_64" ]
+    then
+	# 64 bit
+		dir="$xinfoloc/bin/lin64"
+    else
+		dir="$xinfoloc/bin/lin"
+    fi
+fi
+
+# set $LD_LIBRARY_PATH
+LD_LIBRARY_PATH="$dir":$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH
+
+PATH=/usr/bin:$PATH
+export PATH
+
+"$xinfoloc/xinfo" $1 $2 $3
+
+printf "\n\n%s\n\n" "************ xinfo done! ***************"

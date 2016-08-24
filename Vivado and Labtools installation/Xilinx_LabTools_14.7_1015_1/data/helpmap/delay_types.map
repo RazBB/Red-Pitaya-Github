@@ -1,0 +1,4524 @@
+
+[DelayType topic_not_found]
+file=help/delay_types/html/ta_b_no_delay_help.htm
+title=Overview
+
+[DelayType virtexe_Tas]
+file=help/delay_types/html/web_ds/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tah]
+file=help/delay_types/html/web_ds/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tback]
+file=help/delay_types/html/web_ds/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbcka]
+file=help/delay_types/html/web_ds/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbcko]
+file=help/delay_types/html/web_ds/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbdck]
+file=help/delay_types/html/web_ds/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbckd]
+file=help/delay_types/html/web_ds/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbeck]
+file=help/delay_types/html/web_ds/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbcke]
+file=help/delay_types/html/web_ds/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbpwh]
+file=help/delay_types/html/web_ds/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbpwl]
+file=help/delay_types/html/web_ds/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbrck]
+file=help/delay_types/html/web_ds/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbckr]
+file=help/delay_types/html/web_ds/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbwck]
+file=help/delay_types/html/web_ds/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbckw]
+file=help/delay_types/html/web_ds/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtexe_Tbxcy]
+file=help/delay_types/html/web_ds/ta_tbxcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tbyp]
+file=help/delay_types/html/web_ds/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tbyyb]
+file=help/delay_types/html/web_ds/ta_tbyyb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tcckx]
+file=help/delay_types/html/web_ds/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tckcx]
+file=help/delay_types/html/web_ds/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tccky]
+file=help/delay_types/html/web_ds/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tckcy]
+file=help/delay_types/html/web_ds/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tceck]
+file=help/delay_types/html/web_ds/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tckce]
+file=help/delay_types/html/web_ds/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tch]
+file=help/delay_types/html/web_ds/ta_tch.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tcinx]
+file=help/delay_types/html/web_ds/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tcinxb]
+file=help/delay_types/html/web_ds/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tciny]
+file=help/delay_types/html/web_ds/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tcklo]
+file=help/delay_types/html/web_ds/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tcko]
+file=help/delay_types/html/web_ds/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tcl]
+file=help/delay_types/html/web_ds/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tdick]
+file=help/delay_types/html/web_ds/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tckdi]
+file=help/delay_types/html/web_ds/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tds]
+file=help/delay_types/html/web_ds/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tdh]
+file=help/delay_types/html/web_ds/ta_tdh.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tf5inck]
+file=help/delay_types/html/web_ds/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tckf5in]
+file=help/delay_types/html/web_ds/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tf5iny]
+file=help/delay_types/html/web_ds/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tfandcy]
+file=help/delay_types/html/web_ds/ta_tfandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tfandxb]
+file=help/delay_types/html/web_ds/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tfandyb]
+file=help/delay_types/html/web_ds/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tgandcy]
+file=help/delay_types/html/web_ds/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tgandyb]
+file=help/delay_types/html/web_ds/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tgio]
+file=help/delay_types/html/web_ds/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtexe_Tgpio]
+file=help/delay_types/html/web_ds/ta_tgpio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtexe_Tgsrq]
+file=help/delay_types/html/web_ds/ta_tgsrq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tgts]
+file=help/delay_types/html/web_ds/ta_tgts.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tick]
+file=help/delay_types/html/web_ds/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tcki]
+file=help/delay_types/html/web_ds/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tickof]
+file=help/delay_types/html/web_ds/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Tickofdll]
+file=help/delay_types/html/web_ds/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Tif5]
+file=help/delay_types/html/web_ds/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tif5ck]
+file=help/delay_types/html/web_ds/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tckif5]
+file=help/delay_types/html/web_ds/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tif5x]
+file=help/delay_types/html/web_ds/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tif6ck]
+file=help/delay_types/html/web_ds/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tckif6]
+file=help/delay_types/html/web_ds/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tif6y]
+file=help/delay_types/html/web_ds/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tifnctl]
+file=help/delay_types/html/web_ds/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tilo]
+file=help/delay_types/html/web_ds/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tio]
+file=help/delay_types/html/web_ds/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtexe_Tiockhz]
+file=help/delay_types/html/web_ds/ta_tiockhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiockiq]
+file=help/delay_types/html/web_ds/ta_tiockiq.htm
+title=IOB Input Switching Characteristics - Tiockiq
+
+[DelayType virtexe_Tiockon]
+file=help/delay_types/html/web_ds/ta_tiockon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiockp]
+file=help/delay_types/html/web_ds/ta_tiockp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiogsrq]
+file=help/delay_types/html/web_ds/ta_tiogsrq.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tioiceck]
+file=help/delay_types/html/web_ds/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiockice]
+file=help/delay_types/html/web_ds/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiooceck]
+file=help/delay_types/html/web_ds/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiockoce]
+file=help/delay_types/html/web_ds/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tioock]
+file=help/delay_types/html/web_ds/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiocko]
+file=help/delay_types/html/web_ds/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tioolp]
+file=help/delay_types/html/web_ds/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tioop]
+file=help/delay_types/html/web_ds/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiopi]
+file=help/delay_types/html/web_ds/ta_tiopi.htm
+title=IOB Switching Characteristics - Tiopi
+
+[DelayType virtexe_Tiopick]
+file=help/delay_types/html/web_ds/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tioickp]
+file=help/delay_types/html/web_ds/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiopickd]
+file=help/delay_types/html/web_ds/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tioickpd]
+file=help/delay_types/html/web_ds/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiopid]
+file=help/delay_types/html/web_ds/ta_tiopid.htm
+title=IOB Input Switching Characteristics - Tiopid
+
+[DelayType virtexe_Tiopli]
+file=help/delay_types/html/web_ds/ta_tiopli.htm
+title=IOB Switching Characteristics - Tiopli
+
+[DelayType virtexe_Tiosrcki]
+file=help/delay_types/html/web_ds/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiosrcko]
+file=help/delay_types/html/web_ds/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiockosr]
+file=help/delay_types/html/web_ds/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiosrckt]
+file=help/delay_types/html/web_ds/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiocktsr]
+file=help/delay_types/html/web_ds/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiosrhz]
+file=help/delay_types/html/web_ds/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiosriq]
+file=help/delay_types/html/web_ds/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtexe_Tiosron]
+file=help/delay_types/html/web_ds/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiosrp]
+file=help/delay_types/html/web_ds/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiotceck]
+file=help/delay_types/html/web_ds/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiocktce]
+file=help/delay_types/html/web_ds/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiotck]
+file=help/delay_types/html/web_ds/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiockt]
+file=help/delay_types/html/web_ds/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiothz]
+file=help/delay_types/html/web_ds/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiotlphz]
+file=help/delay_types/html/web_ds/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tiotlpon]
+file=help/delay_types/html/web_ds/ta_tiotlpon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Tioton]
+file=help/delay_types/html/web_ds/ta_tioton.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtexe_Toff]
+file=help/delay_types/html/web_ds/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtexe_Ton]
+file=help/delay_types/html/web_ds/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtexe_Topbyg]
+file=help/delay_types/html/web_ds/ta_topbyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topcyf]
+file=help/delay_types/html/web_ds/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topcyg]
+file=help/delay_types/html/web_ds/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topgy]
+file=help/delay_types/html/web_ds/ta_topgy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topx]
+file=help/delay_types/html/web_ds/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topxb]
+file=help/delay_types/html/web_ds/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topy]
+file=help/delay_types/html/web_ds/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Topyb]
+file=help/delay_types/html/web_ds/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtexe_Tpsdll]
+file=help/delay_types/html/web_ds/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Tphdll]
+file=help/delay_types/html/web_ds/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Tpsfd]
+file=help/delay_types/html/web_ds/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Tphfd]
+file=help/delay_types/html/web_ds/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtexe_Trck]
+file=help/delay_types/html/web_ds/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Treg]
+file=help/delay_types/html/web_ds/ta_treg.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Trpw]
+file=help/delay_types/html/web_ds/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Trq]
+file=help/delay_types/html/web_ds/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType virtexe_Tshceck]
+file=help/delay_types/html/web_ds/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tshcko16]
+file=help/delay_types/html/web_ds/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tshcko32]
+file=help/delay_types/html/web_ds/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tshdick]
+file=help/delay_types/html/web_ds/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tws]
+file=help/delay_types/html/web_ds/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Twh]
+file=help/delay_types/html/web_ds/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Twc]
+file=help/delay_types/html/web_ds/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Twph]
+file=help/delay_types/html/web_ds/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Twpl]
+file=help/delay_types/html/web_ds/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtexe_Tioplid]
+file=help/delay_types/html/web_ds/ta_tioplid.htm
+title=IOB Input Switching Characteristics - Tioplid
+
+[DelayType spartan2e_Tas]
+file=help/delay_types/html/web_ds.sp2e/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tah]
+file=help/delay_types/html/web_ds.sp2e/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tback]
+file=help/delay_types/html/web_ds.sp2e/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbcka]
+file=help/delay_types/html/web_ds.sp2e/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbcko]
+file=help/delay_types/html/web_ds.sp2e/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbdck]
+file=help/delay_types/html/web_ds.sp2e/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbckd]
+file=help/delay_types/html/web_ds.sp2e/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbeck]
+file=help/delay_types/html/web_ds.sp2e/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbcke]
+file=help/delay_types/html/web_ds.sp2e/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbpwl]
+file=help/delay_types/html/web_ds.sp2e/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbrck]
+file=help/delay_types/html/web_ds.sp2e/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbckr]
+file=help/delay_types/html/web_ds.sp2e/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbwck]
+file=help/delay_types/html/web_ds.sp2e/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbckw]
+file=help/delay_types/html/web_ds.sp2e/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tbxcy]
+file=help/delay_types/html/web_ds.sp2e/ta_tbxcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tbyp]
+file=help/delay_types/html/web_ds.sp2e/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tbyyb]
+file=help/delay_types/html/web_ds.sp2e/ta_tbyyb.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tcckx]
+file=help/delay_types/html/web_ds.sp2e/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tckcx]
+file=help/delay_types/html/web_ds.sp2e/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tccky]
+file=help/delay_types/html/web_ds.sp2e/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tckcy]
+file=help/delay_types/html/web_ds.sp2e/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tceck]
+file=help/delay_types/html/web_ds.sp2e/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tckce]
+file=help/delay_types/html/web_ds.sp2e/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tch]
+file=help/delay_types/html/web_ds.sp2e/ta_tch.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tcinx]
+file=help/delay_types/html/web_ds.sp2e/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tcinxb]
+file=help/delay_types/html/web_ds.sp2e/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tciny]
+file=help/delay_types/html/web_ds.sp2e/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tcklo]
+file=help/delay_types/html/web_ds.sp2e/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tcko]
+file=help/delay_types/html/web_ds.sp2e/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tcl]
+file=help/delay_types/html/web_ds.sp2e/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tdick]
+file=help/delay_types/html/web_ds.sp2e/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tckdi]
+file=help/delay_types/html/web_ds.sp2e/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tds]
+file=help/delay_types/html/web_ds.sp2e/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tdh]
+file=help/delay_types/html/web_ds.sp2e/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tf5inck]
+file=help/delay_types/html/web_ds.sp2e/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tckf5in]
+file=help/delay_types/html/web_ds.sp2e/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tf5iny]
+file=help/delay_types/html/web_ds.sp2e/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tfandcy]
+file=help/delay_types/html/web_ds.sp2e/ta_tfandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tfandyb]
+file=help/delay_types/html/web_ds.sp2e/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tgandcy]
+file=help/delay_types/html/web_ds.sp2e/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tgio]
+file=help/delay_types/html/web_ds.sp2e/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType spartan2e_Tgandyb]
+file=help/delay_types/html/web_ds.sp2e/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tgpio]
+file=help/delay_types/html/web_ds.sp2e/ta_tgpio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType spartan2e_Tgsrq]
+file=help/delay_types/html/web_ds.sp2e/ta_tgsrq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tgts]
+file=help/delay_types/html/web_ds.sp2e/ta_tgts.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tick]
+file=help/delay_types/html/web_ds.sp2e/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tcki]
+file=help/delay_types/html/web_ds.sp2e/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tickof]
+file=help/delay_types/html/web_ds.sp2e/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Tickofdll]
+file=help/delay_types/html/web_ds.sp2e/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Tif5]
+file=help/delay_types/html/web_ds.sp2e/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tif5ck]
+file=help/delay_types/html/web_ds.sp2e/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tckif5]
+file=help/delay_types/html/web_ds.sp2e/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tif5x]
+file=help/delay_types/html/web_ds.sp2e/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tif6ck]
+file=help/delay_types/html/web_ds.sp2e/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tckif6]
+file=help/delay_types/html/web_ds.sp2e/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tif6y]
+file=help/delay_types/html/web_ds.sp2e/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tifnctl]
+file=help/delay_types/html/web_ds.sp2e/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tilo]
+file=help/delay_types/html/web_ds.sp2e/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tiockhz]
+file=help/delay_types/html/web_ds.sp2e/ta_tiockhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiockiq]
+file=help/delay_types/html/web_ds.sp2e/ta_tiockiq.htm
+title=IOB Input Switching Characteristics - Tiockiq
+
+[DelayType spartan2e_Tiockon]
+file=help/delay_types/html/web_ds.sp2e/ta_tiockon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiockp]
+file=help/delay_types/html/web_ds.sp2e/ta_tiockp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiogsrq]
+file=help/delay_types/html/web_ds.sp2e/ta_tiogsrq.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tioiceck]
+file=help/delay_types/html/web_ds.sp2e/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiockice]
+file=help/delay_types/html/web_ds.sp2e/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiooceck]
+file=help/delay_types/html/web_ds.sp2e/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiockoce]
+file=help/delay_types/html/web_ds.sp2e/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tioock]
+file=help/delay_types/html/web_ds.sp2e/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiocko]
+file=help/delay_types/html/web_ds.sp2e/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tioolp]
+file=help/delay_types/html/web_ds.sp2e/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tioop]
+file=help/delay_types/html/web_ds.sp2e/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiopi]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopi.htm
+title=IOB Switching Characteristics - Tiopi
+
+[DelayType spartan2e_Tiopick]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tioickp]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiopickd]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tioickpd]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiopid]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopid.htm
+title=IOB Input Switching Characteristics - Tiopid
+
+[DelayType spartan2e_Tiopli]
+file=help/delay_types/html/web_ds.sp2e/ta_tiopli.htm
+title=IOB Switching Characteristics - Tiopli
+
+[DelayType spartan2e_Tioplid]
+file=help/delay_types/html/web_ds.sp2e/ta_tioplid.htm
+title=IOB Input Switching Characteristics - Tioplid
+
+[DelayType spartan2e_Tiosrcki]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiosrcko]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiockosr]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiosrckt]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiocktsr]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiosrhz]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiosriq]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan2e_Tiosron]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiosrp]
+file=help/delay_types/html/web_ds.sp2e/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiotceck]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiocktce]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiotck]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiockt]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiothz]
+file=help/delay_types/html/web_ds.sp2e/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiotlphz]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tiotlpon]
+file=help/delay_types/html/web_ds.sp2e/ta_tiotlpon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Tioton]
+file=help/delay_types/html/web_ds.sp2e/ta_tioton.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan2e_Toff]
+file=help/delay_types/html/web_ds.sp2e/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan2e_Ton]
+file=help/delay_types/html/web_ds.sp2e/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan2e_Topbyg]
+file=help/delay_types/html/web_ds.sp2e/ta_topbyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topcyf]
+file=help/delay_types/html/web_ds.sp2e/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topcyg]
+file=help/delay_types/html/web_ds.sp2e/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topgy]
+file=help/delay_types/html/web_ds.sp2e/ta_topgy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topx]
+file=help/delay_types/html/web_ds.sp2e/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topxb]
+file=help/delay_types/html/web_ds.sp2e/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topy]
+file=help/delay_types/html/web_ds.sp2e/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Topyb]
+file=help/delay_types/html/web_ds.sp2e/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tpsfd]
+file=help/delay_types/html/web_ds.sp2e/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Tphfd]
+file=help/delay_types/html/web_ds.sp2e/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Trck]
+file=help/delay_types/html/web_ds.sp2e/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Treg]
+file=help/delay_types/html/web_ds.sp2e/ta_treg.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Trpw]
+file=help/delay_types/html/web_ds.sp2e/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Trq]
+file=help/delay_types/html/web_ds.sp2e/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tshceck]
+file=help/delay_types/html/web_ds.sp2e/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tshcko16]
+file=help/delay_types/html/web_ds.sp2e/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tshcko32]
+file=help/delay_types/html/web_ds.sp2e/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tshdick]
+file=help/delay_types/html/web_ds.sp2e/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Twph]
+file=help/delay_types/html/web_ds.sp2e/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Twpl]
+file=help/delay_types/html/web_ds.sp2e/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tws]
+file=help/delay_types/html/web_ds.sp2e/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Twh]
+file=help/delay_types/html/web_ds.sp2e/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan2e_Tbpwh]
+file=help/delay_types/html/web_ds.sp2e/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan2e_Tfandxb]
+file=help/delay_types/html/web_ds.sp2e/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan2e_Tio]
+file=help/delay_types/html/web_ds.sp2e/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan2e_Tpsdll]
+file=help/delay_types/html/web_ds.sp2e/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Tphdll]
+file=help/delay_types/html/web_ds.sp2e/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan2e_Twc]
+file=help/delay_types/html/web_ds.sp2e/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tas]
+file=help/delay_types/html/web_ds_sp3/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tah]
+file=help/delay_types/html/web_ds_sp3/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tback]
+file=help/delay_types/html/web_ds_sp3/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbcka]
+file=help/delay_types/html/web_ds_sp3/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbcko]
+file=help/delay_types/html/web_ds_sp3/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbdck]
+file=help/delay_types/html/web_ds_sp3/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbckd]
+file=help/delay_types/html/web_ds_sp3/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbeck]
+file=help/delay_types/html/web_ds_sp3/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbcke]
+file=help/delay_types/html/web_ds_sp3/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbpwh]
+file=help/delay_types/html/web_ds_sp3/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbpwl]
+file=help/delay_types/html/web_ds_sp3/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbckr]
+file=help/delay_types/html/web_ds_sp3/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbrck]
+file=help/delay_types/html/web_ds_sp3/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbwck]
+file=help/delay_types/html/web_ds_sp3/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbckw]
+file=help/delay_types/html/web_ds_sp3/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType spartan3_Tbxcy]
+file=help/delay_types/html/web_ds_sp3/ta_tbxcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tbyp]
+file=help/delay_types/html/web_ds_sp3/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tbyyb]
+file=help/delay_types/html/web_ds_sp3/ta_tbyyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tcckx]
+file=help/delay_types/html/web_ds_sp3/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tckcx]
+file=help/delay_types/html/web_ds_sp3/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tccky]
+file=help/delay_types/html/web_ds_sp3/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tckcy]
+file=help/delay_types/html/web_ds_sp3/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tceck]
+file=help/delay_types/html/web_ds_sp3/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tckce]
+file=help/delay_types/html/web_ds_sp3/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tch]
+file=help/delay_types/html/web_ds_sp3/ta_tch.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tcinx]
+file=help/delay_types/html/web_ds_sp3/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tcinxb]
+file=help/delay_types/html/web_ds_sp3/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tciny]
+file=help/delay_types/html/web_ds_sp3/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tcklo]
+file=help/delay_types/html/web_ds_sp3/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tcko]
+file=help/delay_types/html/web_ds_sp3/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tcl]
+file=help/delay_types/html/web_ds_sp3/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tdick]
+file=help/delay_types/html/web_ds_sp3/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tckdi]
+file=help/delay_types/html/web_ds_sp3/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tds]
+file=help/delay_types/html/web_ds_sp3/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tdh]
+file=help/delay_types/html/web_ds_sp3/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tf5inck]
+file=help/delay_types/html/web_ds_sp3/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tckf5in]
+file=help/delay_types/html/web_ds_sp3/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tf5iny]
+file=help/delay_types/html/web_ds_sp3/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tfandcy]
+file=help/delay_types/html/web_ds_sp3/ta_tfandcy.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tfandxb]
+file=help/delay_types/html/web_ds_sp3/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tfandyb]
+file=help/delay_types/html/web_ds_sp3/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tgandcy]
+file=help/delay_types/html/web_ds_sp3/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tgandyb]
+file=help/delay_types/html/web_ds_sp3/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tgio]
+file=help/delay_types/html/web_ds_sp3/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType spartan3_Tgpio]
+file=help/delay_types/html/web_ds_sp3/ta_tgpio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType spartan3_Tgsrq]
+file=help/delay_types/html/web_ds_sp3/ta_tgsrq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tgts]
+file=help/delay_types/html/web_ds_sp3/ta_tgts.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tick]
+file=help/delay_types/html/web_ds_sp3/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tcki]
+file=help/delay_types/html/web_ds_sp3/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tickof]
+file=help/delay_types/html/web_ds_sp3/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Tickofdll]
+file=help/delay_types/html/web_ds_sp3/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Tif5]
+file=help/delay_types/html/web_ds_sp3/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tif5ck]
+file=help/delay_types/html/web_ds_sp3/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tif5x]
+file=help/delay_types/html/web_ds_sp3/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tif6ck]
+file=help/delay_types/html/web_ds_sp3/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tif6ck]
+file=help/delay_types/html/web_ds_sp3/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tif6y]
+file=help/delay_types/html/web_ds_sp3/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tifnctl]
+file=help/delay_types/html/web_ds_sp3/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tilo]
+file=help/delay_types/html/web_ds_sp3/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tio]
+file=help/delay_types/html/web_ds_sp3/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan3_Tiockhz]
+file=help/delay_types/html/web_ds_sp3/ta_tiockhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiockiq]
+file=help/delay_types/html/web_ds_sp3/ta_tiockiq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiockon]
+file=help/delay_types/html/web_ds_sp3/ta_tiockon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiockp]
+file=help/delay_types/html/web_ds_sp3/ta_tiockp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiogsrq]
+file=help/delay_types/html/web_ds_sp3/ta_tiogsrq.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tioiceck]
+file=help/delay_types/html/web_ds_sp3/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiockice]
+file=help/delay_types/html/web_ds_sp3/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiooceck]
+file=help/delay_types/html/web_ds_sp3/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiockoce]
+file=help/delay_types/html/web_ds_sp3/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tioock]
+file=help/delay_types/html/web_ds_sp3/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiocko]
+file=help/delay_types/html/web_ds_sp3/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tioolp]
+file=help/delay_types/html/web_ds_sp3/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tioop]
+file=help/delay_types/html/web_ds_sp3/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiopi]
+file=help/delay_types/html/web_ds_sp3/ta_tiopi.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiopick]
+file=help/delay_types/html/web_ds_sp3/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tioickp]
+file=help/delay_types/html/web_ds_sp3/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiopickd]
+file=help/delay_types/html/web_ds_sp3/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tioickpd]
+file=help/delay_types/html/web_ds_sp3/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiopid]
+file=help/delay_types/html/web_ds_sp3/ta_tiopid.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiopli]
+file=help/delay_types/html/web_ds_sp3/ta_tiopli.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tioplid]
+file=help/delay_types/html/web_ds_sp3/ta_tioplid.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiosrcki]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiosrcko]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiockosr]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiosrckt]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiocktsr]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiosrhz]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiosriq]
+file=help/delay_types/html/web_ds_sp3/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType spartan3_Tiosron]
+file=help/delay_types/html/web_ds_sp3/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiosrp]
+file=help/delay_types/html/web_ds_sp3/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiotceck]
+file=help/delay_types/html/web_ds_sp3/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiocktce]
+file=help/delay_types/html/web_ds_sp3/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiockt]
+file=help/delay_types/html/web_ds_sp3/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiotck]
+file=help/delay_types/html/web_ds_sp3/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiothz]
+file=help/delay_types/html/web_ds_sp3/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiotlphz]
+file=help/delay_types/html/web_ds_sp3/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tiotlpon]
+file=help/delay_types/html/web_ds_sp3/ta_tiotlpon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Tioton]
+file=help/delay_types/html/web_ds_sp3/ta_tioton.htm
+title=IOB Output Switching Characteristics
+
+[DelayType spartan3_Toff]
+file=help/delay_types/html/web_ds_sp3/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan3_Ton]
+file=help/delay_types/html/web_ds_sp3/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan3_Topbyg]
+file=help/delay_types/html/web_ds_sp3/ta_topbyg.htm
+title=TBUF Switching Characteristics
+
+[DelayType spartan3_Topcyf]
+file=help/delay_types/html/web_ds_sp3/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topcyg]
+file=help/delay_types/html/web_ds_sp3/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topgy]
+file=help/delay_types/html/web_ds_sp3/ta_topgy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topx]
+file=help/delay_types/html/web_ds_sp3/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topxb]
+file=help/delay_types/html/web_ds_sp3/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topy]
+file=help/delay_types/html/web_ds_sp3/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Topyb]
+file=help/delay_types/html/web_ds_sp3/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType spartan3_Tpsdll]
+file=help/delay_types/html/web_ds_sp3/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Tphdll]
+file=help/delay_types/html/web_ds_sp3/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Tpsfd]
+file=help/delay_types/html/web_ds_sp3/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Tphfd]
+file=help/delay_types/html/web_ds_sp3/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType spartan3_Trck]
+file=help/delay_types/html/web_ds_sp3/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Treg]
+file=help/delay_types/html/web_ds_sp3/ta_treg.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Trpw]
+file=help/delay_types/html/web_ds_sp3/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Trq]
+file=help/delay_types/html/web_ds_sp3/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan3_Tshceck]
+file=help/delay_types/html/web_ds_sp3/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tshcko16]
+file=help/delay_types/html/web_ds_sp3/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tshcko32]
+file=help/delay_types/html/web_ds_sp3/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tshdick]
+file=help/delay_types/html/web_ds_sp3/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Twc]
+file=help/delay_types/html/web_ds_sp3/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Twph]
+file=help/delay_types/html/web_ds_sp3/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Twpl]
+file=help/delay_types/html/web_ds_sp3/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Tws]
+file=help/delay_types/html/web_ds_sp3/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType spartan3_Twh]
+file=help/delay_types/html/web_ds_sp3/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Dcm_input_tol]
+file=help/delay_types/html/web_ds_v2/ta_dcm_input_tol.htm
+title=Virtex-II DCM Characteristics
+
+[DelayType virtex2_Tas]
+file=help/delay_types/html/web_ds_v2/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tah]
+file=help/delay_types/html/web_ds_v2/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tback]
+file=help/delay_types/html/web_ds_v2/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbcka]
+file=help/delay_types/html/web_ds_v2/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbcko]
+file=help/delay_types/html/web_ds_v2/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbdck]
+file=help/delay_types/html/web_ds_v2/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbckd]
+file=help/delay_types/html/web_ds_v2/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbeck]
+file=help/delay_types/html/web_ds_v2/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbcke]
+file=help/delay_types/html/web_ds_v2/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbpwh]
+file=help/delay_types/html/web_ds_v2/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbpwl]
+file=help/delay_types/html/web_ds_v2/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbrck]
+file=help/delay_types/html/web_ds_v2/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbckr]
+file=help/delay_types/html/web_ds_v2/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbwck]
+file=help/delay_types/html/web_ds_v2/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbckw]
+file=help/delay_types/html/web_ds_v2/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2_Tbxcy]
+file=help/delay_types/html/web_ds_v2/ta_tbxcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tbyp]
+file=help/delay_types/html/web_ds_v2/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tbyyb]
+file=help/delay_types/html/web_ds_v2/ta_tbyyb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcckx]
+file=help/delay_types/html/web_ds_v2/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tckcx]
+file=help/delay_types/html/web_ds_v2/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tccky]
+file=help/delay_types/html/web_ds_v2/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tckcy]
+file=help/delay_types/html/web_ds_v2/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tceck]
+file=help/delay_types/html/web_ds_v2/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckce]
+file=help/delay_types/html/web_ds_v2/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tch]
+file=help/delay_types/html/web_ds_v2/ta_tch.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcinx]
+file=help/delay_types/html/web_ds_v2/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tciny]
+file=help/delay_types/html/web_ds_v2/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tcklo]
+file=help/delay_types/html/web_ds_v2/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcko]
+file=help/delay_types/html/web_ds_v2/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcksh]
+file=help/delay_types/html/web_ds_v2/ta_tcksh.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcl]
+file=help/delay_types/html/web_ds_v2/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tdick]
+file=help/delay_types/html/web_ds_v2/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckdi]
+file=help/delay_types/html/web_ds_v2/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tds]
+file=help/delay_types/html/web_ds_v2/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tdh]
+file=help/delay_types/html/web_ds_v2/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tdxck]
+file=help/delay_types/html/web_ds_v2/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckdx]
+file=help/delay_types/html/web_ds_v2/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tdyck]
+file=help/delay_types/html/web_ds_v2/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckdy]
+file=help/delay_types/html/web_ds_v2/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tf5inck]
+file=help/delay_types/html/web_ds_v2/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckf5in]
+file=help/delay_types/html/web_ds_v2/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tf5iny]
+file=help/delay_types/html/web_ds_v2/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tfandcy]
+file=help/delay_types/html/web_ds_v2/ta_tfandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tfandxb]
+file=help/delay_types/html/web_ds_v2/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tfandyb]
+file=help/delay_types/html/web_ds_v2/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tgandcy]
+file=help/delay_types/html/web_ds_v2/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tgandyb]
+file=help/delay_types/html/web_ds_v2/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tgio]
+file=help/delay_types/html/web_ds_v2/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2_Tgi0o]
+file=help/delay_types/html/web_ds_v2/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2_Tgi1o]
+file=help/delay_types/html/web_ds_v2/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2_Tgpio]
+file=help/delay_types/html/web_ds_v2/ta_tgpio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2_Tgsrq]
+file=help/delay_types/html/web_ds_v2/ta_tgsrq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tgts]
+file=help/delay_types/html/web_ds_v2/ta_tgts.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tick]
+file=help/delay_types/html/web_ds_v2/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcki]
+file=help/delay_types/html/web_ds_v2/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tickof]
+file=help/delay_types/html/web_ds_v2/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tickofdcm]
+file=help/delay_types/html/web_ds_v2/ta_tickofdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tickofdll]
+file=help/delay_types/html/web_ds_v2/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tif5]
+file=help/delay_types/html/web_ds_v2/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tif5ck]
+file=help/delay_types/html/web_ds_v2/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckif5]
+file=help/delay_types/html/web_ds_v2/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tif5x]
+file=help/delay_types/html/web_ds_v2/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tif6ck]
+file=help/delay_types/html/web_ds_v2/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tckif6]
+file=help/delay_types/html/web_ds_v2/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tif6y]
+file=help/delay_types/html/web_ds_v2/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tifnctl]
+file=help/delay_types/html/web_ds_v2/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tifxy]
+file=help/delay_types/html/web_ds_v2/ta_tifxy.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tilo]
+file=help/delay_types/html/web_ds_v2/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tinafx]
+file=help/delay_types/html/web_ds_v2/ta_tinafx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tinbfx]
+file=help/delay_types/html/web_ds_v2/ta_tinbfx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tio]
+file=help/delay_types/html/web_ds_v2/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2_Tiockhz]
+file=help/delay_types/html/web_ds_v2/ta_tiockhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiockiq]
+file=help/delay_types/html/web_ds_v2/ta_tiockiq.htm
+title=IOB Input Switching Characteristics - Tiockiq
+
+[DelayType virtex2_Tiockon]
+file=help/delay_types/html/web_ds_v2/ta_tiockon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiockp]
+file=help/delay_types/html/web_ds_v2/ta_tiockp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiogsrq]
+file=help/delay_types/html/web_ds_v2/ta_tiogsrq.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tioiceck]
+file=help/delay_types/html/web_ds_v2/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiockice]
+file=help/delay_types/html/web_ds_v2/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiooceck]
+file=help/delay_types/html/web_ds_v2/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiockoce]
+file=help/delay_types/html/web_ds_v2/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tioock]
+file=help/delay_types/html/web_ds_v2/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiocko]
+file=help/delay_types/html/web_ds_v2/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tioolp]
+file=help/delay_types/html/web_ds_v2/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tioop]
+file=help/delay_types/html/web_ds_v2/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiopi]
+file=help/delay_types/html/web_ds_v2/ta_tiopi.htm
+title=V-II IOB Switching Characteristics - Tiopi
+
+[DelayType virtex2_Tiopick]
+file=help/delay_types/html/web_ds_v2/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tioickp]
+file=help/delay_types/html/web_ds_v2/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiopickd]
+file=help/delay_types/html/web_ds_v2/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tioickpd]
+file=help/delay_types/html/web_ds_v2/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiopid]
+file=help/delay_types/html/web_ds_v2/ta_tiopid.htm
+title=IOB Input Switching Characteristics - Tiopid
+
+[DelayType virtex2_Tioplid]
+file=help/delay_types/html/web_ds_v2/ta_tioplid.htm
+title=IOB Input Switching Characteristics - Tioplid
+
+[DelayType virtex2_Tiosrcki]
+file=help/delay_types/html/web_ds_v2/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiosrcko]
+file=help/delay_types/html/web_ds_v2/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiockosr]
+file=help/delay_types/html/web_ds_v2/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiosrckt]
+file=help/delay_types/html/web_ds_v2/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiocktsr]
+file=help/delay_types/html/web_ds_v2/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiosrhz]
+file=help/delay_types/html/web_ds_v2/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiosriq]
+file=help/delay_types/html/web_ds_v2/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2_Tiosron]
+file=help/delay_types/html/web_ds_v2/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiosrp]
+file=help/delay_types/html/web_ds_v2/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiotceck]
+file=help/delay_types/html/web_ds_v2/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiocktce]
+file=help/delay_types/html/web_ds_v2/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiotck]
+file=help/delay_types/html/web_ds_v2/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiockt]
+file=help/delay_types/html/web_ds_v2/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiothz]
+file=help/delay_types/html/web_ds_v2/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiotlphz]
+file=help/delay_types/html/web_ds_v2/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tiotlpon]
+file=help/delay_types/html/web_ds_v2/ta_tiotlpon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tioton]
+file=help/delay_types/html/web_ds_v2/ta_tioton.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2_Tmult_p0]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p0.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p10]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p10.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p11]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p11.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p12]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p12.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p13]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p13.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p14]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p14.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p15]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p15.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p16]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p16.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p1]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p1.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p17]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p17.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p18]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p18.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p19]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p19.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p2]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p2.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p20]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p20.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p21]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p21.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p22]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p22.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p23]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p23.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p24]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p24.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p25]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p25.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p26]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p26.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p27]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p27.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p28]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p28.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p29]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p29.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p3]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p3.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p30]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p30.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p31]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p31.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p32]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p32.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p33]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p33.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p34]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p34.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p35]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p35.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p4]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p4.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p5]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p5.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p6]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p6.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p7]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p7.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p8]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p8.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Tmult_p9]
+file=help/delay_types/html/web_ds_v2/ta_tmult_p9.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2_Toff]
+file=help/delay_types/html/web_ds_v2/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2_Ton]
+file=help/delay_types/html/web_ds_v2/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2_Topbyg]
+file=help/delay_types/html/web_ds_v2/ta_topbyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topcyf]
+file=help/delay_types/html/web_ds_v2/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topcyg]
+file=help/delay_types/html/web_ds_v2/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topgy]
+file=help/delay_types/html/web_ds_v2/ta_topgy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topx]
+file=help/delay_types/html/web_ds_v2/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topxb]
+file=help/delay_types/html/web_ds_v2/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topy]
+file=help/delay_types/html/web_ds_v2/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Topyb]
+file=help/delay_types/html/web_ds_v2/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tpsdcm]
+file=help/delay_types/html/web_ds_v2/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tphdcm]
+file=help/delay_types/html/web_ds_v2/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tpsdll]
+file=help/delay_types/html/web_ds_v2/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tpsfd]
+file=help/delay_types/html/web_ds_v2/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Tphfd]
+file=help/delay_types/html/web_ds_v2/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2_Trck]
+file=help/delay_types/html/web_ds_v2/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Treg]
+file=help/delay_types/html/web_ds_v2/ta_treg.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Treg32]
+file=help/delay_types/html/web_ds_v2/ta_treg32.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tregf5]
+file=help/delay_types/html/web_ds_v2/ta_tregf5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tregxb]
+file=help/delay_types/html/web_ds_v2/ta_tregxb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tregyb]
+file=help/delay_types/html/web_ds_v2/ta_tregyb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Trpw]
+file=help/delay_types/html/web_ds_v2/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Trq]
+file=help/delay_types/html/web_ds_v2/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tshceck]
+file=help/delay_types/html/web_ds_v2/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tshcko16]
+file=help/delay_types/html/web_ds_v2/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tshcko32]
+file=help/delay_types/html/web_ds_v2/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tshckof5]
+file=help/delay_types/html/web_ds_v2/ta_tshckof5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tshdick]
+file=help/delay_types/html/web_ds_v2/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tsopsop]
+file=help/delay_types/html/web_ds_v2/ta_tsopsop.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tsrlds]
+file=help/delay_types/html/web_ds_v2/ta_tsrlds.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tsrldh]
+file=help/delay_types/html/web_ds_v2/ta_tsrlds.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tsrph]
+file=help/delay_types/html/web_ds_v2/ta_tsrph.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tsrpl]
+file=help/delay_types/html/web_ds_v2/ta_tsrpl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Twc]
+file=help/delay_types/html/web_ds_v2/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Twes]
+file=help/delay_types/html/web_ds_v2/ta_twes.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tweh]
+file=help/delay_types/html/web_ds_v2/ta_twes.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Twph]
+file=help/delay_types/html/web_ds_v2/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Twpl]
+file=help/delay_types/html/web_ds_v2/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Tws]
+file=help/delay_types/html/web_ds_v2/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Twh]
+file=help/delay_types/html/web_ds_v2/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2_Twss]
+file=help/delay_types/html/web_ds_v2/ta_twss.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Twsh]
+file=help/delay_types/html/web_ds_v2/ta_twss.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2_Tcinxb]
+file=help/delay_types/html/web_ds_v2/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2_Tiopli]
+file=help/delay_types/html/web_ds_v2/ta_tiopli.htm
+title=IOB Switching Characteristics - Tiopli
+
+[DelayType virtex2_Tdcmino]
+file=help/delay_types/html/web_ds_v2/ta_tdcmino.htm
+title=DCM Delay Calculations
+
+[DelayType virtex2p_Tas]
+file=help/delay_types/html/web_ds_v2pro/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tah]
+file=help/delay_types/html/web_ds_v2pro/ta_tas.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tback]
+file=help/delay_types/html/web_ds_v2pro/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbcka]
+file=help/delay_types/html/web_ds_v2pro/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbcko]
+file=help/delay_types/html/web_ds_v2pro/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbdck]
+file=help/delay_types/html/web_ds_v2pro/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbckd]
+file=help/delay_types/html/web_ds_v2pro/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbeck]
+file=help/delay_types/html/web_ds_v2pro/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbcke]
+file=help/delay_types/html/web_ds_v2pro/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbpwh]
+file=help/delay_types/html/web_ds_v2pro/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbpwl]
+file=help/delay_types/html/web_ds_v2pro/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbrck]
+file=help/delay_types/html/web_ds_v2pro/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbckr]
+file=help/delay_types/html/web_ds_v2pro/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbwck]
+file=help/delay_types/html/web_ds_v2pro/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbckw]
+file=help/delay_types/html/web_ds_v2pro/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex2p_Tbxcy]
+file=help/delay_types/html/web_ds_v2pro/ta_tbxcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tbyp]
+file=help/delay_types/html/web_ds_v2pro/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tbyyp]
+file=help/delay_types/html/web_ds_v2pro/ta_tbyyp.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcckx]
+file=help/delay_types/html/web_ds_v2pro/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tckcx]
+file=help/delay_types/html/web_ds_v2pro/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tccky]
+file=help/delay_types/html/web_ds_v2pro/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tckcy]
+file=help/delay_types/html/web_ds_v2pro/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tceck]
+file=help/delay_types/html/web_ds_v2pro/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckce]
+file=help/delay_types/html/web_ds_v2pro/ta_tceck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tch]
+file=help/delay_types/html/web_ds_v2pro/ta_tch.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcinx]
+file=help/delay_types/html/web_ds_v2pro/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tcinxb]
+file=help/delay_types/html/web_ds_v2pro/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tciny]
+file=help/delay_types/html/web_ds_v2pro/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tcklo]
+file=help/delay_types/html/web_ds_v2pro/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcko]
+file=help/delay_types/html/web_ds_v2pro/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcksh]
+file=help/delay_types/html/web_ds_v2pro/ta_tcksh.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcl]
+file=help/delay_types/html/web_ds_v2pro/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tdick]
+file=help/delay_types/html/web_ds_v2pro/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckdi]
+file=help/delay_types/html/web_ds_v2pro/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tds]
+file=help/delay_types/html/web_ds_v2pro/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tdh]
+file=help/delay_types/html/web_ds_v2pro/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tdxck]
+file=help/delay_types/html/web_ds_v2pro/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckdx]
+file=help/delay_types/html/web_ds_v2pro/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tdyck]
+file=help/delay_types/html/web_ds_v2pro/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckdy]
+file=help/delay_types/html/web_ds_v2pro/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tf5inck]
+file=help/delay_types/html/web_ds_v2pro/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckf5in]
+file=help/delay_types/html/web_ds_v2pro/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tf5iny]
+file=help/delay_types/html/web_ds_v2pro/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tfandcy]
+file=help/delay_types/html/web_ds_v2pro/ta_tfandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tfandxb]
+file=help/delay_types/html/web_ds_v2pro/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tfandyb]
+file=help/delay_types/html/web_ds_v2pro/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tgandcy]
+file=help/delay_types/html/web_ds_v2pro/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tgandyb]
+file=help/delay_types/html/web_ds_v2pro/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tgcck_cfgen]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_cfgen.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_cfgen]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_cfgen.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_chbi]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_chbi.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_chbi]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_chbi.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_ecsy]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_ecsy.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_ecsy]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_ecsy.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_lbk]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_lbk.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_lbk]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_lbk.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_rpol]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_rpol.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_rpol]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_rpol.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_rrst]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_rrst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_rrst]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_rrst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tbyp]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tbyp.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tbyp]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tbyp.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tcdm]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcdm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tcdm]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcdm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tcdv]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcdv.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tcdv]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcdv.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tcrce]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcrce.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tcrce]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tcrce.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tinh]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tinh.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tinh]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tinh.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tkch]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tkch.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tkch]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tkch.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_tpol]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tpol.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_tpol]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_tpol.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgcck_trst]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_trst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckc_trst]
+file=help/delay_types/html/web_ds_v2pro/ta_tgcck_trst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckco_chbo]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckco_chbo.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckdo_cfgout]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckdo_cfgout.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckdo_rdat]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckdo_rdat.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_align]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_align.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_chbd]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_chbd.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_cmdt]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_cmdt.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rbsta]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rbsta.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rcccnt]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rcccnt.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rcmch]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rcmch.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rcrce]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rcrce.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rdat]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rdat.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rderr]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rderr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rkch]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rkch.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rlos]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rlos.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rnit]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rnit.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_rrdis]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_rrdis.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_tberr]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_tberr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_tkerr]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_tkerr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckst_trdis]
+file=help/delay_types/html/web_ds_v2pro/ta_tgckst_trdis.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgdck_cfgin]
+file=help/delay_types/html/web_ds_v2pro/ta_tgdck_cfgin.htm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckd_cfgin]
+file=help/delay_types/html/web_ds_v2pro/ta_tgdck_cfgin.htm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgdck_tdat]
+file=help/delay_types/html/web_ds_v2pro/ta_tgdck_tdat.htm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgckd_tdat]
+file=help/delay_types/html/web_ds_v2pro/ta_tgdck_tdat.htm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgio]
+file=help/delay_types/html/web_ds_v2pro/ta_tgio.htm.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2p_Tgpio]
+file=help/delay_types/html/web_ds_v2pro/ta_tgpio.htm.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex2p_Tgpwh_tx]
+file=help/delay_types/html/web_ds_v2pro/ta_tgpwh_tx.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgpwh_tx2]
+file=help/delay_types/html/web_ds_v2pro/ta_tgpwh_tx.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgpwl_tx]
+file=help/delay_types/html/web_ds_v2pro/ta_tgpwh_tx.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgpwl_tx2]
+file=help/delay_types/html/web_ds_v2pro/ta_tgpwh_tx.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tgsrq]
+file=help/delay_types/html/web_ds_v2pro/ta_tgsrq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tgts]
+file=help/delay_types/html/web_ds_v2pro/ta_tgts.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tick]
+file=help/delay_types/html/web_ds_v2pro/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tcki]
+file=help/delay_types/html/web_ds_v2pro/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tickof]
+file=help/delay_types/html/web_ds_v2pro/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tickofdcm]
+file=help/delay_types/html/web_ds_v2pro/ta_tickofdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tickofdll]
+file=help/delay_types/html/web_ds_v2pro/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tif5]
+file=help/delay_types/html/web_ds_v2pro/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tif5ck]
+file=help/delay_types/html/web_ds_v2pro/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckif5]
+file=help/delay_types/html/web_ds_v2pro/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tif5x]
+file=help/delay_types/html/web_ds_v2pro/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tif6ck]
+file=help/delay_types/html/web_ds_v2pro/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tckif6]
+file=help/delay_types/html/web_ds_v2pro/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tif6y]
+file=help/delay_types/html/web_ds_v2pro/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tifnctl]
+file=help/delay_types/html/web_ds_v2pro/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tifxy]
+file=help/delay_types/html/web_ds_v2pro/ta_tifxy.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tilo]
+file=help/delay_types/html/web_ds_v2pro/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tinafx]
+file=help/delay_types/html/web_ds_v2pro/ta_tinafx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tinbfx]
+file=help/delay_types/html/web_ds_v2pro/ta_tinbfx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tio]
+file=help/delay_types/html/web_ds_v2pro/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2p_Tiockhz]
+file=help/delay_types/html/web_ds_v2pro/ta_tiockhz.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tiockiq]
+file=help/delay_types/html/web_ds_v2pro/ta_tiockiq.htm
+title=IOB Switching Characteristics-Tiockiq
+
+[DelayType virtex2p_Tiockon]
+file=help/delay_types/html/web_ds_v2pro/ta_tiockon.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tiockp]
+file=help/delay_types/html/web_ds_v2pro/ta_tiockp.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tiogsrq]
+file=help/delay_types/html/web_ds_v2pro/ta_tiogsrq.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tioiceck]
+file=help/delay_types/html/web_ds_v2pro/ta_tioiceck.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tiockice]
+file=help/delay_types/html/web_ds_v2pro/ta_tioiceck.htm
+title=IOB Switching Characteristics
+
+[DelayType virtex2p_Tiooceck]
+file=help/delay_types/html/web_ds_v2pro/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiockoce]
+file=help/delay_types/html/web_ds_v2pro/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tioock]
+file=help/delay_types/html/web_ds_v2pro/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiocko]
+file=help/delay_types/html/web_ds_v2pro/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tioolp]
+file=help/delay_types/html/web_ds_v2pro/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tioop]
+file=help/delay_types/html/web_ds_v2pro/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiopi]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopi.htm
+title=V-II IOB Switching Characteristics - Tiopi
+
+[DelayType virtex2p_Tiopick]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopick.htm
+title=IOB Intput Switching Characteristics
+
+[DelayType virtex2p_Tioickp]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tiopickd]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopickd.htm
+title=IOB Input Switching Characteristics - Tiopid
+
+[DelayType virtex2p_Tioickpd]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopickd.htm
+title=IOB Input Switching Characteristics - Tiopid
+
+[DelayType virtex2p_Tiopid]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopid.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tiopli]
+file=help/delay_types/html/web_ds_v2pro/ta_tiopli.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tioplid]
+file=help/delay_types/html/web_ds_v2pro/ta_tioplid.htm
+title=IOB Input Switching Characteristics-tioplid
+
+[DelayType virtex2p_Tiosrcki]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics-tioplid
+
+[DelayType virtex2p_Tiosrcko]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiockosr]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiosrckt]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiocktsr]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiosrhz]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiosriq]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex2p_Tiosron]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiosrp]
+file=help/delay_types/html/web_ds_v2pro/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiotceck]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiocktce]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiotck]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiockt]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiothz]
+file=help/delay_types/html/web_ds_v2pro/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiotlphz]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tiotp]
+file=help/delay_types/html/web_ds_v2pro/ta_tiotp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex2p_Tmult_p0]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p0.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p1]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p1.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p10]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p10.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p11]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p11.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p12]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p12.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p13]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p13.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p14]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p14.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p15]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p15.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p16]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p16.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p17]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p17.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p18]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p18.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p19]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p19.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p2]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p2.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p20]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p20.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p21]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p21.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p22]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p22.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p23]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p23.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p24]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p24.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p25]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p25.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p26]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p26.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p27]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p27.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p28]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p28.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p29]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p29.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p3]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p3.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p30]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p30.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p31]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p31.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p32]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p32.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p33]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p33.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p34]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p34.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p35]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p35.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p4]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p4.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p5]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p5.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p6]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p6.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p7]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p7.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p8]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p8.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Tmult_p9]
+file=help/delay_types/html/web_ds_v2pro/ta_tmult_p9.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex2p_Toff]
+file=help/delay_types/html/web_ds_v2pro/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2p_Ton]
+file=help/delay_types/html/web_ds_v2pro/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2p_Topbyg]
+file=help/delay_types/html/web_ds_v2pro/ta_topbyg.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex2p_Topcyf]
+file=help/delay_types/html/web_ds_v2pro/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topcyg]
+file=help/delay_types/html/web_ds_v2pro/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topyg]
+file=help/delay_types/html/web_ds_v2pro/ta_topyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topx]
+file=help/delay_types/html/web_ds_v2pro/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topxb]
+file=help/delay_types/html/web_ds_v2pro/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topy]
+file=help/delay_types/html/web_ds_v2pro/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Topyb]
+file=help/delay_types/html/web_ds_v2pro/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex2p_Tpcck_cpm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_cpm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_cpm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_cpm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_dbg]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_dbg.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_dbg]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_dbg.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_eic]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_eic.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_jtag]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_eic.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_jtag]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_eic.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_jtagrst]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_jtagrst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_jtagrst]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_jtagrst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_rst]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_rst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_rst]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_rst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpcck_trc]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_trc.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckc_trc]
+file=help/delay_types/html/web_ds_v2pro/ta_tpcck_trc.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckao_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckao_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckao_dsocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckao_dsocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckao_isocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckao_isocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckao_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckao_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_cpm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_cpm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_dbg]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_dbg.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_dsocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_dsocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_isocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_isocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_jtag]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_jtag.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_rst]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_rst.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckco_trc]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckco_trc.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckdo_drc]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckdo_drc.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckdo_dsocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckdo_dsocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckdo_isocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckdo_isocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckdo_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpckdo_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpdck_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckd_dcr]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_dcr.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpdck_dsocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_dsocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckd_dsocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_dsocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpdck_isocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_isocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckd_isocm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_isocm.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpdck_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpckd_plb]
+file=help/delay_types/html/web_ds_v2pro/ta_tpdck_plb.htm
+title=Power PC Switching Characteristics
+
+[DelayType virtex2p_Tpsdcm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tphdcm]
+file=help/delay_types/html/web_ds_v2pro/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tpsdll]
+file=help/delay_types/html/web_ds_v2pro/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tpsfd]
+file=help/delay_types/html/web_ds_v2pro/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Tphfd]
+file=help/delay_types/html/web_ds_v2pro/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex2p_Trck]
+file=help/delay_types/html/web_ds_v2pro/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Treg]
+file=help/delay_types/html/web_ds_v2pro/ta_treg.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Treg32]
+file=help/delay_types/html/web_ds_v2pro/ta_treg32.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tregf5]
+file=help/delay_types/html/web_ds_v2pro/ta_tregf5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tregxb]
+file=help/delay_types/html/web_ds_v2pro/ta_tregxb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tregyb]
+file=help/delay_types/html/web_ds_v2pro/ta_tregyb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Trpw]
+file=help/delay_types/html/web_ds_v2pro/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Trq]
+file=help/delay_types/html/web_ds_v2pro/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tshceck]
+file=help/delay_types/html/web_ds_v2pro/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tshcko16]
+file=help/delay_types/html/web_ds_v2pro/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tshcko32]
+file=help/delay_types/html/web_ds_v2pro/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tshckof5]
+file=help/delay_types/html/web_ds_v2pro/ta_tshckof5.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tshdick]
+file=help/delay_types/html/web_ds_v2pro/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tsopsop]
+file=help/delay_types/html/web_ds_v2pro/ta_tsopsop.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tsrlds]
+file=help/delay_types/html/web_ds_v2pro/ta_tsrlds.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tsrldh]
+file=help/delay_types/html/web_ds_v2pro/ta_tsrlds.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tsrph]
+file=help/delay_types/html/web_ds_v2pro/ta_tsrph.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Tsrpl]
+file=help/delay_types/html/web_ds_v2pro/ta_tsrpl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Twc]
+file=help/delay_types/html/web_ds_v2pro/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Twes]
+file=help/delay_types/html/web_ds_v2pro/ta_twes.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Twph]
+file=help/delay_types/html/web_ds_v2pro/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Twpl]
+file=help/delay_types/html/web_ds_v2pro/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Tws]
+file=help/delay_types/html/web_ds_v2pro/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Twh]
+file=help/delay_types/html/web_ds_v2pro/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex2p_Twss]
+file=help/delay_types/html/web_ds_v2pro/ta_twss.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex2p_Twsh]
+file=help/delay_types/html/web_ds_v2pro/ta_twss.htm
+title=CLB Switching Characteristics
+
+[DelayType spartan2e_Tdllino]
+file=help/delay_types/html/web_ds.sp2e/ta_tdllino.html
+title=DLL/DCM Delay Description
+
+[DelayType virtexe_Tdllino]
+file=help/delay_types/html/web_ds/ta_tdllino.htm
+title=DLL/DCM Delay Calculations
+
+[DelayType virtex4_Tas]
+file=help/delay_types/html/web_ds_v4/ta_tas.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tah]
+file=help/delay_types/html/web_ds_v4/ta_tas.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tback]
+file=help/delay_types/html/web_ds_v4/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbcka]
+file=help/delay_types/html/web_ds_v4/ta_tback.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbcko]
+file=help/delay_types/html/web_ds_v4/ta_tbcko.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbdck]
+file=help/delay_types/html/web_ds_v4/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbckd]
+file=help/delay_types/html/web_ds_v4/ta_tbdck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbeck]
+file=help/delay_types/html/web_ds_v4/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbcke]
+file=help/delay_types/html/web_ds_v4/ta_tbeck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbpwh]
+file=help/delay_types/html/web_ds_v4/ta_tbpwh.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbpwl]
+file=help/delay_types/html/web_ds_v4/ta_tbpwl.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbrck]
+file=help/delay_types/html/web_ds_v4/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbckr]
+file=help/delay_types/html/web_ds_v4/ta_tbrck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbwck]
+file=help/delay_types/html/web_ds_v4/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbckw]
+file=help/delay_types/html/web_ds_v4/ta_tbwck.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbxcy]
+file=help/delay_types/html/web_ds_v4/ta_tbxcy.htm
+title=Block RAM Switching Characteristics
+
+[DelayType virtex4_Tbyp]
+file=help/delay_types/html/web_ds_v4/ta_tbyp.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tbyyb]
+file=help/delay_types/html/web_ds_v4/ta_tbyyb.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tcckx]
+file=help/delay_types/html/web_ds_v4/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tckcx]
+file=help/delay_types/html/web_ds_v4/ta_tcckx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tccky]
+file=help/delay_types/html/web_ds_v4/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tckcy]
+file=help/delay_types/html/web_ds_v4/ta_tccky.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tceck]
+file=help/delay_types/html/web_ds_v4/ta_tceck.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tckce]
+file=help/delay_types/html/web_ds_v4/ta_tceck.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tch]
+file=help/delay_types/html/web_ds_v4/ta_tch.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tcinx]
+file=help/delay_types/html/web_ds_v4/ta_tcinx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tcinxb]
+file=help/delay_types/html/web_ds_v4/ta_tcinxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tciny]
+file=help/delay_types/html/web_ds_v4/ta_tciny.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tcklo]
+file=help/delay_types/html/web_ds_v4/ta_tcklo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tcko]
+file=help/delay_types/html/web_ds_v4/ta_tcko.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tcksh]
+file=help/delay_types/html/web_ds_v4/ta_tcksh.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tcl]
+file=help/delay_types/html/web_ds_v4/ta_tcl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tdick]
+file=help/delay_types/html/web_ds_v4/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckdi]
+file=help/delay_types/html/web_ds_v4/ta_tdick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tds]
+file=help/delay_types/html/web_ds_v4/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tdh]
+file=help/delay_types/html/web_ds_v4/ta_tds.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tdxck]
+file=help/delay_types/html/web_ds_v4/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckdx]
+file=help/delay_types/html/web_ds_v4/ta_tdxck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tdyck]
+file=help/delay_types/html/web_ds_v4/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckdy]
+file=help/delay_types/html/web_ds_v4/ta_tdyck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tf5inck]
+file=help/delay_types/html/web_ds_v4/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckf5in]
+file=help/delay_types/html/web_ds_v4/ta_tf5inck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tf5iny]
+file=help/delay_types/html/web_ds_v4/ta_tf5iny.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tfandcy]
+file=help/delay_types/html/web_ds_v4/ta_tfandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tfandxb]
+file=help/delay_types/html/web_ds_v4/ta_tfandxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tfandyb]
+file=help/delay_types/html/web_ds_v4/ta_tfandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tgandcy]
+file=help/delay_types/html/web_ds_v4/ta_tgandcy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tgandyb]
+file=help/delay_types/html/web_ds_v4/ta_tgandyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tgcck_cfgen]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_cfgen.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_cfgen]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_cfgen.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_chbi]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_chbi.htm
+title=Rocket I/O RX User Clock Switching Characteristics
+
+[DelayType virtex4_Tgckc_chbi]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_chbi.htm
+title=Rocket I/O RX User Clock Switching Characteristics
+
+[DelayType virtex4_Tgcck_ecsy]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_ecsy.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_ecsy]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_ecsy.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_lbk]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_lbk.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_lbk]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_lbk.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_rpol]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_rpol.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_rpol]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_rpol.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_rrst]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_rrst.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_rrst]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_rrst.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tbyp]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tbyp.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tbyp]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tbyp.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tcdm]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcdm.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tcdm]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcdm.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tcdv]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcdv.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tcdv]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcdv.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tcrce]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcrce.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tcrce]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tcrce.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tinh]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tinh.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tinh]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tinh.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tkch]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tkch.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tkch]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tkch.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_tpol]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tpol.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_tpol]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_tpol.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgcck_trst]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_trst.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckc_trst]
+file=help/delay_types/html/web_ds_v4/ta_tgcck_trst.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckco_chbo]
+file=help/delay_types/html/web_ds_v4/ta_tgckco_chbo.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckdo_cfgout]
+file=help/delay_types/html/web_ds_v4/ta_tgckdo_cfgout.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckdo_rdat]
+file=help/delay_types/html/web_ds_v4/ta_tgckdo_rdat.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_align]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_align.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_chbd]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_chbd.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_cmdt]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_cmdt.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rbsta]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rbsta.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rcccnt]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rcccnt.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rccrc]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rccrc.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rcmch]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rcmch.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rcrce]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rcrce.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_rrdis]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_rrdis.htm
+title=Rocket I/O RX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_tberr]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_tberr.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_tkerr]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_tkerr.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckst_trdis]
+file=help/delay_types/html/web_ds_v4/ta_tgckst_trdis.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgdck_cfgin]
+file=help/delay_types/html/web_ds_v4/ta_tgdck_cfgin.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckd_cfgin]
+file=help/delay_types/html/web_ds_v4/ta_tgdck_cfgin.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgdck_tdat]
+file=help/delay_types/html/web_ds_v4/ta_tgdck_tdat.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgckd_tdat]
+file=help/delay_types/html/web_ds_v4/ta_tgdck_tdat.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgio]
+file=help/delay_types/html/web_ds_v4/ta_tgio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex4_Tgpio]
+file=help/delay_types/html/web_ds_v4/ta_tgpio.htm
+title=Clock Distribution Switching Characteristics
+
+[DelayType virtex4_Tgwh_tx2]
+file=help/delay_types/html/web_ds_v4/ta_tgwh_tx2.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgwh_tx]
+file=help/delay_types/html/web_ds_v4/ta_tgwh_tx.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgpwl_tx2]
+file=help/delay_types/html/web_ds_v4/ta_tgpwl_tx2.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgpwl_tx]
+file=help/delay_types/html/web_ds_v4/ta_tgpwl_tx.htm
+title=Rocket I/O TX User Clock2 Switching Characteristics
+
+[DelayType virtex4_Tgsrq]
+file=help/delay_types/html/web_ds_v4/ta_tgsrq_tx.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tgts]
+file=help/delay_types/html/web_ds_v4/ta_tgts.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tick]
+file=help/delay_types/html/web_ds_v4/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tcki]
+file=help/delay_types/html/web_ds_v4/ta_tick.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tickof]
+file=help/delay_types/html/web_ds_v4/ta_tickof.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tickofdcm]
+file=help/delay_types/html/web_ds_v4/ta_tickofdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tickofdll]
+file=help/delay_types/html/web_ds_v4/ta_tickofdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tif5]
+file=help/delay_types/html/web_ds_v4/ta_tif5.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tif5ck]
+file=help/delay_types/html/web_ds_v4/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckif5]
+file=help/delay_types/html/web_ds_v4/ta_tif5ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tif5x]
+file=help/delay_types/html/web_ds_v4/ta_tif5x.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tif6ck]
+file=help/delay_types/html/web_ds_v4/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tckif6]
+file=help/delay_types/html/web_ds_v4/ta_tif6ck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tif6y]
+file=help/delay_types/html/web_ds_v4/ta_tif6y.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tifnctl]
+file=help/delay_types/html/web_ds_v4/ta_tifnctl.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tifxy]
+file=help/delay_types/html/web_ds_v4/ta_tifxy.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tilo]
+file=help/delay_types/html/web_ds_v4/ta_tilo.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tinafx]
+file=help/delay_types/html/web_ds_v4/ta_tinafx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tinbfx]
+file=help/delay_types/html/web_ds_v4/ta_tinbfx.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tio]
+file=help/delay_types/html/web_ds_v4/ta_tio.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex4_Tiockhz]
+file=help/delay_types/html/web_ds_v4/ta_tiockhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiockiq]
+file=help/delay_types/html/web_ds_v4/ta_tiockiq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiockon]
+file=help/delay_types/html/web_ds_v4/ta_tiockon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiockp]
+file=help/delay_types/html/web_ds_v4/ta_tiockp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiogsrq]
+file=help/delay_types/html/web_ds_v4/ta_tiogsrq.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tioiceck]
+file=help/delay_types/html/web_ds_v4/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiokice]
+file=help/delay_types/html/web_ds_v4/ta_tioiceck.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiooceck]
+file=help/delay_types/html/web_ds_v4/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiockoce]
+file=help/delay_types/html/web_ds_v4/ta_tiooceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tioock]
+file=help/delay_types/html/web_ds_v4/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiocko]
+file=help/delay_types/html/web_ds_v4/ta_tioock.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tioolp]
+file=help/delay_types/html/web_ds_v4/ta_tioolp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tioop]
+file=help/delay_types/html/web_ds_v4/ta_tioop.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiopi]
+file=help/delay_types/html/web_ds_v4/ta_tiopi.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiopick]
+file=help/delay_types/html/web_ds_v4/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tioickp]
+file=help/delay_types/html/web_ds_v4/ta_tiopick.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiopickd]
+file=help/delay_types/html/web_ds_v4/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tioickpd]
+file=help/delay_types/html/web_ds_v4/ta_tiopickd.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiopid]
+file=help/delay_types/html/web_ds_v4/ta_tiopid.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiopli]
+file=help/delay_types/html/web_ds_v4/ta_tiopli.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tioplid]
+file=help/delay_types/html/web_ds_v4/ta_tioplid.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiosrcki]
+file=help/delay_types/html/web_ds_v4/ta_tiosrcki.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiosrcko]
+file=help/delay_types/html/web_ds_v4/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiockosr]
+file=help/delay_types/html/web_ds_v4/ta_tiosrcko.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiosrckt]
+file=help/delay_types/html/web_ds_v4/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiocktsr]
+file=help/delay_types/html/web_ds_v4/ta_tiosrckt.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiosrhz]
+file=help/delay_types/html/web_ds_v4/ta_tiosrhz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiosriq]
+file=help/delay_types/html/web_ds_v4/ta_tiosriq.htm
+title=IOB Input Switching Characteristics
+
+[DelayType virtex4_Tiosron]
+file=help/delay_types/html/web_ds_v4/ta_tiosron.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiosrp]
+file=help/delay_types/html/web_ds_v4/ta_tiosrp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiotceck]
+file=help/delay_types/html/web_ds_v4/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiocktce]
+file=help/delay_types/html/web_ds_v4/ta_tiotceck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiotck]
+file=help/delay_types/html/web_ds_v4/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiockt]
+file=help/delay_types/html/web_ds_v4/ta_tiotck.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiothz]
+file=help/delay_types/html/web_ds_v4/ta_tiothz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiotlphz]
+file=help/delay_types/html/web_ds_v4/ta_tiotlphz.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiotlpon]
+file=help/delay_types/html/web_ds_v4/ta_tiotlpon.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tiotp]
+file=help/delay_types/html/web_ds_v4/ta_tiotp.htm
+title=IOB Output Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p0.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p1.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p2.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p3.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p4.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p5.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p6.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p7.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p8.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p9.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p10.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p11.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p12.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p13.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p14.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p15.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p16.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p17.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p18.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p19.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p20.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p21.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p22.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p23.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p24.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p25.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p26.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p27.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p28.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p29.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p30.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p31.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p32.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p33.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p34.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Tmult]
+file=help/delay_types/html/web_ds_v4/ta_tmult_p35.htm
+title=Multiplier Switching Characteristics
+
+[DelayType virtex4_Toff]
+file=help/delay_types/html/web_ds_v4/ta_toff.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex4_Ton]
+file=help/delay_types/html/web_ds_v4/ta_ton.htm
+title=TBUF Switching Characteristics
+
+[DelayType virtex4_Topbyg]
+file=help/delay_types/html/web_ds_v4/ta_topbyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topcyf]
+file=help/delay_types/html/web_ds_v4/ta_topcyf.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topcyg]
+file=help/delay_types/html/web_ds_v4/ta_topcyg.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topgy]
+file=help/delay_types/html/web_ds_v4/ta_topgy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topx]
+file=help/delay_types/html/web_ds_v4/ta_topx.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topxb]
+file=help/delay_types/html/web_ds_v4/ta_topxb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topy]
+file=help/delay_types/html/web_ds_v4/ta_topy.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Topyb]
+file=help/delay_types/html/web_ds_v4/ta_topyb.htm
+title=CLB Arithmetic Switching Characteristics
+
+[DelayType virtex4_Tpcck_cpm]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_cpm.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckc_cpm]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_cpm.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpcck_dbg]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_dbg.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckc_dbg]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_dbg.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpcck_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckc_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpcck_eic]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_eic.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpcck_jtag]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_jtag.htm
+title=Power PC 405 Block JTAB Switching Characteristics
+
+[DelayType virtex4_Tpckc_jtag]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_jtag.htm
+title=Power PC 405 Block JTAB Switching Characteristics
+
+[DelayType virtex4_Tpcck_jtagrst]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_jtagrst.htm
+title=Power PC 405 Block JTAB Switching Characteristics
+
+[DelayType virtex4_Tpckc_jtagrst]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_jtagrst.htm
+title=Power PC 405 Block JTAB Switching Characteristics
+
+[DelayType virtex4_Tpcck_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckc_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpcck_rst]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_rst.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckc_rst]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_rst.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpcck_trc]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_trc.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckc_trc]
+file=help/delay_types/html/web_ds_v4/ta_tpcck_trc.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckao_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpckao_dcr.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckao_dsocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckao_dsocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckao_isocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckao_isocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckao_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpckao_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckco_cpm]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_cpm.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckco_dbg]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_dbg.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckco_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckco_dsocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_dsocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckco_isocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_isocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckco_jtag]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_jtag.htm
+title=Power PC 405 Block JTAB Switching Characteristics
+
+[DelayType virtex4_Tpckco_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckco_rst]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_rst.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckco_trc]
+file=help/delay_types/html/web_ds_v4/ta_tpckco_trc.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckdo_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpckdo_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckdo_dsocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckdo_dsocm.htm
+title=Power PC 405 Data-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckdo_isocm]
+file=help/delay_types/html/web_ds_v4/ta_tpckdo_isocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckdo_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpckdo_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpdck_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpckd_dcr]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_dcr.htm
+title=Power PC 405 Block Switching Characteristics
+
+[DelayType virtex4_Tpdck_dsocm]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_dsocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckd_dsocm]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_dsocm.htm
+title=Power PC 405 Fata-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpdck_isocm]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_isocm.htm
+title=Power PC 405 Data-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpckd_isocm]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_isocm.htm
+title=Power PC 405 Data-Side On-Memory Switching Characteristics
+
+[DelayType virtex4_Tpdck_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpckd_plb]
+file=help/delay_types/html/web_ds_v4/ta_tpdck_plb.htm
+title=Power PC 405 Block PLB Switching Characteristics
+
+[DelayType virtex4_Tpsdcm]
+file=help/delay_types/html/web_ds_v4/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tphdcm]
+file=help/delay_types/html/web_ds_v4/ta_tpsdcm.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tpsdll]
+file=help/delay_types/html/web_ds_v4/ta_tpsdll.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tpsfd]
+file=help/delay_types/html/web_ds_v4/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Tphfd]
+file=help/delay_types/html/web_ds_v4/ta_tpsfd.htm
+title=Pin-to-pin Output Parameters
+
+[DelayType virtex4_Trck]
+file=help/delay_types/html/web_ds_v4/ta_trck.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Treg32]
+file=help/delay_types/html/web_ds_v4/ta_treg32.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Treg]
+file=help/delay_types/html/web_ds_v4/ta_treg.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Treg]
+file=help/delay_types/html/web_ds_v4/ta_treg.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tregf5]
+file=help/delay_types/html/web_ds_v4/ta_tregf5.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tregxb]
+file=help/delay_types/html/web_ds_v4/ta_tregxb.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tregyb]
+file=help/delay_types/html/web_ds_v4/ta_tregyb.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Trpw]
+file=help/delay_types/html/web_ds_v4/ta_trpw.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Trq]
+file=help/delay_types/html/web_ds_v4/ta_trq.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tshceck]
+file=help/delay_types/html/web_ds_v4/ta_tshceck.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tshcko16]
+file=help/delay_types/html/web_ds_v4/ta_tshcko16.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tshcko32]
+file=help/delay_types/html/web_ds_v4/ta_tshcko32.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tshckof5]
+file=help/delay_types/html/web_ds_v4/ta_tshckof5.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tshdick]
+file=help/delay_types/html/web_ds_v4/ta_tshdick.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tsopsop]
+file=help/delay_types/html/web_ds_v4/ta_tsopsop.htm
+title=CLB Switching Characteristics
+
+[DelayType virtex4_Tsrlds]
+file=help/delay_types/html/web_ds_v4/ta_tsrlds.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tsridh]
+file=help/delay_types/html/web_ds_v4/ta_tsrlds.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tsrph]
+file=help/delay_types/html/web_ds_v4/ta_tsrph.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Tsrpl]
+file=help/delay_types/html/web_ds_v4/ta_tsrpl.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Twc]
+file=help/delay_types/html/web_ds_v4/ta_twc.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Twes]
+file=help/delay_types/html/web_ds_v4/ta_twes.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Twph]
+file=help/delay_types/html/web_ds_v4/ta_twph.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Twpl]
+file=help/delay_types/html/web_ds_v4/ta_twpl.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Tws]
+file=help/delay_types/html/web_ds_v4/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Twh]
+file=help/delay_types/html/web_ds_v4/ta_tws.htm
+title=CLB Distributed RAM Switching Characteristics
+
+[DelayType virtex4_Twss]
+file=help/delay_types/html/web_ds_v4/ta_twss.htm
+title=CLB Shift Register Switching Characteristics
+
+[DelayType virtex4_Twsh]
+file=help/delay_types/html/web_ds_v4/ta_twss.htm
+title=CLB Shift Register Switching Characteristics

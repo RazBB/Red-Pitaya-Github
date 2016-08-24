@@ -1,0 +1,797 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/pim_c_overview.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/pim_c_overview.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/pim_c_overview.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+// Menu Commands
+
+[topic file-new]
+file=isehelp/pim_p_opening_a_new_projectfile.htm
+title=Opening a New Project File
+type=xilhelp
+
+[topic file-open]
+file=isehelp/pim_p_opening_closing_files.htm
+title=Opening and Closing Files
+type=xilhelp
+
+[topic file-close]
+file=isehelp/pim_p_opening_closing_files.htm
+title=Opening and Closing Files
+type=xilhelp
+
+[topic file-save]
+file=isehelp/pim_p_saving_a_file.htm
+title=Saving Project a File
+type=xilhelp
+
+[topic file-saveas]
+file=isehelp/pim_p_saving_a_file.htm
+title=Saving a File
+type=xilhelp
+
+[topic impact-file-open-configuration-archive]
+file=isehelp/pim_p_openarchivefile.htm
+title=Opening a Configuration Archive File
+type=xilhelp
+
+[topic impact-file-new-project]
+file=isehelp/pim_p_creating_a_new_projectfile.htm
+title=Loading iMPACT Project Files
+type=xilhelp
+
+[topic impact-file-open-project]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic impact-file-exit]
+file=isehelp/pim_p_exiting_impact.htm
+title=Exiting iMPACT
+type=xilhelp
+
+[topic impact-initialize-chain]
+file=isehelp/pim_p_initbschain.htm
+title=Initializing the Boundary-Scan Chain [iMPACT]
+type=xilhelp
+
+[topic impact-save-project]
+file=isehelp/pim_p_saving_a_file.htm
+title=Saving a Project File [iMPACT]
+type=xilhelp
+
+[topic impact-save-project-as]
+file=isehelp/pim_p_saving_a_file.htm
+title=Saving and Restoring an iMPACT Project File [iMPACT]
+type=xilhelp
+
+[topic impact-save-configuration-archive]
+file=isehelp/pim_p_savearchivefile.htm
+title=Saving a Configuration Archive File
+type=xilhelp
+
+[topic impact-export-project-to-cdf]
+file=isehelp/pim_p_exportprojecttocdf.htm
+title=Exporting a Project to CDF
+type=xilhelp
+
+[topic file-mru-file1]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic file-mru-file2]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic file-mru-file3]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic file-mru-file4]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic file-mru-file5]
+file=isehelp/pim_p_opening_impact_project.htm
+title=Opening a Project
+type=xilhelp
+
+[topic impact-new-log-file]
+file=isehelp/pim_p_createlogfile.htm
+title=Creating a New Log File [iMPACT]
+type=xilhelp
+
+[topic impact-edit-select-all]
+file=isehelp/pim_p_selecting_devices.htm
+title=Selecting Devices
+type=xilhelp
+
+[topic impact-edit-unselect-all]
+file=isehelp/pim_p_unselecting_devices.htm
+title=Unselecting Devices
+type=xilhelp
+
+[topic impact-add-xilinx-device]
+file=isehelp/pim_p_addingaxdevice.htm
+title=Adding a Xilinx Device [iMPACT]
+type=xilhelp
+
+[topic impact-add-non-xilinx-device]
+file=isehelp/pim_p_addinganxdevice.htm
+title=Adding a Non-Xilinx Device [iMPACT]
+type=xilhelp
+
+[topic impact-assign-configuration-file]
+file=isehelp/pim_r_assignnewconfig.htm
+title=Assigning a New Configuration File [iMPACT]
+type=xilhelp
+
+[topic impact-change-size]
+file=isehelp/pim_p_editing_system_ace_cf_files_by_assinging_a_different_compact_flash_size.htm
+title=Editing System ACE CF Files by Assigning a Different Compact Flash Size [iMPACT]
+type=xilhelp
+
+[topic impact-list-all-collection]
+file=isehelp/pim_p_listall_collections.htm
+title=Listing All Collections
+type=xilhelp
+
+[topic impact-add-collection]
+file=isehelp/pim_p_adding_collection.htm
+title=Adding a Collection to a System ACE CF Device
+type=xilhelp
+
+[topic impact-rename-collection]
+file=isehelp/pim_p_renaming_collection.htm
+title=Renaming a Collection
+type=xilhelp
+
+[topic impact-delete-collection]
+file=isehelp/pim_p_deleting_collection.htm
+title=Deleting a Collection
+type=xilhelp
+
+[topic impact-add-design]
+file=isehelp/pim_p_adding_design_to_current_system_ace_collection.htm
+title=Adding a Design to Current System ACE Collection
+type=xilhelp
+
+[topic impact-rename-design]
+file=isehelp/pim_p_renaming_design_in_current_system_collection.htm
+title=Renaming a Design in Current System ACE Collection
+type=xilhelp
+
+[topic impact-change-location]
+file=isehelp/pim_p_changelocation.htm
+title=Changing the Location of an Archive File
+type=xilhelp
+
+[topic impact-delete-design]
+file=isehelp/pim_p_deleting_design_in_current_system_ace_collection.htm
+title=Deleting a Design in Current System ACE Collection
+type=xilhelp
+
+[topic impact-edit-editdesign-deletedesign]
+file=isehelp/pim_p_editing_designs_systemace.htm
+title=Editing Designs in a System ACE Collection [iMPACT]
+type=xilhelp
+
+[topic impact-edit-editdevicechain-adddevicechain]
+file=isehelp/pim_p_adding_deleting_devicechains.htm
+title=Adding and Deleting Device Chains
+type=xilhelp
+
+[topic impact-edit-editdevicechain-deletedevicechain]
+file=isehelp/pim_p_adding_deleting_devicechains.htm
+title=Adding and Deleting Device Chains
+type=xilhelp
+
+[topic impact-edit-addprom]
+file=isehelp/pim_p_adding_prom.htm
+title=Adding a PROM
+type=xilhelp
+
+[topic impact-edit-renamepromfile]
+file=isehelp/pim_p_renaming_prom.htm
+title=Renaming a PROM File
+type=xilhelp
+
+[topic impact-edit-promfileproperties]
+file=isehelp/pim_p_editingprom_files.htm
+title=Editing PROM Files [iMPACT]
+type=xilhelp
+
+[topic impact-edit-editprom-modifyprom]
+file=isehelp/pim_p_modifying_proms.htm
+title=Modifying PROMs
+type=xilhelp
+
+[topic impact-edit-editprom-deleteprom]
+file=isehelp/pim_p_deleting_prom.htm
+title=Deleting a PROM
+type=xilhelp
+
+[topic impact-edit-editdatastream-adddatastream]
+file=isehelp/pim_p_adding_datastream.htm
+title=Adding a Data Stream [iMPACT]
+type=xilhelp
+
+[topic impact-edit-editdatastream-deletedatastream]
+file=isehelp/pim_p_deleting_datastream.htm
+title=Deleting a Data Stream
+type=xilhelp
+
+[topic impact-edit-editrevision-addrevision]
+file=isehelp/pim_p_adding_deleting_revisions.htm
+title=Adding and Deleting Revisions
+type=xilhelp
+
+[topic impact-edit-editrevision-deleterevision]
+file=isehelp/pim_p_adding_deleting_revisions.htm
+title=Adding and Deleting Revisions
+type=xilhelp
+
+[topic edit-preferences]
+file=isehelp/pim_p_setting_preferences.htm
+title=Setting Preferences
+type=xilhelp
+
+[topic impact-launch-wizard]
+file=isehelp/pim_db_impact_wizard.htm
+title=Wizard
+type=xilhelp
+
+[topic impact-view-configuration-log-file]
+file=isehelp/pim_p_viewing_logfile.htm
+title=Viewing the Configuration Log File
+type=xilhelp
+
+[topic gc-console-edit-clear]
+file=isehelp/pim_p_clearing_logwindow.htm
+title=Clearing the Log Window [iMPACT]
+type=xilhelp
+
+[topic impact-view-settexteditor]
+file=isehelp/pim_p_setting_texteditor.htm
+title=Setting the Text Editor
+type=xilhelp
+
+[topic impact-view-refresh]
+file=isehelp/pim_p_refreshing_main_window.htm
+title=Refreshing the Main Window
+type=xilhelp
+
+[topic view-mode-controlbar]
+file=isehelp/pim_p_showing_hiding_windows.htm
+title=Showing and Hiding Windows
+type=xilhelp
+
+[topic view-operations-controlbar]
+file=isehelp/pim_p_showing_hiding_windows.htm
+title=Showing and Hiding Windows
+type=xilhelp
+
+[topic view-console-controlbar]
+file=isehelp/pim_p_showing_hiding_windows.htm
+title=Showing and Hiding Windows
+type=xilhelp
+
+[topic impact-program]
+file=isehelp/pim_p_programming.htm
+title=Programming a Device [iMPACT]
+type=xilhelp
+
+[topic impact-program-flash-and-load-fpga]
+file=isehelp/pim_p_programming.htm
+title=Programming a Device [iMPACT]
+type=xilhelp
+
+[topic impact-program-fpga-only]
+file=isehelp/pim_p_programming.htm
+title=Programming a Device [iMPACT]
+type=xilhelp
+
+[topic impact-verify]
+file=isehelp/pim_p_verifying.htm
+title=Verifying a Device [iMPACT]
+type=xilhelp
+
+[topic impact-erase]
+file=isehelp/pim_p_erasing.htm
+title=Erasing a Device [iMPACT]
+type=xilhelp
+
+[topic impact-functional-test]
+file=isehelp/pim_p_functionaltest.htm
+title=Performing Functional Test [iMPACT]
+type=xilhelp
+
+[topic impact-blank-check]
+file=isehelp/pim_p_blankcheck.htm
+title=Performing Blank Checks
+type=xilhelp
+
+[topic impact-readback]
+file=isehelp/pim_p_readbacks.htm
+title=Performing Readback [iMPACT]
+type=xilhelp
+
+[topic impact-program-xpla-ues]
+file=isehelp/pim_p_programmingxplaues.htm
+title=Programming XPLA User Electronic Signature [iMPACT]
+type=xilhelp
+
+[topic impact-get-device-id]
+file=isehelp/pim_p_gettingdeviceid.htm
+title=Getting the Device ID
+type=xilhelp
+
+[topic impact-get-device-checksum]
+file=isehelp/pim_p_gettingdevicechecksum.htm
+title=Getting the Device Checksum
+type=xilhelp
+
+[topic impact-get-device-signature-usercode]
+file=isehelp/pim_p_getting_devicesignatureusercode.htm
+title=Getting the Device Signature Usercode
+type=xilhelp
+
+[topic impact-get-device-customer-code]
+file=isehelp/pim_p_getting_custcode.htm
+title=Getting the Device Customer Code
+type=xilhelp
+
+[topic impact-load-configuration-revision]
+file=isehelp/pim_p_loading_configuration_revision.htm
+title=Loading a Configuration Revision
+type=xilhelp
+
+[topic impact-get-xpla-device-ues]
+file=isehelp/pim_p_getting_xplaues.htm
+title=Getting the XPLA Device UES
+type=xilhelp
+
+[topic impact-activate-on-the-fly-pattern]
+file=isehelp/pim_p_activatingtheontheflypattern.htm
+title=Activating the On-The-Fly Pattern [iMPACT]
+type=xilhelp
+
+[topic impact-validate-usercode]
+file=isehelp/pim_p_validating_usercode.htm
+title=Validating the Usercode
+type=xilhelp
+
+[topic impact-execute-xsvf-svf]
+file=isehelp/pim_p_executing_xsvf_svf.htm
+title=Executing XSVF/SVF Files
+type=xilhelp
+
+[topic impact-select-active-revision]
+file=isehelp/pim_p_selecting_activerev.htm
+title=Selecting the Active Revision
+type=xilhelp
+
+[topic impact-idcode-looping]
+file=isehelp/pim_p_performing_idcodeloop.htm
+title=Performing IDCODE Looping
+type=xilhelp
+
+[topic impact-generate-file]
+file=isehelp/pim_p_generatingafile.htm
+title=Generating a File [iMPACT]
+type=xilhelp
+
+[topic impact-copy-to-compact-flash]
+file=isehelp/pim_p_copyingtocf.htm
+title=Copying to Compact Flash [iMPACT]
+type=xilhelp
+
+[topic impact-compact-flash-integrity-check]
+file=isehelp/pim_p_performing_cf_integrity_check.htm
+title=Performing the Compact Flash Integrity Check
+type=xilhelp
+
+[topic impact-one-step-svf]
+file=isehelp/pim_p_one_step_svf.htm
+title=One Step SVF
+type=xilhelp
+
+[topic impact-one-step-xsvf]
+file=isehelp/pim_p_one_step_xsvf.htm
+title=One Step XSVF
+type=xilhelp
+
+[topic impact-read-device-dna]
+file=isehelp/pim_p_reading_device_dna.htm
+title=Reading the Device DNA
+type=xilhelp
+
+[topic impact-program-efuse-registers]
+file=isehelp/pim_p_programming_efuse_registers.htm
+title=Programming eFUSE Registers
+type=xilhelp
+
+[topic impact-read-efuse-registers]
+file=isehelp/pim_p_reading_efuse_registers.htm
+title=Reading eFUSE Registers
+type=xilhelp
+
+[topic impact-set-efuse-control-register]
+file=isehelp/pim_p_setting_efuse_control_register.htm
+title=Setting the eFUSE Control Register
+type=xilhelp
+
+[topic impact-read-efuse-control-register]
+file=isehelp/pim_p_reading_efuse_control_register.htm
+title=Reading the eFUSE Control Register
+type=xilhelp
+
+[topic impact-options-readbackoptions]
+file=isehelp/pim_p_setting_readbackoption.htm
+title=Setting the Readback Option [iMPACT]
+type=xilhelp
+
+[topic impact-options-programxplauesoptions]
+file=isehelp/pim_p_setting_proguesoption.htm
+title=Setting the Program XPLA UES Option [iMPACT]
+type=xilhelp
+
+[topic impact-cable-auto-connect]
+file=isehelp/pim_p_connectingtocables.htm
+title=Connecting to Cables
+type=xilhelp
+
+[topic impact-cable-setup]
+file=isehelp/pim_p_connectingtocables.htm
+title=Connecting to Cables
+type=xilhelp
+
+[topic impact-cable-reset]
+file=isehelp/pim_p_resetting_cable.htm
+title=Resetting the Cable
+type=xilhelp
+
+[topic impact-advanced-usb-cable-setup]
+file=isehelp/pim_db_usbsetupdlg.htm
+title=Advanced USB Cable Setup Dialog Box
+type=xilhelp
+
+[topic impact-cable-disconnect]
+file=isehelp/pim_p_disconnecting_cables.htm
+title=Disconnecting Cables
+type=xilhelp
+
+[topic impact-disconnect-all-cables]
+file=isehelp/pim_p_disconnecting_cables.htm
+title=Disconnecting Cables
+type=xilhelp
+
+[topic impact-create-svf-file]
+file=isehelp/pim_p_creating_boundaryscan_with_cable_and_board.htm
+title=Creating Boundary-Scan Files with Cable and Board Connection [iMPACT]
+type=xilhelp
+
+[topic impact-append-to-svf-file]
+file=isehelp/pim_p_creating_boundaryscan_with_cable_and_board.htm
+title=Creating Boundary-Scan Files with Cable and Board Connection
+type=xilhelp
+
+[topic impact-stop-writing-to-svf-file]
+file=isehelp/pim_p_stopwriting_boundaryscan_files.htm
+title=Stop Writing to Boundary-Scan Files [iMPACT]
+type=xilhelp
+
+[topic impact-create-stapl-file]
+file=isehelp/pim_p_creating_boundaryscan_with_cable_and_board.htm
+title=Creating Boundary-Scan Files with Cable and Board Connection [iMPACT]
+type=xilhelp
+
+[topic impact-stop-writing-to-stapl-file]
+file=isehelp/pim_p_stopwriting_boundaryscan_files.htm
+title=Stop Writing to Boundary-Scan Files [iMPACT]
+type=xilhelp
+
+[topic impact-create-xsvf-file]
+file=isehelp/pim_p_creating_boundaryscan_with_cable_and_board.htm
+title=Creating Boundary-Scan Files with Cable and Board Connection [iMPACT]
+type=xilhelp
+
+[topic impact-append-to-xsvf-file]
+file=isehelp/pim_p_creating_boundaryscan_with_cable_and_board.htm
+title=Creating Boundary-Scan Files with Cable and Board Connection
+type=xilhelp
+
+[topic impact-stop-writing-to-xsvf-file]
+file=isehelp/pim_p_stopwriting_boundaryscan_files.htm
+title=Stop Writing to Boundary-Scan Files [iMPACT]
+type=xilhelp
+
+[topic impact-enable-disable-debug-chain]
+file=isehelp/pim_p_enabling_disabling_debugchain.htm
+title=Enabling and Disabling the Debug Chain
+type=xilhelp
+
+[topic impact-chain-integrity-test]
+file=isehelp/pim_p_chain_integritytest.htm
+title=Chain Integrity Test
+type=xilhelp
+
+[topic impact-idcode-test]
+file=isehelp/pim_p_idcodetest.htm
+title=IDCODE Test
+type=xilhelp
+
+[topic impact-read-device-status]
+file=isehelp/pim_p_reading_statusreg.htm
+title=Reading the Device Status
+type=xilhelp
+
+[topic impact-commsetupdlg]
+file=isehelp/pim_db_commsetupdlg.htm
+title=Cable Communication Setup Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-definedevicedlg]
+file=isehelp/pim_db_definedevicedlg.htm
+title=Define Device Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-idcodeloopdlg]
+file=isehelp/pim_db_idcodeloop.htm
+title=Number of IDCODE Iterations Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-selectdevicepartnamedlg]
+file=isehelp/pim_db_partdlg.htm
+title=Select Device Part Name Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-programxplauesdlg]
+file=isehelp/pim_db_proguesdlg.htm
+title=Program XPLA User Electronic Signature Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-impactprefconfigurationpreferencespage]
+file=isehelp/pim_db_configuration_preferences.htm
+title=Configuration Preferences
+type=xilhelp
+
+[topic impact-impactpreffilepreferencespage]
+file=isehelp/pim_db_file_generation_preferences.htm
+title=File Generation Preferences
+type=xilhelp
+
+[topic impact-impactprefprojpreferencespage]
+file=isehelp/pim_db_project_settings_controls.htm
+title=Project Settings Controls
+type=xilhelp
+
+[topic impact-impactprefgeneralpreferencespage]
+file=isehelp/pim_db_general_options.htm
+title=General Options
+type=xilhelp
+
+[topic edit-preferences-dialog-software-updates-page]
+file=isehelp/pim_db_software_update_options.htm
+title=Software Update Options [iMPACT]
+type=xilhelp
+
+[topic impact-impactprogprogrammingpropertiespage]
+file=isehelp/pim_db_programming_properties.htm
+title=Device Programming Properties Dialog
+type=xilhelp
+
+[topic impact-impactprogerasepropertiespage]
+file=isehelp/pim_db_eraseoptions.htm
+title=Erase Properties Dialog
+type=xilhelp
+
+[topic impact-impactprefwebtalkpreferencespage]
+file=isehelp/pim_db_webtalk_preferences.htm
+title=WebTalk Preferences
+type=xilhelp
+
+[topic edit-preferences-dialog-proxy-settings-page]
+file=isehelp/pim_db_proxy_setting_options.htm
+title=Proxy Setting Options [iMPACT]
+type=xilhelp
+
+[topic impact-edit-cut]
+file=isehelp/pim_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste
+type=xilhelp
+
+[topic impact-edit-copy]
+file=isehelp/pim_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste
+type=xilhelp
+
+[topic impact-edit-paste]
+file=isehelp/pim_c_using_cut_copy_paste.htm
+title=Using Cut, Copy and Paste
+type=xilhelp
+
+[topic file-print]
+file=isehelp/pim_p_printing_a_file.htm
+title=Printing a File
+type=xilhelp
+
+[topic impact-edit-delete]
+file=isehelp/pim_p_deleting.htm
+title=Deleting a Device
+type=xilhelp
+
+[topic view-refresh]
+file=isehelp/pim_p_refreshing_main_window.htm
+title=Refreshing the Main Window [iMPACT]
+type=xilhelp
+
+[topic edit-preferences]
+file=isehelp/pim_p_preferences.htm
+title=Preferences Command [iMPACT]
+type=xilhelp
+
+[topic window-close]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-close-others]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-close-all]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-next]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-previous]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-maximize]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-minimize-all]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-cascade]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-tile]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic window-list]
+file=isehelp/pim_c_arranging_windows.htm
+title=Arranging Workspace Windows
+type=xilhelp
+
+[topic view-toolbar]
+file=isehelp/pim_p_showing_hiding_toolbar.htm
+title=Showing and Hiding the Toolbar
+type=xilhelp
+
+[topic view-statusbar]
+file=isehelp/pim_p_showing_hiding_statusbar.htm
+title=Showing and Hiding the Status Bar
+type=xilhelp
+
+[topic help-topics]
+file=isehelp/pim_r_using_help_menu.htm
+title=Viewing the Help Topics [iMPACT]
+type=xilhelp
+
+[topic help-software-manuals]
+file=isehelp/pim_r_using_help_menu.htm
+title=Using the Help Menu
+type=xilhelp
+
+[topic help-appnotes-home]
+file=isehelp/pim_r_using_help_menu.htm
+title=Using the Help Menu
+type=xilhelp
+
+[topic impact-webtalk-help]
+file=isehelp/pim_c_webtalk_in_impact.htm
+title=WebTalk in iMPACT
+type=xilhelp
+
+[topic help-support-home]
+file=isehelp/pim_r_using_help_menu.htm
+title=Using the Help Menu
+type=xilhelp
+
+[topic help-xilinx-home]
+file=isehelp/pim_r_using_help_menu.htm
+title=Using the Help Menu
+type=xilhelp
+
+[topic impact-configuration-debug-guide]
+file=isehelp/pim_p_displaying_config_troubleshooter.htm
+title=Displaying the Configuration Debug Guide
+type=xilhelp
+
+[topic help-xilinxupdate]
+file=isehelp/pim_p_getting_softwareupdates.htm
+title=Getting Software Updates [iMPACT]
+type=xilhelp
+
+[topic help-about]
+file=isehelp/pim_r_using_help_menu.htm.htm
+title=Getting Information About iMPACT [iMPACT]
+type=xilhelp
+
+[topic impact-edit-multibootpromproperties]
+file=isehelp/pim_p_modifying_multiboot_prom_properties.htm
+title=Modifying Multiboot PROM Properties
+type=xilhelp
+
+[topic gc-console-preference]
+file=isehelp/pim_db_console_pref_page.htm
+title=Console Properties [Project Navigator]
+type=xilhelp
+
+[topic impact-set-programming-properties]
+file=isehelp/pim_p_setting_programming_properties.htm
+title=Setting Programming Properties [iMPACT]
+type=xilhelp
+
+[topic impact-set-erase-properties]
+file=isehelp/pim_p_setting_erase_properties.htm
+title=Setting Erase Properties [iMPACT]
+type=xilhelp
+
+[topic impact-edit-settargetdevice]
+file=isehelp/pim_p_setting_target_device.htm
+title=Setting Target Device [iMPACT]
+type=xilhelp
+
+[topic impact-read-device-temperature-and-voltage]
+file=isehelp/pim_p_reading_device_temperature_voltage.htm
+title=Reading Device Temperature and Voltage [iMPACT]
+type=xilhelp
+
+[topic impact-usbsetupdlg]
+file=isehelp/pim_db_usbsetupdlg.htm
+title=Advanced USB Setup Dialog Box [iMPACT]
+type=xilhelp
+
+[topic impact-pffstepsdlg]
+file=isehelp/pim_p_creating_prom_files.htm
+title=Creating PROM Files [iMPACT]
+type=xilhelp

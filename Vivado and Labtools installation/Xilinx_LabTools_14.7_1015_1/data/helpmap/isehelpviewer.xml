@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HelpViewerConfig name="ISE Help">
+ <TopLevelDir name="isehelp"> This is the top level directory from rtf/usenglish/ Contents Index and other files are specified relative to this directory</TopLevelDir>
+ <ContentFile name="htmlhelp.hhc"> contents file </ContentFile>
+ <IndexFile name="htmlhelp.hhk" > index file </IndexFile>
+ <SearchDictionary name="isehelp.dat" > search dictionary file  </SearchDictionary>
+ <FirstPage name="ise_c_overview.htm" > first page to open </FirstPage>
+</HelpViewerConfig>

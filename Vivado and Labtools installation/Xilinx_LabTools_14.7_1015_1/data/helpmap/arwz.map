@@ -1,0 +1,347 @@
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+
+//Clocking Wizard - Pre Virtex 4
+
+[awz_dcmgen topic_not_found]
+file=wizards/arwz/awz_db_dcmgen.htm
+title=Clocking Wizard - General Setup
+type=xilhelp
+
+[awz_dcmadv topic_not_found]
+file=wizards/arwz/awz_db_dcmadv.htm
+title=Clocking Wizard - Advanced
+type=xilhelp
+
+[awz_dcmclkbuf topic_not_found]
+file=wizards/arwz/awz_db_dcmclkbuf.htm
+title=Clocking Wizard - Clock Buffers
+type=xilhelp
+
+[awz_dcmeditbuf topic_not_found]
+file=wizards/arwz/awz_db_dcmviewbuf.htm
+title=Clocking Wizard - View/Edit Buffer
+type=xilhelp
+
+[awz_dcmclkfreq topic_not_found]
+file=wizards/arwz/awz_db_dcmclkfreq.htm
+title=Clocking Wizard - Clock Frequency Synthesizer
+type=xilhelp
+
+[awz_dcmbd topic_not_found]
+file=wizards/arwz/awz_db_dcmbd.htm
+title=Clocking Wizard - Board Deskew With An Internal Deskew
+type=xilhelp
+
+[awz_dcmcf topic_not_found]
+file=wizards/arwz/awz_db_dcmcf.htm
+title=Clocking Wizard - Clocking Forwarding / Board Deskew
+type=xilhelp
+
+[awz_dcmcs topic_not_found]
+file=wizards/arwz/awz_db_dcmcs.htm
+title=Clocking Wizard - Clock Switching With Two DCMs
+type=xilhelp
+
+[awz_dcmca topic_not_found]
+file=wizards/arwz/awz_db_dcmca.htm
+title=Clocking Wizard - Cascading In Series With Two DCMs
+type=xilhelp
+
+//Clocking Wizard - Virtex 4
+
+[awz_dcmgen virtex4]
+file=wizards/arwz/awz_db_dcmgen_virtex4.htm
+title=Clocking Wizard - General Setup
+type=xilhelp
+
+[awz_dcmadv virtex4]
+file=wizards/arwz/awz_db_dcmadv_virtex4.htm
+title=Clocking Wizard - Advanced
+type=xilhelp
+
+[awz_dcmclkbuf virtex4]
+file=wizards/arwz/awz_db_dcmclkbuf_virtex4.htm
+title=Clocking Wizard - Clock Buffers
+type=xilhelp
+
+[awz_dcmeditbuf virtex4]
+file=wizards/arwz/awz_db_dcmviewbuf_virtex4.htm
+title=Clocking Wizard - View/Edit Buffer
+type=xilhelp
+
+[awz_dcmpmcd virtex4]
+file=wizards/arwz/awz_db_dcmpmcd.htm
+title=Clocking Wizard - Phase-Matched Clock Divider
+type=xilhelp
+
+[awz_dcmbd virtex4]
+file=wizards/arwz/awz_db_dcmbd_virtex4.htm
+title=Clocking Wizard - Board Deskew With An Internal Deskew
+type=xilhelp
+
+[awz_dcmcf virtex4]
+file=wizards/arwz/awz_db_dcmcf_virtex4.htm
+title=Clocking Wizard - Clocking Forwarding / Board Deskew
+type=xilhelp
+
+//Clocking Wizard - Virtex 5
+
+[awz_pll2dcm virtex5]
+file=wizards/arwz/awz_db_pll2dcm.htm
+
+[awz_dcm2pll virtex5]
+file=wizards/arwz/awz_db_dcm2pll.htm
+
+[awz_pll2dcm virtex5]
+file=wizards/arwz/awz_db_pll2dcm.htm
+title=Clocking Wizard - (PLL2DCM) Filter DCM Input Clock Dialog [Architecture Wizard]
+type=xilhelp
+
+[awz_dcmgen virtex5]
+file=wizards/arwz/awz_db_dcmgen_virtex4.htm
+title=Clocking Wizard - General Setup
+type=xilhelp
+
+[awz_dcmadv virtex5]
+file=wizards/arwz/awz_db_dcmadv_virtex4.htm
+title=Clocking Wizard - Advanced
+type=xilhelp
+
+[awz_dcmpmcd virtex5]
+file=wizards/arwz/awz_db_dcmpmcd_virtex5.htm
+title=Clocking Wizard - Phase-Matched Clock Divider
+type=xilhelp
+
+[awz_dcmclkbuf virtex5]
+file=wizards/arwz/awz_db_dcmclkbuf_virtex5.htm
+title=Clocking Wizard - Clock Buffers
+type=xilhelp
+
+[awz_dcmpllclkbuf virtex5]
+file=wizards/arwz/awz_db_dcmpllclkbuf_virtex5.htm
+title=Clocking Wizard - Clock Buffers
+type=xilhelp
+
+[awz_dcmeditbuf virtex5]
+file=wizards/arwz/awz_db_dcmviewbuf_virtex5.htm
+title=Clocking Wizard - View/Edit Buffer
+type=xilhelp
+
+[awz_dcmclkfreq virtex5]
+file=wizards/arwz/awz_db_dcmclkfreq.htm
+title=Clocking Wizard - Clock Frequency Synthesizer
+type=xilhelp
+
+[awz_dcmpllgen virtex5]
+file=wizards/arwz/awz_db_dcmpllgen_virtex5.htm
+title=Clocking Wizard - PLL General Setup
+type=xilhelp
+
+[awz_plladv virtex5]
+file=wizards/arwz/awz_db_dcmplladv_virtex5.htm
+title=Clocking Wizard - Advanced
+type=xilhelp
+
+[awz_dcmpllclkset virtex5]
+file=wizards/arwz/awz_db_dcmpllclkset_virtex5.htm
+title=Clocking Wizard - PLL Output Clock Settings
+type=xilhelp
+
+[awz_dcmpllphaseimage virtex5]
+file=wizards/arwz/awz_db_dcmpllphaseimage_virtex5.htm
+title=Clocking Wizard - Phase Example
+type=xilhelp
+
+[awz_dcmcf virtex5]
+file=wizards/arwz/awz_db_dcmcf_virtex4.htm
+title=Clocking Wizard - Clocking Forwarding / Board Deskew
+type=xilhelp
+
+[awz_dcmbd virtex5]
+file=wizards/arwz/awz_db_dcmbd_virtex4.htm
+title=Clocking Wizard - Board Deskew With An Internal Deskew
+type=xilhelp
+
+//XtremeDSP Wizard - virtex 4
+
+[awz_dspd1 topic_not_found]
+file=wizards/arwz/awz_db_dspd1.htm
+title=XtremeDSP Slice Wizard - Input/Output Data Setup
+type=xilhelp
+
+[awz_dspd2 topic_not_found]
+file=wizards/arwz/awz_db_dspd2.htm
+title=XtremeDSP Slice Wizard - Operation Mode Setup
+type=xilhelp
+
+[awz_dspd3 topic_not_found]
+file=wizards/arwz/awz_db_dspd3.htm
+title=XtremeDSP Slice Wizard - Pipelining and CE/RST Setup
+type=xilhelp
+
+//XtremeDSP Wizard - virtex 5
+
+[awz_dspd1 virtex5]
+file=wizards/arwz/awz_db_dspd1.htm
+title=XtremeDSP Slice Wizard - Input/Output Data Setup
+type=xilhelp
+
+[awz_dspd2 virtex5]
+file=wizards/arwz/awz_db_dspd2_virtex5.htm
+title=XtremeDSP Slice Wizard - Operation Mode Setup
+type=xilhelp
+
+[awz_dspd3 virtex5]
+file=wizards/arwz/awz_db_dspd3_virtex5.htm
+title=XtremeDSP Slice Wizard - Pipelining and CE/RST Setup
+type=xilhelp
+
+//RocketIO Wizard
+
+[awz_mgtclkcor topic_not_found]
+file=wizards/arwz/awz_db_mgtclkcor.htm
+title=RocketIO Wizard - Receiver Clock Correction Setup
+type=xilhelp
+
+[awz_mgtclkcor virtex4]
+file=wizards/arwz/awz_db_mgtclkcor_virtex4.htm
+title=RocketIO Wizard - Receiver Clock Correction Setup
+type=xilhelp
+
+[awz_mgtintro topic_not_found]
+file=wizards/arwz/awz_db_mgtintro.htm
+title=RocketIO Wizard - General Setup
+type=xilhelp
+
+[awz_mgtintro virtex4]
+file=wizards/arwz/awz_db_mgtintro_virtex4.htm
+title=RocketIO Wizard - General Setup
+type=xilhelp
+
+[awz_mgtrx1 topic_not_found]
+file=wizards/arwz/awz_db_mgtrx1.htm
+title=RocketIO Wizard - Receiver Comma Detect Setup
+type=xilhelp
+
+[awz_mgtrx1 virtex4]
+file=wizards/arwz/awz_db_mgtrx1_virtex4.htm
+title=RocketIO Wizard - Receiver Comma Detect Setup
+type=xilhelp
+
+[awz_mgtrx2 topic_not_found]
+file=wizards/arwz/awz_db_mgtrx2.htm
+title=RocketIO Wizard - Receiver Setup
+type=xilhelp
+
+[awz_mgtrx2 virtex4]
+file=wizards/arwz/awz_db_mgtrx2_virtex4.htm
+title=RocketIO Wizard - Receiver Setup
+type=xilhelp
+
+[awz_mgtrx3 topic_not_found]
+file=wizards/arwz/awz_db_mgtrx3.htm
+title=RocketIO Wizard - Receiver Channel Bonding Setup
+type=xilhelp
+
+[awz_mgtrx3 virtex4]
+file=wizards/arwz/awz_db_mgtrx3_virtex4.htm
+title=RocketIO Wizard - Receiver Channel Bonding Setup
+type=xilhelp
+
+[awz_mgttx topic_not_found]
+file=wizards/arwz/awz_db_mgttx.htm
+title=RocketIO Wizard - Transmitter Setup
+type=xilhelp
+
+[awz_mgttx virtex4]
+file=wizards/arwz/awz_db_mgttx_virtex4.htm
+title=RocketIO Wizard - Transmitter Setup
+type=xilhelp
+
+//ChipSync Wizard - Virtex 4
+
+[awz_ssioA topic_not_found]
+file=wizards/arwz/awz_db_csgen.htm
+title=ChipSync Wizard - General Setup
+type=xilhelp
+
+[awz_ssio1 topic_not_found]
+file=wizards/arwz/awz_db_csdataset.htm
+title=ChipSync Wizard - Data Setup
+type=xilhelp
+
+[awz_ssio2 topic_not_found]
+file=wizards/arwz/awz_db_csclksetup.htm
+title=ChipSync Wizard - Clock Setup
+type=xilhelp
+
+[awz_ssio3 topic_not_found]
+file=wizards/arwz/awz_db_csclktable.htm
+title=ChipSync Wizard - Clock Table
+type=xilhelp
+
+[awz_ssio4 topic_not_found]
+file=wizards/arwz/awz_db_csdatatable.htm
+title=ChipSync Wizard - Data Table
+type=xilhelp
+
+[awz_ssioB topic_not_found]
+file=wizards/arwz/awz_db_csdatabits.htm
+title=ChipSync Wizard - Data Bit Table
+type=xilhelp
+
+[awz_ssio5 topic_not_found]
+file=wizards/arwz/awz_db_csaddrbus.htm
+title=ChipSync Wizard - Address Setup
+type=xilhelp
+
+[awz_ssio7 topic_not_found]
+file=wizards/arwz/awz_db_csrefclks.htm
+title=ChipSync Wizard - Reference Clocks
+type=xilhelp
+
+//ChipSync Wizard - Virtex 5
+
+[awz_ssioA virtex5]
+file=wizards/arwz/awz_db_csgen_virtex5.htm
+title=ChipSync Wizard - General Setup
+type=xilhelp
+
+[awz_ssio1 virtex5]
+file=wizards/arwz/awz_db_csdataset_virtex5.htm
+title=ChipSync Wizard - Data Setup
+type=xilhelp
+
+[awz_ssio2 virtex5]
+file=wizards/arwz/awz_db_csclksetup.htm
+title=ChipSync Wizard - Clock Setup
+type=xilhelp
+
+[awz_ssio3 virtex5]
+file=wizards/arwz/awz_db_csclktable_virtex5.htm
+title=ChipSync Wizard - Clock Table
+type=xilhelp
+
+[awz_ssio4 virtex5]
+file=wizards/arwz/awz_db_csdatatable_virtex5.htm
+title=ChipSync Wizard - Data Table
+type=xilhelp
+
+[awz_ssioB virtex5]
+file=wizards/arwz/awz_db_csdatabits_virtex5.htm
+title=ChipSync Wizard - Data Bit Table
+type=xilhelp
+
+[awz_ssio5 virtex5]
+file=wizards/arwz/awz_db_csaddrbus.htm
+title=ChipSync Wizard - Address Setup
+type=xilhelp
+
+[awz_ssio7 virtex5]
+file=wizards/arwz/awz_db_csrefclks.htm
+title=ChipSync Wizard - Reference Clocks
+type=xilhelp
+

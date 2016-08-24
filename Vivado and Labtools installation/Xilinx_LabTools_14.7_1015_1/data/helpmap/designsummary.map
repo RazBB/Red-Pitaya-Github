@@ -1,0 +1,200 @@
+//Entries automatically added to help map file.
+
+[topic_not_found]
+file=isehelp/dsm_c_view_design_summary.htm.htm
+title=
+type=xilhelp
+
+[topic contents]
+file=isehelp/dsm_c_view_design_summary.htm.htm
+title=
+type=xilhelp
+
+[topic topic_not_found]
+file=isehelp/dsm_c_view_design_summary.htm.htm
+title=
+type=xilhelp
+
+#include misc.map
+
+//Start of entries taken from mapsource.dat.
+
+//General
+
+[topic design_summary]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+
+[topic msgfilter]
+file=isehelp/dsm_p_using_message_filters.htm
+
+//File Menu for XReport
+
+[topic rv-file-new-project]
+file=isehelp/dsm_p_using_message_filters_commandline.htm
+
+
+// Edit menu
+
+
+[topic pn-edit-message-filters]
+file=isehelp/dsm_p_editing_message_filters.htm
+
+// Help menu
+
+[topic help-topics]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+
+//Project menu
+
+[topic gq-design-summary]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+
+
+//Dialog Boxes
+
+[topic create_tags_dialog]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic tag_message_dialog]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic delete_tags_dialog]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic configure_report_dialog]
+file=isehelp/dsm_db_configure_reports.htm
+
+
+[topic project_reports_dialog]
+file=isehelp/dsm_p_showing_hiding_messages_reports.htm
+
+
+[topic report_definition_dialog]
+file=isehelp/dsm_p_defining_location_messages_reports.htm
+
+
+[topic filter_dialog]
+file=isehelp/dsm_db_msg_filters_dialog.htm
+
+
+
+
+//Toolbar Buttons
+
+[topic ds-return-to-summary]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+[topic gc-rv-browser-back]
+file=isehelp/dsm_c_open_nav_design_summary.htm
+
+[topic gc-rv-browser-forward]
+file=isehelp/dsm_c_open_nav_design_summary.htm
+
+[topic ds-reload]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+[topic ds-view-report-as-html]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+[topic ds-show-hide-reports]
+file=isehelp/dsm_p_showing_hiding_messages_reports.htm
+
+
+
+
+
+
+//Right-Click Menus
+
+[topic gc-rv-view-solution-record]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-view-sort-by-time]
+file=isehelp/dsm_db_configure_reports.htm
+
+
+[topic gc-rv-filter-by-prefix]
+file=isehelp/dsm_p_using_message_filters.htm
+
+
+[topic gc-rv-filter-by-text]
+file=isehelp/dsm_p_using_message_filters.htm
+
+
+[topic gc-rv-filter-edit]
+file=isehelp/dsm_p_editing_message_filters.htm
+
+
+[topic gc-rv-highlight-by-prefix]
+file=isehelp/dsm_p_highlighting_messages.htm
+
+
+[topic gc-rv-highlight-by-text]
+file=isehelp/dsm_p_highlighting_messages.htm
+
+
+[topic gc-rv-tag-by-prefix]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic gc-rv-tag-by-text]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic gc-rv-tag-create]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic gc-rv-tag-delete]
+file=isehelp/dsm_c_tagging_messages.htm
+
+
+[topic gc-rv-view-reload]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+
+[topic gc-rv-view-report-as-html]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-configure-report]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-close-report]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-open-report-link]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-open-report-link-new-tab]
+file=isehelp/dsm_p_viewing_messages_reports.htm
+
+
+[topic gc-rv-edit-definition]
+file=isehelp/dsm_p_defining_location_messages_reports.htm
+
+
+[topic gc-rv-show-hide-reports]
+file=isehelp/dsm_p_showing_hiding_messages_reports.htm
+
+
+[topic gc-rv-reset-report-list]
+file=isehelp/dsm_p_showing_hiding_messages_reports.htm
+
+
+[topic gc-rv-show-constraint-timing-analyzer]
+file=isehelp/dsm_c_design_summary_overview.htm
+
+
+
+

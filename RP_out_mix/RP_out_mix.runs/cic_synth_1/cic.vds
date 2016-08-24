@@ -1,0 +1,586 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed Aug 17 16:20:48 2016
+# Process ID: 8012
+# Current directory: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/cic_synth_1
+# Command line: vivado.exe -log cic.vds -mode batch -messageDb vivado.pb -notrace -source cic.tcl
+# Log file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/cic_synth_1/cic.vds
+# Journal file: C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/cic_synth_1\vivado.jou
+#-----------------------------------------------------------
+source cic.tcl -notrace
+Command: synth_design -top cic -part xc7z010clg400-1 -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 4112 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:23 ; elapsed = 00:00:30 . Memory (MB): peak = 294.410 ; gain = 86.840
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'cic' [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/synth/cic.vhd:70]
+INFO: [Synth 8-3491] module 'cic_compiler_v4_0_10' declared at 'c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/cic_compiler_v4_0_10/hdl/cic_compiler_v4_0.vhd:55' bound to instance 'U0' of component 'cic_compiler_v4_0_10' [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/synth/cic.vhd:149]
+INFO: [Synth 8-256] done synthesizing module 'cic' (11#1) [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/synth/cic.vhd:70]
+WARNING: [Synth 8-3331] design delay has unconnected port WE
+WARNING: [Synth 8-3331] design delay has unconnected port CE
+WARNING: [Synth 8-3331] design delay has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay has unconnected port CLK
+WARNING: [Synth 8-3331] design delay__parameterized157 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized157 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized157 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized157 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay_bit has unconnected port WE
+WARNING: [Synth 8-3331] design delay_bit has unconnected port CE
+WARNING: [Synth 8-3331] design delay_bit has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay_bit has unconnected port CLK
+WARNING: [Synth 8-3331] design delay__parameterized155 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized155 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized155 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized155 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay__parameterized153 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized153 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized153 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized153 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay__parameterized151 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized151 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized151 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized151 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay_bit__parameterized53 has unconnected port WE
+WARNING: [Synth 8-3331] design delay_bit__parameterized53 has unconnected port CE
+WARNING: [Synth 8-3331] design delay_bit__parameterized53 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay_bit__parameterized53 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay__parameterized147 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized147 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized147 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized147 has unconnected port CLK
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[29]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[28]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[27]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[26]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[25]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[24]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[23]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[22]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[21]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[20]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[19]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[18]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[17]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[16]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[15]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[14]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[13]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[12]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[11]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[10]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[9]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[8]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[7]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[6]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[5]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[4]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[3]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[2]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[1]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port AC[0]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PAT_DET
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PAT_DET_B
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[20]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[19]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[18]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[17]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[16]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[15]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[14]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[13]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[12]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[11]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[10]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[9]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[8]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[7]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[6]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[5]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[4]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[3]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[2]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[1]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PCIN[0]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PRE_ADDSUB
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port PRE_ADD_BYPASS
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port CIN_SEL[2]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port CIN_SEL[1]
+WARNING: [Synth 8-3331] design emb_calc__parameterized5 has unconnected port CARRYCASCIN
+WARNING: [Synth 8-3331] design delay__parameterized139 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized135 has unconnected port WE
+WARNING: [Synth 8-3331] design delay__parameterized135 has unconnected port CE
+WARNING: [Synth 8-3331] design delay__parameterized135 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized135 has unconnected port CLK
+WARNING: [Synth 8-3331] design delay_bit__parameterized59 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay_bit__parameterized58 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay_bit__parameterized57 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay__parameterized133 has unconnected port SCLR
+WARNING: [Synth 8-3331] design delay_bit__parameterized49 has unconnected port WE
+INFO: [Common 17-14] Message 'Synth 8-3331' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:45 ; elapsed = 00:00:52 . Memory (MB): peak = 356.691 ; gain = 149.121
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:47 ; elapsed = 00:00:54 . Memory (MB): peak = 356.691 ; gain = 149.121
+---------------------------------------------------------------------------------
+INFO: [Netlist 29-17] Analyzing 941 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 1 CPU seconds
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/cic_ooc.xdc] for cell 'U0'
+Finished Parsing XDC File [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/cic_ooc.xdc] for cell 'U0'
+Parsing XDC File [C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/cic_synth_1/dont_touch.xdc]
+Finished Parsing XDC File [C:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.runs/cic_synth_1/dont_touch.xdc]
+Completed Processing XDC Constraints
+
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 625 instances were transformed.
+  FDRSE => FDRSE (FDRE, LUT4, VCC): 316 instances
+  MUXCY_L => MUXCY: 309 instances
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.266 . Memory (MB): peak = 645.773 ; gain = 0.844
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:01:27 ; elapsed = 00:01:36 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7z010clg400-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:01:27 ; elapsed = 00:01:36 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+Applied set_property DONT_TOUCH = true for U0. (constraint file  auto generated constraint, line ).
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:01:27 ; elapsed = 00:01:36 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5546] ROM "rate_cnt_max" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "op_rate_max" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "comb_px_cnt_max" won't be mapped to RAM because it is too sparse
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:01:37 ; elapsed = 00:01:49 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 80 (col length:40)
+BRAMs: 120 (col length: RAMB18 40 RAMB36 20)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+Start Parallel Synthesis Optimization  : Time (s): cpu = 00:01:38 ; elapsed = 00:01:49 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Start Cross Boundary Optimization
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5546] ROM "rate_cnt_max" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "op_rate_max" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "comb_px_cnt_max" won't be mapped to RAM because it is too sparse
+---------------------------------------------------------------------------------
+Finished Cross Boundary Optimization : Time (s): cpu = 00:01:39 ; elapsed = 00:01:50 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Finished Parallel Reinference  : Time (s): cpu = 00:01:39 ; elapsed = 00:01:50 . Memory (MB): peak = 645.773 ; gain = 438.203
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Area Optimization
+---------------------------------------------------------------------------------
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]' (FDSE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]' (FDSE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[9]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[10]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[10]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[11]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[11]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[12]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[12]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[13]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[13]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[14]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[14]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[15]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[15]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[16]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[16]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[17]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[17]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[18]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[18]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[19]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[19]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[20]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[20]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[21]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[21]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[22]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[22]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[23]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[23]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[24]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[24]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[25]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[25]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[26]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[26]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[27]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[27]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[28]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[28]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[29]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[29]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[30]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[30]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[31]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[31]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[32]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[32]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[33]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[33]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[34]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[34]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[35]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[35]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[36]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[36]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[37]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[37]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[38]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[38]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[39]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[39]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[40]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[40]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[41]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[41]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[42]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[42]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[43]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[43]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[44]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[44]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[45]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[45]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[46]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[46]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[47]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[47]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[48]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[48]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[49]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[49]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[50]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[50]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[51]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[51]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[52]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[52]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[53]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[53]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[54]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[54]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[55]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[55]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[56]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[56]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[57]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[57]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[58]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[58]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[59]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[59]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[60]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[60]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[61]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[61]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[62]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[62]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[63]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[63]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[64]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[64]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[65]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[65]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[66]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[66]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[67]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[67]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[68]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[68]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[69]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[69]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[70]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[70]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[71]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]' (FDSE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]' (FDSE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]' (FDSE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg' (FDRE) to 'U0/i_synth/decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[0]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[1]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[1]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[2]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[2]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[3]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[3]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[4]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[4]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[5]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[5]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[6]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[6]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[7]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[7]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[8]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[8]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[9]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[9]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[10]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[10]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[11]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[11]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[12]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[12]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[13]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[13]'
+INFO: [Synth 8-3886] merging instance 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_comb_mem_src.gen_d_dly/gen_reg.d_reg_reg[14]' (FDRE) to 'U0/i_synth/decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[14]'
+INFO: [Common 17-14] Message 'Synth 8-3886' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (U0/i_synth/\decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (U0/i_synth/\decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (U0/i_synth/\decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[1] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (U0/i_synth/\decimator.decimation_filter/comb/gen_stages[0].gen_folded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg )
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[70]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[69]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[68]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[67]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[66]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[65]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[64]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[63]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[62]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[61]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[60]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[59]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[58]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[57]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[56]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[55]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[54]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[53]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[52]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[51]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[50]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[49]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[48]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[47]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[46]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[45]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[44]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[43]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[42]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[41]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[40]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[39]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[38]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[37]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[36]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[35]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[34]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[33]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[32]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[31]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[30]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[29]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[28]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[27]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[26]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[25]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[24]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[23]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[22]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[21]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[20]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[19]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[18]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[17]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[16]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[15]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[14]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[13]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[12]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[11]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[10]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin/gen_reg.d_reg_reg[9]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.gen_sum/gen_structural.gen_no_dsp48.gen_cin_reg/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[2].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[3].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[4].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[1]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_en_out_dly/gen_rtl.gen_dly.gen_pipe.delay_bus_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_mem_we/gen_rtl.gen_reg.d_reg_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[2]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.addsub_reg) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[5].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[0].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Synth 8-3332] Sequential element (decimator.decimation_filter/int/gen_stages[1].gen_unfolded.int_comb_stage/gen_split_accum[0].gen_sum_struct.opcode_reg[0]) is unused and will be removed from module cic_compiler_v4_0_10_viv.
+INFO: [Common 17-14] Message 'Synth 8-3332' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+---------------------------------------------------------------------------------
+Finished Area Optimization : Time (s): cpu = 00:01:43 ; elapsed = 00:01:55 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Finished Parallel Area Optimization  : Time (s): cpu = 00:01:43 ; elapsed = 00:01:55 . Memory (MB): peak = 645.773 ; gain = 438.203
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:02:05 ; elapsed = 00:02:20 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:02:07 ; elapsed = 00:02:22 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:02:09 ; elapsed = 00:02:24 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Finished Parallel Technology Mapping Optimization  : Time (s): cpu = 00:02:09 ; elapsed = 00:02:24 . Memory (MB): peak = 645.773 ; gain = 438.203
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+Finished Parallel Synthesis Optimization  : Time (s): cpu = 00:02:09 ; elapsed = 00:02:24 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:02:10 ; elapsed = 00:02:25 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:02:10 ; elapsed = 00:02:25 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+--------+------+
+|      |Cell    |Count |
++------+--------+------+
+|1     |LUT1    |    36|
+|2     |LUT2    |   232|
+|3     |LUT3    |    28|
+|4     |LUT4    |    26|
+|5     |LUT5    |   293|
+|6     |LUT6    |    32|
+|7     |MUXCY_L |   309|
+|8     |SRL16E  |    43|
+|9     |XORCY   |   309|
+|10    |FDRE    |   656|
+|11    |FDSE    |     1|
++------+--------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 24 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:57 ; elapsed = 00:01:43 . Memory (MB): peak = 645.773 ; gain = 145.824
+Synthesis Optimization Complete : Time (s): cpu = 00:02:11 ; elapsed = 00:02:26 . Memory (MB): peak = 645.773 ; gain = 438.203
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 618 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/cic_ooc.xdc] for cell 'U0'
+Finished Parsing XDC File [c:/Users/RazBB/Desktop/RP_FPGA/RP_out_mix/RP_out_mix.srcs/sources_1/ip/cic/cic_ooc.xdc] for cell 'U0'
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 82 instances were transformed.
+  (MUXCY,XORCY) => CARRY4: 82 instances
+
+INFO: [Common 17-83] Releasing license: Synthesis
+229 Infos, 100 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:02:08 ; elapsed = 00:02:18 . Memory (MB): peak = 645.773 ; gain = 434.906
+INFO: [Coretcl 2-1174] Renamed 44 cell refs.
+report_utilization: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.059 . Memory (MB): peak = 645.773 ; gain = 0.000
+INFO: [Common 17-206] Exiting Vivado at Wed Aug 17 16:23:25 2016...

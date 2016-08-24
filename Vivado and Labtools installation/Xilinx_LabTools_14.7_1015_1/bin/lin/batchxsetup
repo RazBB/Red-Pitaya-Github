@@ -1,0 +1,21 @@
+#!/bin/bash
+#
+# COPYRIGHT NOTICE
+# Copyright 1995-2012 Xilinx, Inc. All Rights Reserved.
+#
+
+XLNX_DIR_NAME=$(cd `dirname $0` && pwd)
+
+XLNX_LIB_PATH=${XLNX_DIR_NAME}
+XLNX_LIB_PATH=`dirname ${XLNX_LIB_PATH}`
+XLNX_LIB_PATH=`dirname ${XLNX_LIB_PATH}`
+
+XLNX_LIB_PATH=${XLNX_LIB_PATH}/lib/lin
+
+if [ -n ${LD_LIBRARY_PATH} ]; then
+	export LD_LIBRARY_PATH=.:${XLNX_LIB_PATH}:${LD_LIBRARY_PATH}
+else
+	export LD_LIBRARY_PATH=.:${XLNX_LIB_PATH}
+fi
+
+${XLNX_DIR_NAME}/_batchxsetup "$@"

@@ -1,0 +1,509 @@
+/*body {margin: 0; font-size: 12px; font-family: Arial, Geneva, Verdana, Helvetica;}*/
+body {margin: 0; font-size: .75em; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; background: #CCC url(./images/body_bg.jpg) repeat-y;}
+#main-body {vertical-align: top; width: 600px; margin: 0; padding: 0 0 20px 8px; background: #FFFFFF;}
+
+
+#BODY {
+#	FONT-SIZE: 12px; BACKGROUND: url(./images/body_bg.jpg) #CCCCCC repeat-y; MARGIN: 0px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; text: #000000; link: #0000EE; alink: #551A8B; vlink: #551A8B
+# }
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica 
+}
+UL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+OL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.RF-LI {
+	LIST-STYLE-IMAGE: url(./images/home_arrowV2005.gif)
+}
+.HP-LI {
+	LIST-STYLE-IMAGE: url(./images/home_arrowV2005.gif)
+}
+.HP-UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 6px
+}
+.RF-UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 6px
+}
+PRE {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+TABLE {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+TABLE-HEADER {
+	BACKGROUND-COLOR: #98c7b4
+}
+TABLE-FOOTER {
+	BACKGROUND-COLOR: #98c7b4
+}
+A:hover {
+	COLOR: #0000ee; TEXT-DECORATION: underline
+}
+A.TERTIARY-NAVIGATION-TEXT {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+A.TERTIARY-NAVIGATION-LINK {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+A.TERTIARY-NAVIGATION-TEXT-RIGHT {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+A.TERTIARY-NAVIGATION-TEXT-CENTER {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+A.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #eaeaea
+}
+A.TERTIARY-NAVIGATION-LINK-HIGHLIGHT {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+A.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-RIGHT {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+A.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-CENTER {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+TD.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.TERTIARY-NAVIGATION-LINK-HIGHLIGHT {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-RIGHT {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-CENTER {
+	BACKGROUND-COLOR: #ffffff
+}
+.BREADCRUMB {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.BREADCRUMB-LINK {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.BREADCRUMBS-TEXT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.BUTTON-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.CONTEXTUAL-NAVIGATION {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.COUNTRY-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.DOCUMENTATION-TEXT {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.DOCUMENTATION-LINK {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.DOCUMENTATION-CATEGORY {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.DOCUMENTATION-SUBCATEGORY {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.ERROR-MSG-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.FAQ-LINK {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.FAQ-QUESTION {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.FAQ-ANSWER {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.FOOTER-TEXT {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.FOOTER-BAR-LINKS {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.GLOBAL-NAV-BG {
+	BACKGROUND: url(./images/GlobalNavBGV2005.gif)
+}
+.GLOBAL-NAV {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 10pt; MARGIN-LEFT: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-DECORATION: none
+}
+.GLOBAL-NAV-HIGHLIGHT-BG {
+	BACKGROUND-COLOR: #cccccc
+}
+.GLOBAL-NAV-HIGHLIGHT {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 10pt; MARGIN-LEFT: 0px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-DECORATION: none
+}
+A.GLOBAL-NAV:hover {
+	COLOR: #cccccc
+}
+A.GLOBAL-NAV-HIGHLIGHT:hover {
+	COLOR: #0000ee
+}
+.HomeTableHeaderBG {
+	BACKGROUND: url(./images/HPHeaderBoxBG.gif)
+}
+.HomeTableHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none; link: #FFFFFF; alink: #CCCCCC; vlink: #FFFFFF
+}
+A.HomeTableHeader:hover {
+	COLOR: #cccccc
+}
+.HomeTableCellBorder {
+	BORDER-RIGHT: #990033; BORDER-TOP: #990033; BORDER-LEFT: #990033; BORDER-BOTTOM: #990033; BACKGROUND-COLOR: #cccccc
+}
+.HomeTableCell {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none; link: #000000; alink: #ff0000; vlink: #222222
+}
+.HEADING {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+A.HEADING:hover {
+	COLOR: #0000ee; TEXT-DECORATION: none
+}
+.LANGUAGE-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.LOGOUT-TEXT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: right
+}
+.MESSAGE-HEADING {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.MESSAGE-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.NEWS-LINKS {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.PROD-GLOBAL-NAV {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: center
+}
+.PROFILE-PROGRAM-HEAD {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; BACKGROUND-COLOR: #efefef
+}
+.QUESTION-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.QUESTION-TEXT-REQUIRED {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.QUESTION-DEFAULT-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.QUESTION-ADDITIONAL-TEXT {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.QUOTE-TEXT {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.QUOTE-CONTRIBUTOR-TEXT {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-STYLE: italic; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.REG-ACTION-TEXT {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.RELATED-FEATURES {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.RELATED-FEATURES-LINK {
+	LIST-STYLE: disc url(./images/rev_arrow.gif) inside; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.RELATED-FEATURES-HEADER {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.RETURN-LINK-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.SEARCH-ROW1 {
+	BACKGROUND-COLOR: #efefef
+}
+.SEARCH-ROW2 {
+	BACKGROUND-COLOR: #ffffff
+}
+.SEARCH-TABLE-HEADER {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, verdana; BACKGROUND-COLOR: #000000; TEXT-ALIGN: left
+}
+.SEARCH-SECTION-HEADER {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; VERTICAL-ALIGN: bottom; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, verdana; BACKGROUND-COLOR: #9c9c9c; TEXT-ALIGN: left
+}
+.SEARCH-SECTION-LEAD {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: top; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, verdana; BACKGROUND-COLOR: #990000; TEXT-ALIGN: center
+}
+.topTaskBar {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; BACKGROUND-COLOR: #000000; TEXT-DECORATION: none; link: #ffffff; alink: #ff0000; vlink: #dddddd
+}
+A.topTaskBar:hover {
+	COLOR: #cccccc
+}
+.SECONDARY-NAV-BG {
+	BACKGROUND-COLOR: #cccccc
+}
+.SECONDARY-NAV {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-DECORATION: none
+}
+.SECONDARY-NAV-HIGHLIGHT-BG {
+	BACKGROUND-COLOR: #cccccc
+}
+.SECONDARY-NAV-HIGHLIGHT {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; BACKGROUND-COLOR: #cccccc; TEXT-DECORATION: none
+}
+.SPOT-HEADING {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.SPOT-TEXT {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.STEP-DESCRIPTION-TEXT {
+	FONT-SIZE: 16px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.STEP-HEADING-TEXT {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.SUBHEADING {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.SUBHEADING2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; TEXT-INDENT: -1em; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.SUBHEADING-TEXT {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-LEFT: 0px; COLOR: #990000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.SUPPORT-HEADING {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.SUPPORT-TEXT {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-BACKGROUND {
+	BACKGROUND-COLOR: #cccccc
+}
+.TERTIARY-NAVIGATION-TEXT {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-LINK {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-LINK-HIGHLIGHT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #810017; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-LINK-HIGHLIGHT-TOPIC {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-RIGHT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: right; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-RIGHT {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: right; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-CENTER {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-CENTER {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: center
+}
+.TERTIARY-NAVIGATION {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-LINK {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-LINK-HIGHLIGHT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #810017; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TERTIARY-NAVIGATION-TEXT-HIGHLIGHT-TOPIC {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #990033; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.TopicTableHeaderText {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none
+}
+A.TopicTableHeaderText:hover {
+	COLOR: #0000ee; TEXT-DECORATION: underline
+}
+.TopicTableHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: url(/bvdocs/images/FooterBackgroundV2005.gif); COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; TEXT-DECORATION: none; link: #FFFFFF; alink: #CCCCCC; vlink: #FFFFFF
+}
+A.TopicTableHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; BACKGROUND-COLOR: #dddddd; TEXT-DECORATION: none
+}
+A.TopicTableHeader:hover {
+	COLOR: #0000ee; TEXT-DECORATION: underline
+}
+.TopicTableCell {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none; link: #000000; alink: #ff0000; vlink: #222222
+}
+.TopicTableCellBorder {
+	BORDER-RIGHT: #990033; BORDER-TOP: #990033; BORDER-LEFT: #990033; BORDER-BOTTOM: #990033; BACKGROUND-COLOR: #ffffff
+}
+.VALIDATION-ERROR-TEXT {
+	FONT-SIZE: 14px; COLOR: green
+}
+.VIEWSET-HEADING-TEXT {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.VIEWSET-TEXT {
+	FONT-SIZE: 16px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.VIEWSET-DESCRIPTION-TEXT {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica
+}
+.WHATSNEW-CATEGORY {
+	FONT-WEIGHT: bold; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.WHATSNEW-SUBCATEGORY {
+	LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.WHATSNEW-TEXT {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.WHATSNEW-DATE {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.WHATSNEW-LINK {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: inside; FONT-SIZE: 12px; MARNavGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: Arial, Geneva, Verdana, Helvetica; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+#header06 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 760px; PADDING-TOP: 0px
+}
+#header06 .headerimg-search {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(./images/xhome_homepage_header_bkgd_760.gif) #fff no-repeat 0px -2px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 760px; PADDING-TOP: 0px; HEIGHT: 79px
+}
+#header06 A:link {
+	TEXT-DECORATION: none
+}
+#header06 A:visited {
+	TEXT-DECORATION: none
+}
+#header06 A:hover {
+	TEXT-DECORATION: underline
+}
+#logolink-trnsp {
+	LEFT: 8px; WIDTH: 150px; CURSOR: hand; POSITION: relative; TOP: 25px; HEIGHT: 50px
+}
+#qlinks {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(./images/header_qlinks_bkgd.gif) no-repeat 200px 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 760px; PADDING-TOP: 0px; HEIGHT: 25px
+}
+#qlinks .link-wrapper {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-TOP: 0px
+}
+#qlinks A.link {
+	PADDING-RIGHT: 12px; DISPLAY: inline; PADDING-LEFT: 10px; BACKGROUND: url(./images/prinav-border.gif) no-repeat right 50%; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 2px
+}
+#qlinks #last {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#lang {
+	DISPLAY: inline; PADDING-LEFT: 5px; FLOAT: left; WIDTH: 300px; PADDING-TOP: 6px
+}
+#lang #langID1 {
+	BORDER-RIGHT: #69717a 1px solid; PADDING-RIGHT: 12px; FLOAT: left
+}
+#lang #langID2 {
+	BORDER-RIGHT: #69717a 1px solid; PADDING-LEFT: 12px; FLOAT: left
+}
+#lang #langID3 {
+	PADDING-LEFT: 12px; FLOAT: left
+}
+#primary-home {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1.1em; BACKGROUND: #bebebe; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1px; COLOR: #fff; PADDING-TOP: 0px; BORDER-BOTTOM: #000 1px solid
+}
+#primary-home #primary-links {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-TOP: 0px
+}
+#primary-nav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1.1em; BACKGROUND: #bebebe; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px
+}
+#primary-nav #primary-links {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-TOP: 0px
+}
+#primary-links A:link {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+#primary-links A:visited {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+#primary-links A:hover {
+	COLOR: #94002e; TEXT-DECORATION: none
+}
+#primary-links A#active {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #e1e3e4; PADDING-BOTTOM: 3px; MARGIN: 0px; COLOR: #94002e; LINE-HEIGHT: 22px; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+#secondary-nav06 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.9em; BACKGROUND: #e1e3e4; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1px; COLOR: #69717a; PADDING-TOP: 0px; BORDER-BOTTOM: #000 1px solid
+}
+#secondary-nav06 #secondary-links {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-TOP: 0px
+}
+#secondary-nav06 A {
+	BACKGROUND: url(./images/prinav-border.gif) no-repeat right 50%
+}
+#secondary-nav06 A.last {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#secondary-links A:link {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #69717a; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#secondary-links A:visited {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #69717a; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#secondary-links A:hover {
+	COLOR: #94002e; TEXT-DECORATION: none
+}
+#secondary-links A#active {
+	COLOR: #94002e; TEXT-DECORATION: none
+}
+#main-search {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 231px; PADDING-TOP: 0px; HEIGHT: 75px
+}
+#main-search .row1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 7px
+}
+#main-search .row2a {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#main-search .row2b {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 2px; MARGIN: -23px 5px 0px 0px; PADDING-TOP: 0px
+}
+#main-search .row3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#main-search A:link {
+	FONT-SIZE: 92%
+}
+#main-search .dropdown {
+	WIDTH: 136px
+}
+#footer06 {
+	PADDING-RIGHT: 0px; BORDER-TOP: #acacac 1px solid; PADDING-LEFT: 0px; BACKGROUND: #ececec; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; WIDTH: 760px; PADDING-TOP: 4px; HEIGHT: 21px
+}
+#footer06 A {
+	PADDING-RIGHT: 10px; DISPLAY: inline; PADDING-LEFT: 8px; BACKGROUND: url(./images/prinav-border.gif) no-repeat right 50%; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 2px
+}
+#footer06 A:link {
+	TEXT-DECORATION: none
+}
+#footer06 A:visited {
+	TEXT-DECORATION: none
+}
+#footer06 A:hover {
+	TEXT-DECORATION: underline
+}
+#footer06 A.last {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#footer06 .copyright {
+	DISPLAY: inline; PADDING-LEFT: 15px; MARGIN: 0px
+}
